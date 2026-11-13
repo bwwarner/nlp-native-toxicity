@@ -1,0 +1,10 @@
+Required Python Libraries for Project
+pandas
+scikit-learn
+torch
+transformers
+datasets
+gradio
+joblib
+pyarrow
+matplotlib

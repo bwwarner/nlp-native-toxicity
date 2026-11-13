@@ -226,6 +226,8 @@ data/raw
 *.safetensors
 checkpoints/
 .ipynb_checkpoints/
+artifacts/
+.venv/
 
 # ide
 *.idea

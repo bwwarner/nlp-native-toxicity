@@ -1,0 +1,2 @@
+## AI Use
+- 11/13 at 10:47AM: Have Claude make a copy-pasteable tree that reflects our outlined folder structure for this project to be added to the README. We did this because I didn't want to type out all the dashes and branches ourselves
