@@ -1,0 +1,26 @@
+{
+  "native": [
+    "Native American",
+    "Indigenous",
+    "American Indian",
+    "First Nations",
+    "Chickasaw",
+    "Navajo",
+    "Cherokee",
+    "Choctaw",
+    "Lakota",
+    "Ojibwe"
+  ],
+  "other": [
+    "Black",
+    "white",
+    "Asian",
+    "Latino",
+    "Muslim",
+    "Christian",
+    "Jewish",
+    "gay",
+    "Irish",
+    "Mexican"
+  ]
+}
