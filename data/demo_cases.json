@@ -1,0 +1,18 @@
+{
+  "_note": "Candidate demo inputs. Run python -m src.demo_cases to score them with all three models, then keep the best 5-6 for gr.Examples. kind: representative | failure | ambiguous",
+  "cases": [
+    {"kind": "representative", "text": "I am a proud Chickasaw woman.", "why": "harmless self-identification; swap Chickasaw -> Irish/Christian and compare"},
+    {"kind": "representative", "text": "My grandmother is Navajo and she taught me to make fry bread.", "why": "harmless family sentence with a specific tribe"},
+    {"kind": "representative", "text": "The Cherokee council voted on a new school.", "why": "proposal example; civic, neutral"},
+    {"kind": "representative", "text": "Indigenous students won the regional science fair.", "why": "positive news sentence"},
+    {"kind": "representative", "text": "Native American veterans were honored at the ceremony.", "why": "multi-word term; positive"},
+    {"kind": "failure", "text": "Go back to the reservation where you belong.", "why": "clearly anti-Native, but no identity word and no profanity -> likely missed"},
+    {"kind": "failure", "text": "Those Indians should have been wiped out.", "why": "genocidal statement with a term not on our list"},
+    {"kind": "failure", "text": "Nice war paint, chief. Did you lose your feathers?", "why": "stereotype-based mockery with no slur -> likely missed"},
+    {"kind": "failure", "text": "Natives are all drunks living off government handouts.", "why": "stereotype; 'Natives' plural form is not in our term list"},
+    {"kind": "ambiguous", "text": "Our marketing tribe is meeting at noon to plan the launch.", "why": "'tribe' as office slang, not identity"},
+    {"kind": "ambiguous", "text": "We made a dinner reservation for six at the Italian place.", "why": "'reservation' meaning booking"},
+    {"kind": "ambiguous", "text": "The tribe voted to build a new health clinic on the reservation.", "why": "real Native context, harmless; contrast with the two above"},
+    {"kind": "ambiguous", "text": "He drove his Jeep Cherokee to the lake.", "why": "tribe name used as a car model; swap-and-rescore still swaps it"}
+  ]
+}

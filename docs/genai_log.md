@@ -1,2 +1,6 @@
 ## AI Use
 - 11/13 at 10:47AM: Have Claude make a copy-pasteable tree that reflects our outlined folder structure for this project to be added to the README. We did this because I didn't want to type out all the dashes and branches ourselves
+### Garrett
+- 11/13: Used Claude Code (Claude Opus 5.5) to draft my pipeline files from our proposal and task list: `data/identity_terms.json`, `src/common.py` (term matching and swap-and-rescore helpers), `src/templates.py` (60 neutral + 60 toxic templates), `src/augment.py`, `src/train_distilbert.py`, `src/distilbert_scorer.py`, `src/scorers.py`, `src/audit.py`, `src/demo_cases.py`, `src/push_to_hub.py`, `colab/run_distilbert.ipynb`, `data/demo_cases.json`, and `docs/handoff_garrett.md`. It also fixed the first line of `requirements.txt`, which wasn't commented out.
+  - Verification: Claude ran a smoke test with a tiny BERT model on synthetic splits (templates → augment → train → audit → demo cases). It also checked a/an agreement in the swaps and templates with automated pattern checks.
+  - TODO (Garrett): review every template sentence and the term list myself, confirm the metric definitions in `audit.py` against Borkan et al. (2019) and Garg et al. (2019), and note any edits here.
