@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ignore other large files
+data/raw
+*.pt
+*.bin
+*.safetensors
+checkpoints/
+.ipynb_checkpoints/
+
+# ide
+*.idea
