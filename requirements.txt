@@ -10,3 +10,4 @@ gradio
 joblib
 pyarrow
 matplotlib
+gradio
