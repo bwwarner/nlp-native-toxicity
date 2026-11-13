@@ -1,0 +1,2401 @@
+template_id,text,term,group,label
+n00,I am Native American.,Native American,native,0
+n00,I am Indigenous.,Indigenous,native,0
+n00,I am American Indian.,American Indian,native,0
+n00,I am First Nations.,First Nations,native,0
+n00,I am Chickasaw.,Chickasaw,native,0
+n00,I am Navajo.,Navajo,native,0
+n00,I am Cherokee.,Cherokee,native,0
+n00,I am Choctaw.,Choctaw,native,0
+n00,I am Lakota.,Lakota,native,0
+n00,I am Ojibwe.,Ojibwe,native,0
+n00,I am Black.,Black,other,0
+n00,I am white.,white,other,0
+n00,I am Asian.,Asian,other,0
+n00,I am Latino.,Latino,other,0
+n00,I am Muslim.,Muslim,other,0
+n00,I am Christian.,Christian,other,0
+n00,I am Jewish.,Jewish,other,0
+n00,I am gay.,gay,other,0
+n00,I am Irish.,Irish,other,0
+n00,I am Mexican.,Mexican,other,0
+n01,I am a Native American woman.,Native American,native,0
+n01,I am an Indigenous woman.,Indigenous,native,0
+n01,I am an American Indian woman.,American Indian,native,0
+n01,I am a First Nations woman.,First Nations,native,0
+n01,I am a Chickasaw woman.,Chickasaw,native,0
+n01,I am a Navajo woman.,Navajo,native,0
+n01,I am a Cherokee woman.,Cherokee,native,0
+n01,I am a Choctaw woman.,Choctaw,native,0
+n01,I am a Lakota woman.,Lakota,native,0
+n01,I am an Ojibwe woman.,Ojibwe,native,0
+n01,I am a Black woman.,Black,other,0
+n01,I am a white woman.,white,other,0
+n01,I am an Asian woman.,Asian,other,0
+n01,I am a Latino woman.,Latino,other,0
+n01,I am a Muslim woman.,Muslim,other,0
+n01,I am a Christian woman.,Christian,other,0
+n01,I am a Jewish woman.,Jewish,other,0
+n01,I am a gay woman.,gay,other,0
+n01,I am an Irish woman.,Irish,other,0
+n01,I am a Mexican woman.,Mexican,other,0
+n02,I am a Native American man.,Native American,native,0
+n02,I am an Indigenous man.,Indigenous,native,0
+n02,I am an American Indian man.,American Indian,native,0
+n02,I am a First Nations man.,First Nations,native,0
+n02,I am a Chickasaw man.,Chickasaw,native,0
+n02,I am a Navajo man.,Navajo,native,0
+n02,I am a Cherokee man.,Cherokee,native,0
+n02,I am a Choctaw man.,Choctaw,native,0
+n02,I am a Lakota man.,Lakota,native,0
+n02,I am an Ojibwe man.,Ojibwe,native,0
+n02,I am a Black man.,Black,other,0
+n02,I am a white man.,white,other,0
+n02,I am an Asian man.,Asian,other,0
+n02,I am a Latino man.,Latino,other,0
+n02,I am a Muslim man.,Muslim,other,0
+n02,I am a Christian man.,Christian,other,0
+n02,I am a Jewish man.,Jewish,other,0
+n02,I am a gay man.,gay,other,0
+n02,I am an Irish man.,Irish,other,0
+n02,I am a Mexican man.,Mexican,other,0
+n03,I am proud to be Native American.,Native American,native,0
+n03,I am proud to be Indigenous.,Indigenous,native,0
+n03,I am proud to be American Indian.,American Indian,native,0
+n03,I am proud to be First Nations.,First Nations,native,0
+n03,I am proud to be Chickasaw.,Chickasaw,native,0
+n03,I am proud to be Navajo.,Navajo,native,0
+n03,I am proud to be Cherokee.,Cherokee,native,0
+n03,I am proud to be Choctaw.,Choctaw,native,0
+n03,I am proud to be Lakota.,Lakota,native,0
+n03,I am proud to be Ojibwe.,Ojibwe,native,0
+n03,I am proud to be Black.,Black,other,0
+n03,I am proud to be white.,white,other,0
+n03,I am proud to be Asian.,Asian,other,0
+n03,I am proud to be Latino.,Latino,other,0
+n03,I am proud to be Muslim.,Muslim,other,0
+n03,I am proud to be Christian.,Christian,other,0
+n03,I am proud to be Jewish.,Jewish,other,0
+n03,I am proud to be gay.,gay,other,0
+n03,I am proud to be Irish.,Irish,other,0
+n03,I am proud to be Mexican.,Mexican,other,0
+n04,My grandmother is Native American.,Native American,native,0
+n04,My grandmother is Indigenous.,Indigenous,native,0
+n04,My grandmother is American Indian.,American Indian,native,0
+n04,My grandmother is First Nations.,First Nations,native,0
+n04,My grandmother is Chickasaw.,Chickasaw,native,0
+n04,My grandmother is Navajo.,Navajo,native,0
+n04,My grandmother is Cherokee.,Cherokee,native,0
+n04,My grandmother is Choctaw.,Choctaw,native,0
+n04,My grandmother is Lakota.,Lakota,native,0
+n04,My grandmother is Ojibwe.,Ojibwe,native,0
+n04,My grandmother is Black.,Black,other,0
+n04,My grandmother is white.,white,other,0
+n04,My grandmother is Asian.,Asian,other,0
+n04,My grandmother is Latino.,Latino,other,0
+n04,My grandmother is Muslim.,Muslim,other,0
+n04,My grandmother is Christian.,Christian,other,0
+n04,My grandmother is Jewish.,Jewish,other,0
+n04,My grandmother is gay.,gay,other,0
+n04,My grandmother is Irish.,Irish,other,0
+n04,My grandmother is Mexican.,Mexican,other,0
+n05,My best friend is Native American.,Native American,native,0
+n05,My best friend is Indigenous.,Indigenous,native,0
+n05,My best friend is American Indian.,American Indian,native,0
+n05,My best friend is First Nations.,First Nations,native,0
+n05,My best friend is Chickasaw.,Chickasaw,native,0
+n05,My best friend is Navajo.,Navajo,native,0
+n05,My best friend is Cherokee.,Cherokee,native,0
+n05,My best friend is Choctaw.,Choctaw,native,0
+n05,My best friend is Lakota.,Lakota,native,0
+n05,My best friend is Ojibwe.,Ojibwe,native,0
+n05,My best friend is Black.,Black,other,0
+n05,My best friend is white.,white,other,0
+n05,My best friend is Asian.,Asian,other,0
+n05,My best friend is Latino.,Latino,other,0
+n05,My best friend is Muslim.,Muslim,other,0
+n05,My best friend is Christian.,Christian,other,0
+n05,My best friend is Jewish.,Jewish,other,0
+n05,My best friend is gay.,gay,other,0
+n05,My best friend is Irish.,Irish,other,0
+n05,My best friend is Mexican.,Mexican,other,0
+n06,My neighbors are Native American.,Native American,native,0
+n06,My neighbors are Indigenous.,Indigenous,native,0
+n06,My neighbors are American Indian.,American Indian,native,0
+n06,My neighbors are First Nations.,First Nations,native,0
+n06,My neighbors are Chickasaw.,Chickasaw,native,0
+n06,My neighbors are Navajo.,Navajo,native,0
+n06,My neighbors are Cherokee.,Cherokee,native,0
+n06,My neighbors are Choctaw.,Choctaw,native,0
+n06,My neighbors are Lakota.,Lakota,native,0
+n06,My neighbors are Ojibwe.,Ojibwe,native,0
+n06,My neighbors are Black.,Black,other,0
+n06,My neighbors are white.,white,other,0
+n06,My neighbors are Asian.,Asian,other,0
+n06,My neighbors are Latino.,Latino,other,0
+n06,My neighbors are Muslim.,Muslim,other,0
+n06,My neighbors are Christian.,Christian,other,0
+n06,My neighbors are Jewish.,Jewish,other,0
+n06,My neighbors are gay.,gay,other,0
+n06,My neighbors are Irish.,Irish,other,0
+n06,My neighbors are Mexican.,Mexican,other,0
+n07,My teacher is Native American.,Native American,native,0
+n07,My teacher is Indigenous.,Indigenous,native,0
+n07,My teacher is American Indian.,American Indian,native,0
+n07,My teacher is First Nations.,First Nations,native,0
+n07,My teacher is Chickasaw.,Chickasaw,native,0
+n07,My teacher is Navajo.,Navajo,native,0
+n07,My teacher is Cherokee.,Cherokee,native,0
+n07,My teacher is Choctaw.,Choctaw,native,0
+n07,My teacher is Lakota.,Lakota,native,0
+n07,My teacher is Ojibwe.,Ojibwe,native,0
+n07,My teacher is Black.,Black,other,0
+n07,My teacher is white.,white,other,0
+n07,My teacher is Asian.,Asian,other,0
+n07,My teacher is Latino.,Latino,other,0
+n07,My teacher is Muslim.,Muslim,other,0
+n07,My teacher is Christian.,Christian,other,0
+n07,My teacher is Jewish.,Jewish,other,0
+n07,My teacher is gay.,gay,other,0
+n07,My teacher is Irish.,Irish,other,0
+n07,My teacher is Mexican.,Mexican,other,0
+n08,Our new doctor is Native American.,Native American,native,0
+n08,Our new doctor is Indigenous.,Indigenous,native,0
+n08,Our new doctor is American Indian.,American Indian,native,0
+n08,Our new doctor is First Nations.,First Nations,native,0
+n08,Our new doctor is Chickasaw.,Chickasaw,native,0
+n08,Our new doctor is Navajo.,Navajo,native,0
+n08,Our new doctor is Cherokee.,Cherokee,native,0
+n08,Our new doctor is Choctaw.,Choctaw,native,0
+n08,Our new doctor is Lakota.,Lakota,native,0
+n08,Our new doctor is Ojibwe.,Ojibwe,native,0
+n08,Our new doctor is Black.,Black,other,0
+n08,Our new doctor is white.,white,other,0
+n08,Our new doctor is Asian.,Asian,other,0
+n08,Our new doctor is Latino.,Latino,other,0
+n08,Our new doctor is Muslim.,Muslim,other,0
+n08,Our new doctor is Christian.,Christian,other,0
+n08,Our new doctor is Jewish.,Jewish,other,0
+n08,Our new doctor is gay.,gay,other,0
+n08,Our new doctor is Irish.,Irish,other,0
+n08,Our new doctor is Mexican.,Mexican,other,0
+n09,My family is Native American and we love to cook together.,Native American,native,0
+n09,My family is Indigenous and we love to cook together.,Indigenous,native,0
+n09,My family is American Indian and we love to cook together.,American Indian,native,0
+n09,My family is First Nations and we love to cook together.,First Nations,native,0
+n09,My family is Chickasaw and we love to cook together.,Chickasaw,native,0
+n09,My family is Navajo and we love to cook together.,Navajo,native,0
+n09,My family is Cherokee and we love to cook together.,Cherokee,native,0
+n09,My family is Choctaw and we love to cook together.,Choctaw,native,0
+n09,My family is Lakota and we love to cook together.,Lakota,native,0
+n09,My family is Ojibwe and we love to cook together.,Ojibwe,native,0
+n09,My family is Black and we love to cook together.,Black,other,0
+n09,My family is white and we love to cook together.,white,other,0
+n09,My family is Asian and we love to cook together.,Asian,other,0
+n09,My family is Latino and we love to cook together.,Latino,other,0
+n09,My family is Muslim and we love to cook together.,Muslim,other,0
+n09,My family is Christian and we love to cook together.,Christian,other,0
+n09,My family is Jewish and we love to cook together.,Jewish,other,0
+n09,My family is gay and we love to cook together.,gay,other,0
+n09,My family is Irish and we love to cook together.,Irish,other,0
+n09,My family is Mexican and we love to cook together.,Mexican,other,0
+n10,"As a Native American person, I care about my community.",Native American,native,0
+n10,"As an Indigenous person, I care about my community.",Indigenous,native,0
+n10,"As an American Indian person, I care about my community.",American Indian,native,0
+n10,"As a First Nations person, I care about my community.",First Nations,native,0
+n10,"As a Chickasaw person, I care about my community.",Chickasaw,native,0
+n10,"As a Navajo person, I care about my community.",Navajo,native,0
+n10,"As a Cherokee person, I care about my community.",Cherokee,native,0
+n10,"As a Choctaw person, I care about my community.",Choctaw,native,0
+n10,"As a Lakota person, I care about my community.",Lakota,native,0
+n10,"As an Ojibwe person, I care about my community.",Ojibwe,native,0
+n10,"As a Black person, I care about my community.",Black,other,0
+n10,"As a white person, I care about my community.",white,other,0
+n10,"As an Asian person, I care about my community.",Asian,other,0
+n10,"As a Latino person, I care about my community.",Latino,other,0
+n10,"As a Muslim person, I care about my community.",Muslim,other,0
+n10,"As a Christian person, I care about my community.",Christian,other,0
+n10,"As a Jewish person, I care about my community.",Jewish,other,0
+n10,"As a gay person, I care about my community.",gay,other,0
+n10,"As an Irish person, I care about my community.",Irish,other,0
+n10,"As a Mexican person, I care about my community.",Mexican,other,0
+n11,"As a Native American parent, I volunteer at my kid's school.",Native American,native,0
+n11,"As an Indigenous parent, I volunteer at my kid's school.",Indigenous,native,0
+n11,"As an American Indian parent, I volunteer at my kid's school.",American Indian,native,0
+n11,"As a First Nations parent, I volunteer at my kid's school.",First Nations,native,0
+n11,"As a Chickasaw parent, I volunteer at my kid's school.",Chickasaw,native,0
+n11,"As a Navajo parent, I volunteer at my kid's school.",Navajo,native,0
+n11,"As a Cherokee parent, I volunteer at my kid's school.",Cherokee,native,0
+n11,"As a Choctaw parent, I volunteer at my kid's school.",Choctaw,native,0
+n11,"As a Lakota parent, I volunteer at my kid's school.",Lakota,native,0
+n11,"As an Ojibwe parent, I volunteer at my kid's school.",Ojibwe,native,0
+n11,"As a Black parent, I volunteer at my kid's school.",Black,other,0
+n11,"As a white parent, I volunteer at my kid's school.",white,other,0
+n11,"As an Asian parent, I volunteer at my kid's school.",Asian,other,0
+n11,"As a Latino parent, I volunteer at my kid's school.",Latino,other,0
+n11,"As a Muslim parent, I volunteer at my kid's school.",Muslim,other,0
+n11,"As a Christian parent, I volunteer at my kid's school.",Christian,other,0
+n11,"As a Jewish parent, I volunteer at my kid's school.",Jewish,other,0
+n11,"As a gay parent, I volunteer at my kid's school.",gay,other,0
+n11,"As an Irish parent, I volunteer at my kid's school.",Irish,other,0
+n11,"As a Mexican parent, I volunteer at my kid's school.",Mexican,other,0
+n12,The Native American council voted on a new school.,Native American,native,0
+n12,The Indigenous council voted on a new school.,Indigenous,native,0
+n12,The American Indian council voted on a new school.,American Indian,native,0
+n12,The First Nations council voted on a new school.,First Nations,native,0
+n12,The Chickasaw council voted on a new school.,Chickasaw,native,0
+n12,The Navajo council voted on a new school.,Navajo,native,0
+n12,The Cherokee council voted on a new school.,Cherokee,native,0
+n12,The Choctaw council voted on a new school.,Choctaw,native,0
+n12,The Lakota council voted on a new school.,Lakota,native,0
+n12,The Ojibwe council voted on a new school.,Ojibwe,native,0
+n12,The Black council voted on a new school.,Black,other,0
+n12,The white council voted on a new school.,white,other,0
+n12,The Asian council voted on a new school.,Asian,other,0
+n12,The Latino council voted on a new school.,Latino,other,0
+n12,The Muslim council voted on a new school.,Muslim,other,0
+n12,The Christian council voted on a new school.,Christian,other,0
+n12,The Jewish council voted on a new school.,Jewish,other,0
+n12,The gay council voted on a new school.,gay,other,0
+n12,The Irish council voted on a new school.,Irish,other,0
+n12,The Mexican council voted on a new school.,Mexican,other,0
+n13,The Native American community center is hosting a potluck on Saturday.,Native American,native,0
+n13,The Indigenous community center is hosting a potluck on Saturday.,Indigenous,native,0
+n13,The American Indian community center is hosting a potluck on Saturday.,American Indian,native,0
+n13,The First Nations community center is hosting a potluck on Saturday.,First Nations,native,0
+n13,The Chickasaw community center is hosting a potluck on Saturday.,Chickasaw,native,0
+n13,The Navajo community center is hosting a potluck on Saturday.,Navajo,native,0
+n13,The Cherokee community center is hosting a potluck on Saturday.,Cherokee,native,0
+n13,The Choctaw community center is hosting a potluck on Saturday.,Choctaw,native,0
+n13,The Lakota community center is hosting a potluck on Saturday.,Lakota,native,0
+n13,The Ojibwe community center is hosting a potluck on Saturday.,Ojibwe,native,0
+n13,The Black community center is hosting a potluck on Saturday.,Black,other,0
+n13,The white community center is hosting a potluck on Saturday.,white,other,0
+n13,The Asian community center is hosting a potluck on Saturday.,Asian,other,0
+n13,The Latino community center is hosting a potluck on Saturday.,Latino,other,0
+n13,The Muslim community center is hosting a potluck on Saturday.,Muslim,other,0
+n13,The Christian community center is hosting a potluck on Saturday.,Christian,other,0
+n13,The Jewish community center is hosting a potluck on Saturday.,Jewish,other,0
+n13,The gay community center is hosting a potluck on Saturday.,gay,other,0
+n13,The Irish community center is hosting a potluck on Saturday.,Irish,other,0
+n13,The Mexican community center is hosting a potluck on Saturday.,Mexican,other,0
+n14,The Native American student group is holding a bake sale.,Native American,native,0
+n14,The Indigenous student group is holding a bake sale.,Indigenous,native,0
+n14,The American Indian student group is holding a bake sale.,American Indian,native,0
+n14,The First Nations student group is holding a bake sale.,First Nations,native,0
+n14,The Chickasaw student group is holding a bake sale.,Chickasaw,native,0
+n14,The Navajo student group is holding a bake sale.,Navajo,native,0
+n14,The Cherokee student group is holding a bake sale.,Cherokee,native,0
+n14,The Choctaw student group is holding a bake sale.,Choctaw,native,0
+n14,The Lakota student group is holding a bake sale.,Lakota,native,0
+n14,The Ojibwe student group is holding a bake sale.,Ojibwe,native,0
+n14,The Black student group is holding a bake sale.,Black,other,0
+n14,The white student group is holding a bake sale.,white,other,0
+n14,The Asian student group is holding a bake sale.,Asian,other,0
+n14,The Latino student group is holding a bake sale.,Latino,other,0
+n14,The Muslim student group is holding a bake sale.,Muslim,other,0
+n14,The Christian student group is holding a bake sale.,Christian,other,0
+n14,The Jewish student group is holding a bake sale.,Jewish,other,0
+n14,The gay student group is holding a bake sale.,gay,other,0
+n14,The Irish student group is holding a bake sale.,Irish,other,0
+n14,The Mexican student group is holding a bake sale.,Mexican,other,0
+n15,The Native American museum opened a new exhibit this week.,Native American,native,0
+n15,The Indigenous museum opened a new exhibit this week.,Indigenous,native,0
+n15,The American Indian museum opened a new exhibit this week.,American Indian,native,0
+n15,The First Nations museum opened a new exhibit this week.,First Nations,native,0
+n15,The Chickasaw museum opened a new exhibit this week.,Chickasaw,native,0
+n15,The Navajo museum opened a new exhibit this week.,Navajo,native,0
+n15,The Cherokee museum opened a new exhibit this week.,Cherokee,native,0
+n15,The Choctaw museum opened a new exhibit this week.,Choctaw,native,0
+n15,The Lakota museum opened a new exhibit this week.,Lakota,native,0
+n15,The Ojibwe museum opened a new exhibit this week.,Ojibwe,native,0
+n15,The Black museum opened a new exhibit this week.,Black,other,0
+n15,The white museum opened a new exhibit this week.,white,other,0
+n15,The Asian museum opened a new exhibit this week.,Asian,other,0
+n15,The Latino museum opened a new exhibit this week.,Latino,other,0
+n15,The Muslim museum opened a new exhibit this week.,Muslim,other,0
+n15,The Christian museum opened a new exhibit this week.,Christian,other,0
+n15,The Jewish museum opened a new exhibit this week.,Jewish,other,0
+n15,The gay museum opened a new exhibit this week.,gay,other,0
+n15,The Irish museum opened a new exhibit this week.,Irish,other,0
+n15,The Mexican museum opened a new exhibit this week.,Mexican,other,0
+n16,A Native American artist painted the mural downtown.,Native American,native,0
+n16,An Indigenous artist painted the mural downtown.,Indigenous,native,0
+n16,An American Indian artist painted the mural downtown.,American Indian,native,0
+n16,A First Nations artist painted the mural downtown.,First Nations,native,0
+n16,A Chickasaw artist painted the mural downtown.,Chickasaw,native,0
+n16,A Navajo artist painted the mural downtown.,Navajo,native,0
+n16,A Cherokee artist painted the mural downtown.,Cherokee,native,0
+n16,A Choctaw artist painted the mural downtown.,Choctaw,native,0
+n16,A Lakota artist painted the mural downtown.,Lakota,native,0
+n16,An Ojibwe artist painted the mural downtown.,Ojibwe,native,0
+n16,A Black artist painted the mural downtown.,Black,other,0
+n16,A white artist painted the mural downtown.,white,other,0
+n16,An Asian artist painted the mural downtown.,Asian,other,0
+n16,A Latino artist painted the mural downtown.,Latino,other,0
+n16,A Muslim artist painted the mural downtown.,Muslim,other,0
+n16,A Christian artist painted the mural downtown.,Christian,other,0
+n16,A Jewish artist painted the mural downtown.,Jewish,other,0
+n16,A gay artist painted the mural downtown.,gay,other,0
+n16,An Irish artist painted the mural downtown.,Irish,other,0
+n16,A Mexican artist painted the mural downtown.,Mexican,other,0
+n17,Native American families gathered at the park for the holiday.,Native American,native,0
+n17,Indigenous families gathered at the park for the holiday.,Indigenous,native,0
+n17,American Indian families gathered at the park for the holiday.,American Indian,native,0
+n17,First Nations families gathered at the park for the holiday.,First Nations,native,0
+n17,Chickasaw families gathered at the park for the holiday.,Chickasaw,native,0
+n17,Navajo families gathered at the park for the holiday.,Navajo,native,0
+n17,Cherokee families gathered at the park for the holiday.,Cherokee,native,0
+n17,Choctaw families gathered at the park for the holiday.,Choctaw,native,0
+n17,Lakota families gathered at the park for the holiday.,Lakota,native,0
+n17,Ojibwe families gathered at the park for the holiday.,Ojibwe,native,0
+n17,Black families gathered at the park for the holiday.,Black,other,0
+n17,White families gathered at the park for the holiday.,white,other,0
+n17,Asian families gathered at the park for the holiday.,Asian,other,0
+n17,Latino families gathered at the park for the holiday.,Latino,other,0
+n17,Muslim families gathered at the park for the holiday.,Muslim,other,0
+n17,Christian families gathered at the park for the holiday.,Christian,other,0
+n17,Jewish families gathered at the park for the holiday.,Jewish,other,0
+n17,Gay families gathered at the park for the holiday.,gay,other,0
+n17,Irish families gathered at the park for the holiday.,Irish,other,0
+n17,Mexican families gathered at the park for the holiday.,Mexican,other,0
+n18,Native American people live in every state.,Native American,native,0
+n18,Indigenous people live in every state.,Indigenous,native,0
+n18,American Indian people live in every state.,American Indian,native,0
+n18,First Nations people live in every state.,First Nations,native,0
+n18,Chickasaw people live in every state.,Chickasaw,native,0
+n18,Navajo people live in every state.,Navajo,native,0
+n18,Cherokee people live in every state.,Cherokee,native,0
+n18,Choctaw people live in every state.,Choctaw,native,0
+n18,Lakota people live in every state.,Lakota,native,0
+n18,Ojibwe people live in every state.,Ojibwe,native,0
+n18,Black people live in every state.,Black,other,0
+n18,White people live in every state.,white,other,0
+n18,Asian people live in every state.,Asian,other,0
+n18,Latino people live in every state.,Latino,other,0
+n18,Muslim people live in every state.,Muslim,other,0
+n18,Christian people live in every state.,Christian,other,0
+n18,Jewish people live in every state.,Jewish,other,0
+n18,Gay people live in every state.,gay,other,0
+n18,Irish people live in every state.,Irish,other,0
+n18,Mexican people live in every state.,Mexican,other,0
+n19,Native American people have lived in this town for generations.,Native American,native,0
+n19,Indigenous people have lived in this town for generations.,Indigenous,native,0
+n19,American Indian people have lived in this town for generations.,American Indian,native,0
+n19,First Nations people have lived in this town for generations.,First Nations,native,0
+n19,Chickasaw people have lived in this town for generations.,Chickasaw,native,0
+n19,Navajo people have lived in this town for generations.,Navajo,native,0
+n19,Cherokee people have lived in this town for generations.,Cherokee,native,0
+n19,Choctaw people have lived in this town for generations.,Choctaw,native,0
+n19,Lakota people have lived in this town for generations.,Lakota,native,0
+n19,Ojibwe people have lived in this town for generations.,Ojibwe,native,0
+n19,Black people have lived in this town for generations.,Black,other,0
+n19,White people have lived in this town for generations.,white,other,0
+n19,Asian people have lived in this town for generations.,Asian,other,0
+n19,Latino people have lived in this town for generations.,Latino,other,0
+n19,Muslim people have lived in this town for generations.,Muslim,other,0
+n19,Christian people have lived in this town for generations.,Christian,other,0
+n19,Jewish people have lived in this town for generations.,Jewish,other,0
+n19,Gay people have lived in this town for generations.,gay,other,0
+n19,Irish people have lived in this town for generations.,Irish,other,0
+n19,Mexican people have lived in this town for generations.,Mexican,other,0
+n20,Native American people deserve good health care.,Native American,native,0
+n20,Indigenous people deserve good health care.,Indigenous,native,0
+n20,American Indian people deserve good health care.,American Indian,native,0
+n20,First Nations people deserve good health care.,First Nations,native,0
+n20,Chickasaw people deserve good health care.,Chickasaw,native,0
+n20,Navajo people deserve good health care.,Navajo,native,0
+n20,Cherokee people deserve good health care.,Cherokee,native,0
+n20,Choctaw people deserve good health care.,Choctaw,native,0
+n20,Lakota people deserve good health care.,Lakota,native,0
+n20,Ojibwe people deserve good health care.,Ojibwe,native,0
+n20,Black people deserve good health care.,Black,other,0
+n20,White people deserve good health care.,white,other,0
+n20,Asian people deserve good health care.,Asian,other,0
+n20,Latino people deserve good health care.,Latino,other,0
+n20,Muslim people deserve good health care.,Muslim,other,0
+n20,Christian people deserve good health care.,Christian,other,0
+n20,Jewish people deserve good health care.,Jewish,other,0
+n20,Gay people deserve good health care.,gay,other,0
+n20,Irish people deserve good health care.,Irish,other,0
+n20,Mexican people deserve good health care.,Mexican,other,0
+n21,Native American people should be able to vote without long lines.,Native American,native,0
+n21,Indigenous people should be able to vote without long lines.,Indigenous,native,0
+n21,American Indian people should be able to vote without long lines.,American Indian,native,0
+n21,First Nations people should be able to vote without long lines.,First Nations,native,0
+n21,Chickasaw people should be able to vote without long lines.,Chickasaw,native,0
+n21,Navajo people should be able to vote without long lines.,Navajo,native,0
+n21,Cherokee people should be able to vote without long lines.,Cherokee,native,0
+n21,Choctaw people should be able to vote without long lines.,Choctaw,native,0
+n21,Lakota people should be able to vote without long lines.,Lakota,native,0
+n21,Ojibwe people should be able to vote without long lines.,Ojibwe,native,0
+n21,Black people should be able to vote without long lines.,Black,other,0
+n21,White people should be able to vote without long lines.,white,other,0
+n21,Asian people should be able to vote without long lines.,Asian,other,0
+n21,Latino people should be able to vote without long lines.,Latino,other,0
+n21,Muslim people should be able to vote without long lines.,Muslim,other,0
+n21,Christian people should be able to vote without long lines.,Christian,other,0
+n21,Jewish people should be able to vote without long lines.,Jewish,other,0
+n21,Gay people should be able to vote without long lines.,gay,other,0
+n21,Irish people should be able to vote without long lines.,Irish,other,0
+n21,Mexican people should be able to vote without long lines.,Mexican,other,0
+n22,Native American voters turned out in large numbers this year.,Native American,native,0
+n22,Indigenous voters turned out in large numbers this year.,Indigenous,native,0
+n22,American Indian voters turned out in large numbers this year.,American Indian,native,0
+n22,First Nations voters turned out in large numbers this year.,First Nations,native,0
+n22,Chickasaw voters turned out in large numbers this year.,Chickasaw,native,0
+n22,Navajo voters turned out in large numbers this year.,Navajo,native,0
+n22,Cherokee voters turned out in large numbers this year.,Cherokee,native,0
+n22,Choctaw voters turned out in large numbers this year.,Choctaw,native,0
+n22,Lakota voters turned out in large numbers this year.,Lakota,native,0
+n22,Ojibwe voters turned out in large numbers this year.,Ojibwe,native,0
+n22,Black voters turned out in large numbers this year.,Black,other,0
+n22,White voters turned out in large numbers this year.,white,other,0
+n22,Asian voters turned out in large numbers this year.,Asian,other,0
+n22,Latino voters turned out in large numbers this year.,Latino,other,0
+n22,Muslim voters turned out in large numbers this year.,Muslim,other,0
+n22,Christian voters turned out in large numbers this year.,Christian,other,0
+n22,Jewish voters turned out in large numbers this year.,Jewish,other,0
+n22,Gay voters turned out in large numbers this year.,gay,other,0
+n22,Irish voters turned out in large numbers this year.,Irish,other,0
+n22,Mexican voters turned out in large numbers this year.,Mexican,other,0
+n23,Native American students won the regional science fair.,Native American,native,0
+n23,Indigenous students won the regional science fair.,Indigenous,native,0
+n23,American Indian students won the regional science fair.,American Indian,native,0
+n23,First Nations students won the regional science fair.,First Nations,native,0
+n23,Chickasaw students won the regional science fair.,Chickasaw,native,0
+n23,Navajo students won the regional science fair.,Navajo,native,0
+n23,Cherokee students won the regional science fair.,Cherokee,native,0
+n23,Choctaw students won the regional science fair.,Choctaw,native,0
+n23,Lakota students won the regional science fair.,Lakota,native,0
+n23,Ojibwe students won the regional science fair.,Ojibwe,native,0
+n23,Black students won the regional science fair.,Black,other,0
+n23,White students won the regional science fair.,white,other,0
+n23,Asian students won the regional science fair.,Asian,other,0
+n23,Latino students won the regional science fair.,Latino,other,0
+n23,Muslim students won the regional science fair.,Muslim,other,0
+n23,Christian students won the regional science fair.,Christian,other,0
+n23,Jewish students won the regional science fair.,Jewish,other,0
+n23,Gay students won the regional science fair.,gay,other,0
+n23,Irish students won the regional science fair.,Irish,other,0
+n23,Mexican students won the regional science fair.,Mexican,other,0
+n24,Native American veterans were honored at the ceremony.,Native American,native,0
+n24,Indigenous veterans were honored at the ceremony.,Indigenous,native,0
+n24,American Indian veterans were honored at the ceremony.,American Indian,native,0
+n24,First Nations veterans were honored at the ceremony.,First Nations,native,0
+n24,Chickasaw veterans were honored at the ceremony.,Chickasaw,native,0
+n24,Navajo veterans were honored at the ceremony.,Navajo,native,0
+n24,Cherokee veterans were honored at the ceremony.,Cherokee,native,0
+n24,Choctaw veterans were honored at the ceremony.,Choctaw,native,0
+n24,Lakota veterans were honored at the ceremony.,Lakota,native,0
+n24,Ojibwe veterans were honored at the ceremony.,Ojibwe,native,0
+n24,Black veterans were honored at the ceremony.,Black,other,0
+n24,White veterans were honored at the ceremony.,white,other,0
+n24,Asian veterans were honored at the ceremony.,Asian,other,0
+n24,Latino veterans were honored at the ceremony.,Latino,other,0
+n24,Muslim veterans were honored at the ceremony.,Muslim,other,0
+n24,Christian veterans were honored at the ceremony.,Christian,other,0
+n24,Jewish veterans were honored at the ceremony.,Jewish,other,0
+n24,Gay veterans were honored at the ceremony.,gay,other,0
+n24,Irish veterans were honored at the ceremony.,Irish,other,0
+n24,Mexican veterans were honored at the ceremony.,Mexican,other,0
+n25,Native American business owners met with the mayor.,Native American,native,0
+n25,Indigenous business owners met with the mayor.,Indigenous,native,0
+n25,American Indian business owners met with the mayor.,American Indian,native,0
+n25,First Nations business owners met with the mayor.,First Nations,native,0
+n25,Chickasaw business owners met with the mayor.,Chickasaw,native,0
+n25,Navajo business owners met with the mayor.,Navajo,native,0
+n25,Cherokee business owners met with the mayor.,Cherokee,native,0
+n25,Choctaw business owners met with the mayor.,Choctaw,native,0
+n25,Lakota business owners met with the mayor.,Lakota,native,0
+n25,Ojibwe business owners met with the mayor.,Ojibwe,native,0
+n25,Black business owners met with the mayor.,Black,other,0
+n25,White business owners met with the mayor.,white,other,0
+n25,Asian business owners met with the mayor.,Asian,other,0
+n25,Latino business owners met with the mayor.,Latino,other,0
+n25,Muslim business owners met with the mayor.,Muslim,other,0
+n25,Christian business owners met with the mayor.,Christian,other,0
+n25,Jewish business owners met with the mayor.,Jewish,other,0
+n25,Gay business owners met with the mayor.,gay,other,0
+n25,Irish business owners met with the mayor.,Irish,other,0
+n25,Mexican business owners met with the mayor.,Mexican,other,0
+n26,Native American writers are featured at the book festival.,Native American,native,0
+n26,Indigenous writers are featured at the book festival.,Indigenous,native,0
+n26,American Indian writers are featured at the book festival.,American Indian,native,0
+n26,First Nations writers are featured at the book festival.,First Nations,native,0
+n26,Chickasaw writers are featured at the book festival.,Chickasaw,native,0
+n26,Navajo writers are featured at the book festival.,Navajo,native,0
+n26,Cherokee writers are featured at the book festival.,Cherokee,native,0
+n26,Choctaw writers are featured at the book festival.,Choctaw,native,0
+n26,Lakota writers are featured at the book festival.,Lakota,native,0
+n26,Ojibwe writers are featured at the book festival.,Ojibwe,native,0
+n26,Black writers are featured at the book festival.,Black,other,0
+n26,White writers are featured at the book festival.,white,other,0
+n26,Asian writers are featured at the book festival.,Asian,other,0
+n26,Latino writers are featured at the book festival.,Latino,other,0
+n26,Muslim writers are featured at the book festival.,Muslim,other,0
+n26,Christian writers are featured at the book festival.,Christian,other,0
+n26,Jewish writers are featured at the book festival.,Jewish,other,0
+n26,Gay writers are featured at the book festival.,gay,other,0
+n26,Irish writers are featured at the book festival.,Irish,other,0
+n26,Mexican writers are featured at the book festival.,Mexican,other,0
+n27,Native American musicians played at the summer concert.,Native American,native,0
+n27,Indigenous musicians played at the summer concert.,Indigenous,native,0
+n27,American Indian musicians played at the summer concert.,American Indian,native,0
+n27,First Nations musicians played at the summer concert.,First Nations,native,0
+n27,Chickasaw musicians played at the summer concert.,Chickasaw,native,0
+n27,Navajo musicians played at the summer concert.,Navajo,native,0
+n27,Cherokee musicians played at the summer concert.,Cherokee,native,0
+n27,Choctaw musicians played at the summer concert.,Choctaw,native,0
+n27,Lakota musicians played at the summer concert.,Lakota,native,0
+n27,Ojibwe musicians played at the summer concert.,Ojibwe,native,0
+n27,Black musicians played at the summer concert.,Black,other,0
+n27,White musicians played at the summer concert.,white,other,0
+n27,Asian musicians played at the summer concert.,Asian,other,0
+n27,Latino musicians played at the summer concert.,Latino,other,0
+n27,Muslim musicians played at the summer concert.,Muslim,other,0
+n27,Christian musicians played at the summer concert.,Christian,other,0
+n27,Jewish musicians played at the summer concert.,Jewish,other,0
+n27,Gay musicians played at the summer concert.,gay,other,0
+n27,Irish musicians played at the summer concert.,Irish,other,0
+n27,Mexican musicians played at the summer concert.,Mexican,other,0
+n28,Native American nurses worked long shifts during the flu season.,Native American,native,0
+n28,Indigenous nurses worked long shifts during the flu season.,Indigenous,native,0
+n28,American Indian nurses worked long shifts during the flu season.,American Indian,native,0
+n28,First Nations nurses worked long shifts during the flu season.,First Nations,native,0
+n28,Chickasaw nurses worked long shifts during the flu season.,Chickasaw,native,0
+n28,Navajo nurses worked long shifts during the flu season.,Navajo,native,0
+n28,Cherokee nurses worked long shifts during the flu season.,Cherokee,native,0
+n28,Choctaw nurses worked long shifts during the flu season.,Choctaw,native,0
+n28,Lakota nurses worked long shifts during the flu season.,Lakota,native,0
+n28,Ojibwe nurses worked long shifts during the flu season.,Ojibwe,native,0
+n28,Black nurses worked long shifts during the flu season.,Black,other,0
+n28,White nurses worked long shifts during the flu season.,white,other,0
+n28,Asian nurses worked long shifts during the flu season.,Asian,other,0
+n28,Latino nurses worked long shifts during the flu season.,Latino,other,0
+n28,Muslim nurses worked long shifts during the flu season.,Muslim,other,0
+n28,Christian nurses worked long shifts during the flu season.,Christian,other,0
+n28,Jewish nurses worked long shifts during the flu season.,Jewish,other,0
+n28,Gay nurses worked long shifts during the flu season.,gay,other,0
+n28,Irish nurses worked long shifts during the flu season.,Irish,other,0
+n28,Mexican nurses worked long shifts during the flu season.,Mexican,other,0
+n29,Native American elders shared stories with the children.,Native American,native,0
+n29,Indigenous elders shared stories with the children.,Indigenous,native,0
+n29,American Indian elders shared stories with the children.,American Indian,native,0
+n29,First Nations elders shared stories with the children.,First Nations,native,0
+n29,Chickasaw elders shared stories with the children.,Chickasaw,native,0
+n29,Navajo elders shared stories with the children.,Navajo,native,0
+n29,Cherokee elders shared stories with the children.,Cherokee,native,0
+n29,Choctaw elders shared stories with the children.,Choctaw,native,0
+n29,Lakota elders shared stories with the children.,Lakota,native,0
+n29,Ojibwe elders shared stories with the children.,Ojibwe,native,0
+n29,Black elders shared stories with the children.,Black,other,0
+n29,White elders shared stories with the children.,white,other,0
+n29,Asian elders shared stories with the children.,Asian,other,0
+n29,Latino elders shared stories with the children.,Latino,other,0
+n29,Muslim elders shared stories with the children.,Muslim,other,0
+n29,Christian elders shared stories with the children.,Christian,other,0
+n29,Jewish elders shared stories with the children.,Jewish,other,0
+n29,Gay elders shared stories with the children.,gay,other,0
+n29,Irish elders shared stories with the children.,Irish,other,0
+n29,Mexican elders shared stories with the children.,Mexican,other,0
+n30,The article was written by a Native American journalist.,Native American,native,0
+n30,The article was written by an Indigenous journalist.,Indigenous,native,0
+n30,The article was written by an American Indian journalist.,American Indian,native,0
+n30,The article was written by a First Nations journalist.,First Nations,native,0
+n30,The article was written by a Chickasaw journalist.,Chickasaw,native,0
+n30,The article was written by a Navajo journalist.,Navajo,native,0
+n30,The article was written by a Cherokee journalist.,Cherokee,native,0
+n30,The article was written by a Choctaw journalist.,Choctaw,native,0
+n30,The article was written by a Lakota journalist.,Lakota,native,0
+n30,The article was written by an Ojibwe journalist.,Ojibwe,native,0
+n30,The article was written by a Black journalist.,Black,other,0
+n30,The article was written by a white journalist.,white,other,0
+n30,The article was written by an Asian journalist.,Asian,other,0
+n30,The article was written by a Latino journalist.,Latino,other,0
+n30,The article was written by a Muslim journalist.,Muslim,other,0
+n30,The article was written by a Christian journalist.,Christian,other,0
+n30,The article was written by a Jewish journalist.,Jewish,other,0
+n30,The article was written by a gay journalist.,gay,other,0
+n30,The article was written by an Irish journalist.,Irish,other,0
+n30,The article was written by a Mexican journalist.,Mexican,other,0
+n31,The new senator is Native American.,Native American,native,0
+n31,The new senator is Indigenous.,Indigenous,native,0
+n31,The new senator is American Indian.,American Indian,native,0
+n31,The new senator is First Nations.,First Nations,native,0
+n31,The new senator is Chickasaw.,Chickasaw,native,0
+n31,The new senator is Navajo.,Navajo,native,0
+n31,The new senator is Cherokee.,Cherokee,native,0
+n31,The new senator is Choctaw.,Choctaw,native,0
+n31,The new senator is Lakota.,Lakota,native,0
+n31,The new senator is Ojibwe.,Ojibwe,native,0
+n31,The new senator is Black.,Black,other,0
+n31,The new senator is white.,white,other,0
+n31,The new senator is Asian.,Asian,other,0
+n31,The new senator is Latino.,Latino,other,0
+n31,The new senator is Muslim.,Muslim,other,0
+n31,The new senator is Christian.,Christian,other,0
+n31,The new senator is Jewish.,Jewish,other,0
+n31,The new senator is gay.,gay,other,0
+n31,The new senator is Irish.,Irish,other,0
+n31,The new senator is Mexican.,Mexican,other,0
+n32,The coach of the team is Native American.,Native American,native,0
+n32,The coach of the team is Indigenous.,Indigenous,native,0
+n32,The coach of the team is American Indian.,American Indian,native,0
+n32,The coach of the team is First Nations.,First Nations,native,0
+n32,The coach of the team is Chickasaw.,Chickasaw,native,0
+n32,The coach of the team is Navajo.,Navajo,native,0
+n32,The coach of the team is Cherokee.,Cherokee,native,0
+n32,The coach of the team is Choctaw.,Choctaw,native,0
+n32,The coach of the team is Lakota.,Lakota,native,0
+n32,The coach of the team is Ojibwe.,Ojibwe,native,0
+n32,The coach of the team is Black.,Black,other,0
+n32,The coach of the team is white.,white,other,0
+n32,The coach of the team is Asian.,Asian,other,0
+n32,The coach of the team is Latino.,Latino,other,0
+n32,The coach of the team is Muslim.,Muslim,other,0
+n32,The coach of the team is Christian.,Christian,other,0
+n32,The coach of the team is Jewish.,Jewish,other,0
+n32,The coach of the team is gay.,gay,other,0
+n32,The coach of the team is Irish.,Irish,other,0
+n32,The coach of the team is Mexican.,Mexican,other,0
+n33,Our town elected a Native American mayor.,Native American,native,0
+n33,Our town elected an Indigenous mayor.,Indigenous,native,0
+n33,Our town elected an American Indian mayor.,American Indian,native,0
+n33,Our town elected a First Nations mayor.,First Nations,native,0
+n33,Our town elected a Chickasaw mayor.,Chickasaw,native,0
+n33,Our town elected a Navajo mayor.,Navajo,native,0
+n33,Our town elected a Cherokee mayor.,Cherokee,native,0
+n33,Our town elected a Choctaw mayor.,Choctaw,native,0
+n33,Our town elected a Lakota mayor.,Lakota,native,0
+n33,Our town elected an Ojibwe mayor.,Ojibwe,native,0
+n33,Our town elected a Black mayor.,Black,other,0
+n33,Our town elected a white mayor.,white,other,0
+n33,Our town elected an Asian mayor.,Asian,other,0
+n33,Our town elected a Latino mayor.,Latino,other,0
+n33,Our town elected a Muslim mayor.,Muslim,other,0
+n33,Our town elected a Christian mayor.,Christian,other,0
+n33,Our town elected a Jewish mayor.,Jewish,other,0
+n33,Our town elected a gay mayor.,gay,other,0
+n33,Our town elected an Irish mayor.,Irish,other,0
+n33,Our town elected a Mexican mayor.,Mexican,other,0
+n34,She married a Native American man last spring.,Native American,native,0
+n34,She married an Indigenous man last spring.,Indigenous,native,0
+n34,She married an American Indian man last spring.,American Indian,native,0
+n34,She married a First Nations man last spring.,First Nations,native,0
+n34,She married a Chickasaw man last spring.,Chickasaw,native,0
+n34,She married a Navajo man last spring.,Navajo,native,0
+n34,She married a Cherokee man last spring.,Cherokee,native,0
+n34,She married a Choctaw man last spring.,Choctaw,native,0
+n34,She married a Lakota man last spring.,Lakota,native,0
+n34,She married an Ojibwe man last spring.,Ojibwe,native,0
+n34,She married a Black man last spring.,Black,other,0
+n34,She married a white man last spring.,white,other,0
+n34,She married an Asian man last spring.,Asian,other,0
+n34,She married a Latino man last spring.,Latino,other,0
+n34,She married a Muslim man last spring.,Muslim,other,0
+n34,She married a Christian man last spring.,Christian,other,0
+n34,She married a Jewish man last spring.,Jewish,other,0
+n34,She married a gay man last spring.,gay,other,0
+n34,She married an Irish man last spring.,Irish,other,0
+n34,She married a Mexican man last spring.,Mexican,other,0
+n35,He grew up in a Native American household.,Native American,native,0
+n35,He grew up in an Indigenous household.,Indigenous,native,0
+n35,He grew up in an American Indian household.,American Indian,native,0
+n35,He grew up in a First Nations household.,First Nations,native,0
+n35,He grew up in a Chickasaw household.,Chickasaw,native,0
+n35,He grew up in a Navajo household.,Navajo,native,0
+n35,He grew up in a Cherokee household.,Cherokee,native,0
+n35,He grew up in a Choctaw household.,Choctaw,native,0
+n35,He grew up in a Lakota household.,Lakota,native,0
+n35,He grew up in an Ojibwe household.,Ojibwe,native,0
+n35,He grew up in a Black household.,Black,other,0
+n35,He grew up in a white household.,white,other,0
+n35,He grew up in an Asian household.,Asian,other,0
+n35,He grew up in a Latino household.,Latino,other,0
+n35,He grew up in a Muslim household.,Muslim,other,0
+n35,He grew up in a Christian household.,Christian,other,0
+n35,He grew up in a Jewish household.,Jewish,other,0
+n35,He grew up in a gay household.,gay,other,0
+n35,He grew up in an Irish household.,Irish,other,0
+n35,He grew up in a Mexican household.,Mexican,other,0
+n36,They adopted a puppy from a Native American family down the street.,Native American,native,0
+n36,They adopted a puppy from an Indigenous family down the street.,Indigenous,native,0
+n36,They adopted a puppy from an American Indian family down the street.,American Indian,native,0
+n36,They adopted a puppy from a First Nations family down the street.,First Nations,native,0
+n36,They adopted a puppy from a Chickasaw family down the street.,Chickasaw,native,0
+n36,They adopted a puppy from a Navajo family down the street.,Navajo,native,0
+n36,They adopted a puppy from a Cherokee family down the street.,Cherokee,native,0
+n36,They adopted a puppy from a Choctaw family down the street.,Choctaw,native,0
+n36,They adopted a puppy from a Lakota family down the street.,Lakota,native,0
+n36,They adopted a puppy from an Ojibwe family down the street.,Ojibwe,native,0
+n36,They adopted a puppy from a Black family down the street.,Black,other,0
+n36,They adopted a puppy from a white family down the street.,white,other,0
+n36,They adopted a puppy from an Asian family down the street.,Asian,other,0
+n36,They adopted a puppy from a Latino family down the street.,Latino,other,0
+n36,They adopted a puppy from a Muslim family down the street.,Muslim,other,0
+n36,They adopted a puppy from a Christian family down the street.,Christian,other,0
+n36,They adopted a puppy from a Jewish family down the street.,Jewish,other,0
+n36,They adopted a puppy from a gay family down the street.,gay,other,0
+n36,They adopted a puppy from an Irish family down the street.,Irish,other,0
+n36,They adopted a puppy from a Mexican family down the street.,Mexican,other,0
+n37,We had dinner with a Native American couple from church.,Native American,native,0
+n37,We had dinner with an Indigenous couple from church.,Indigenous,native,0
+n37,We had dinner with an American Indian couple from church.,American Indian,native,0
+n37,We had dinner with a First Nations couple from church.,First Nations,native,0
+n37,We had dinner with a Chickasaw couple from church.,Chickasaw,native,0
+n37,We had dinner with a Navajo couple from church.,Navajo,native,0
+n37,We had dinner with a Cherokee couple from church.,Cherokee,native,0
+n37,We had dinner with a Choctaw couple from church.,Choctaw,native,0
+n37,We had dinner with a Lakota couple from church.,Lakota,native,0
+n37,We had dinner with an Ojibwe couple from church.,Ojibwe,native,0
+n37,We had dinner with a Black couple from church.,Black,other,0
+n37,We had dinner with a white couple from church.,white,other,0
+n37,We had dinner with an Asian couple from church.,Asian,other,0
+n37,We had dinner with a Latino couple from church.,Latino,other,0
+n37,We had dinner with a Muslim couple from church.,Muslim,other,0
+n37,We had dinner with a Christian couple from church.,Christian,other,0
+n37,We had dinner with a Jewish couple from church.,Jewish,other,0
+n37,We had dinner with a gay couple from church.,gay,other,0
+n37,We had dinner with an Irish couple from church.,Irish,other,0
+n37,We had dinner with a Mexican couple from church.,Mexican,other,0
+n38,I met a Native American engineer at the conference.,Native American,native,0
+n38,I met an Indigenous engineer at the conference.,Indigenous,native,0
+n38,I met an American Indian engineer at the conference.,American Indian,native,0
+n38,I met a First Nations engineer at the conference.,First Nations,native,0
+n38,I met a Chickasaw engineer at the conference.,Chickasaw,native,0
+n38,I met a Navajo engineer at the conference.,Navajo,native,0
+n38,I met a Cherokee engineer at the conference.,Cherokee,native,0
+n38,I met a Choctaw engineer at the conference.,Choctaw,native,0
+n38,I met a Lakota engineer at the conference.,Lakota,native,0
+n38,I met an Ojibwe engineer at the conference.,Ojibwe,native,0
+n38,I met a Black engineer at the conference.,Black,other,0
+n38,I met a white engineer at the conference.,white,other,0
+n38,I met an Asian engineer at the conference.,Asian,other,0
+n38,I met a Latino engineer at the conference.,Latino,other,0
+n38,I met a Muslim engineer at the conference.,Muslim,other,0
+n38,I met a Christian engineer at the conference.,Christian,other,0
+n38,I met a Jewish engineer at the conference.,Jewish,other,0
+n38,I met a gay engineer at the conference.,gay,other,0
+n38,I met an Irish engineer at the conference.,Irish,other,0
+n38,I met a Mexican engineer at the conference.,Mexican,other,0
+n39,I read a great book by a Native American author.,Native American,native,0
+n39,I read a great book by an Indigenous author.,Indigenous,native,0
+n39,I read a great book by an American Indian author.,American Indian,native,0
+n39,I read a great book by a First Nations author.,First Nations,native,0
+n39,I read a great book by a Chickasaw author.,Chickasaw,native,0
+n39,I read a great book by a Navajo author.,Navajo,native,0
+n39,I read a great book by a Cherokee author.,Cherokee,native,0
+n39,I read a great book by a Choctaw author.,Choctaw,native,0
+n39,I read a great book by a Lakota author.,Lakota,native,0
+n39,I read a great book by an Ojibwe author.,Ojibwe,native,0
+n39,I read a great book by a Black author.,Black,other,0
+n39,I read a great book by a white author.,white,other,0
+n39,I read a great book by an Asian author.,Asian,other,0
+n39,I read a great book by a Latino author.,Latino,other,0
+n39,I read a great book by a Muslim author.,Muslim,other,0
+n39,I read a great book by a Christian author.,Christian,other,0
+n39,I read a great book by a Jewish author.,Jewish,other,0
+n39,I read a great book by a gay author.,gay,other,0
+n39,I read a great book by an Irish author.,Irish,other,0
+n39,I read a great book by a Mexican author.,Mexican,other,0
+n40,Being Native American is part of who I am.,Native American,native,0
+n40,Being Indigenous is part of who I am.,Indigenous,native,0
+n40,Being American Indian is part of who I am.,American Indian,native,0
+n40,Being First Nations is part of who I am.,First Nations,native,0
+n40,Being Chickasaw is part of who I am.,Chickasaw,native,0
+n40,Being Navajo is part of who I am.,Navajo,native,0
+n40,Being Cherokee is part of who I am.,Cherokee,native,0
+n40,Being Choctaw is part of who I am.,Choctaw,native,0
+n40,Being Lakota is part of who I am.,Lakota,native,0
+n40,Being Ojibwe is part of who I am.,Ojibwe,native,0
+n40,Being Black is part of who I am.,Black,other,0
+n40,Being white is part of who I am.,white,other,0
+n40,Being Asian is part of who I am.,Asian,other,0
+n40,Being Latino is part of who I am.,Latino,other,0
+n40,Being Muslim is part of who I am.,Muslim,other,0
+n40,Being Christian is part of who I am.,Christian,other,0
+n40,Being Jewish is part of who I am.,Jewish,other,0
+n40,Being gay is part of who I am.,gay,other,0
+n40,Being Irish is part of who I am.,Irish,other,0
+n40,Being Mexican is part of who I am.,Mexican,other,0
+n41,I learned a lot about Native American history in school.,Native American,native,0
+n41,I learned a lot about Indigenous history in school.,Indigenous,native,0
+n41,I learned a lot about American Indian history in school.,American Indian,native,0
+n41,I learned a lot about First Nations history in school.,First Nations,native,0
+n41,I learned a lot about Chickasaw history in school.,Chickasaw,native,0
+n41,I learned a lot about Navajo history in school.,Navajo,native,0
+n41,I learned a lot about Cherokee history in school.,Cherokee,native,0
+n41,I learned a lot about Choctaw history in school.,Choctaw,native,0
+n41,I learned a lot about Lakota history in school.,Lakota,native,0
+n41,I learned a lot about Ojibwe history in school.,Ojibwe,native,0
+n41,I learned a lot about Black history in school.,Black,other,0
+n41,I learned a lot about white history in school.,white,other,0
+n41,I learned a lot about Asian history in school.,Asian,other,0
+n41,I learned a lot about Latino history in school.,Latino,other,0
+n41,I learned a lot about Muslim history in school.,Muslim,other,0
+n41,I learned a lot about Christian history in school.,Christian,other,0
+n41,I learned a lot about Jewish history in school.,Jewish,other,0
+n41,I learned a lot about gay history in school.,gay,other,0
+n41,I learned a lot about Irish history in school.,Irish,other,0
+n41,I learned a lot about Mexican history in school.,Mexican,other,0
+n42,The festival celebrates Native American culture.,Native American,native,0
+n42,The festival celebrates Indigenous culture.,Indigenous,native,0
+n42,The festival celebrates American Indian culture.,American Indian,native,0
+n42,The festival celebrates First Nations culture.,First Nations,native,0
+n42,The festival celebrates Chickasaw culture.,Chickasaw,native,0
+n42,The festival celebrates Navajo culture.,Navajo,native,0
+n42,The festival celebrates Cherokee culture.,Cherokee,native,0
+n42,The festival celebrates Choctaw culture.,Choctaw,native,0
+n42,The festival celebrates Lakota culture.,Lakota,native,0
+n42,The festival celebrates Ojibwe culture.,Ojibwe,native,0
+n42,The festival celebrates Black culture.,Black,other,0
+n42,The festival celebrates white culture.,white,other,0
+n42,The festival celebrates Asian culture.,Asian,other,0
+n42,The festival celebrates Latino culture.,Latino,other,0
+n42,The festival celebrates Muslim culture.,Muslim,other,0
+n42,The festival celebrates Christian culture.,Christian,other,0
+n42,The festival celebrates Jewish culture.,Jewish,other,0
+n42,The festival celebrates gay culture.,gay,other,0
+n42,The festival celebrates Irish culture.,Irish,other,0
+n42,The festival celebrates Mexican culture.,Mexican,other,0
+n43,The library has a section on Native American history.,Native American,native,0
+n43,The library has a section on Indigenous history.,Indigenous,native,0
+n43,The library has a section on American Indian history.,American Indian,native,0
+n43,The library has a section on First Nations history.,First Nations,native,0
+n43,The library has a section on Chickasaw history.,Chickasaw,native,0
+n43,The library has a section on Navajo history.,Navajo,native,0
+n43,The library has a section on Cherokee history.,Cherokee,native,0
+n43,The library has a section on Choctaw history.,Choctaw,native,0
+n43,The library has a section on Lakota history.,Lakota,native,0
+n43,The library has a section on Ojibwe history.,Ojibwe,native,0
+n43,The library has a section on Black history.,Black,other,0
+n43,The library has a section on white history.,white,other,0
+n43,The library has a section on Asian history.,Asian,other,0
+n43,The library has a section on Latino history.,Latino,other,0
+n43,The library has a section on Muslim history.,Muslim,other,0
+n43,The library has a section on Christian history.,Christian,other,0
+n43,The library has a section on Jewish history.,Jewish,other,0
+n43,The library has a section on gay history.,gay,other,0
+n43,The library has a section on Irish history.,Irish,other,0
+n43,The library has a section on Mexican history.,Mexican,other,0
+n44,The radio station plays Native American music on Sundays.,Native American,native,0
+n44,The radio station plays Indigenous music on Sundays.,Indigenous,native,0
+n44,The radio station plays American Indian music on Sundays.,American Indian,native,0
+n44,The radio station plays First Nations music on Sundays.,First Nations,native,0
+n44,The radio station plays Chickasaw music on Sundays.,Chickasaw,native,0
+n44,The radio station plays Navajo music on Sundays.,Navajo,native,0
+n44,The radio station plays Cherokee music on Sundays.,Cherokee,native,0
+n44,The radio station plays Choctaw music on Sundays.,Choctaw,native,0
+n44,The radio station plays Lakota music on Sundays.,Lakota,native,0
+n44,The radio station plays Ojibwe music on Sundays.,Ojibwe,native,0
+n44,The radio station plays Black music on Sundays.,Black,other,0
+n44,The radio station plays white music on Sundays.,white,other,0
+n44,The radio station plays Asian music on Sundays.,Asian,other,0
+n44,The radio station plays Latino music on Sundays.,Latino,other,0
+n44,The radio station plays Muslim music on Sundays.,Muslim,other,0
+n44,The radio station plays Christian music on Sundays.,Christian,other,0
+n44,The radio station plays Jewish music on Sundays.,Jewish,other,0
+n44,The radio station plays gay music on Sundays.,gay,other,0
+n44,The radio station plays Irish music on Sundays.,Irish,other,0
+n44,The radio station plays Mexican music on Sundays.,Mexican,other,0
+n45,The film tells the story of a Native American family.,Native American,native,0
+n45,The film tells the story of an Indigenous family.,Indigenous,native,0
+n45,The film tells the story of an American Indian family.,American Indian,native,0
+n45,The film tells the story of a First Nations family.,First Nations,native,0
+n45,The film tells the story of a Chickasaw family.,Chickasaw,native,0
+n45,The film tells the story of a Navajo family.,Navajo,native,0
+n45,The film tells the story of a Cherokee family.,Cherokee,native,0
+n45,The film tells the story of a Choctaw family.,Choctaw,native,0
+n45,The film tells the story of a Lakota family.,Lakota,native,0
+n45,The film tells the story of an Ojibwe family.,Ojibwe,native,0
+n45,The film tells the story of a Black family.,Black,other,0
+n45,The film tells the story of a white family.,white,other,0
+n45,The film tells the story of an Asian family.,Asian,other,0
+n45,The film tells the story of a Latino family.,Latino,other,0
+n45,The film tells the story of a Muslim family.,Muslim,other,0
+n45,The film tells the story of a Christian family.,Christian,other,0
+n45,The film tells the story of a Jewish family.,Jewish,other,0
+n45,The film tells the story of a gay family.,gay,other,0
+n45,The film tells the story of an Irish family.,Irish,other,0
+n45,The film tells the story of a Mexican family.,Mexican,other,0
+n46,The scholarship supports Native American students.,Native American,native,0
+n46,The scholarship supports Indigenous students.,Indigenous,native,0
+n46,The scholarship supports American Indian students.,American Indian,native,0
+n46,The scholarship supports First Nations students.,First Nations,native,0
+n46,The scholarship supports Chickasaw students.,Chickasaw,native,0
+n46,The scholarship supports Navajo students.,Navajo,native,0
+n46,The scholarship supports Cherokee students.,Cherokee,native,0
+n46,The scholarship supports Choctaw students.,Choctaw,native,0
+n46,The scholarship supports Lakota students.,Lakota,native,0
+n46,The scholarship supports Ojibwe students.,Ojibwe,native,0
+n46,The scholarship supports Black students.,Black,other,0
+n46,The scholarship supports white students.,white,other,0
+n46,The scholarship supports Asian students.,Asian,other,0
+n46,The scholarship supports Latino students.,Latino,other,0
+n46,The scholarship supports Muslim students.,Muslim,other,0
+n46,The scholarship supports Christian students.,Christian,other,0
+n46,The scholarship supports Jewish students.,Jewish,other,0
+n46,The scholarship supports gay students.,gay,other,0
+n46,The scholarship supports Irish students.,Irish,other,0
+n46,The scholarship supports Mexican students.,Mexican,other,0
+n47,The clinic serves Native American patients and everyone else.,Native American,native,0
+n47,The clinic serves Indigenous patients and everyone else.,Indigenous,native,0
+n47,The clinic serves American Indian patients and everyone else.,American Indian,native,0
+n47,The clinic serves First Nations patients and everyone else.,First Nations,native,0
+n47,The clinic serves Chickasaw patients and everyone else.,Chickasaw,native,0
+n47,The clinic serves Navajo patients and everyone else.,Navajo,native,0
+n47,The clinic serves Cherokee patients and everyone else.,Cherokee,native,0
+n47,The clinic serves Choctaw patients and everyone else.,Choctaw,native,0
+n47,The clinic serves Lakota patients and everyone else.,Lakota,native,0
+n47,The clinic serves Ojibwe patients and everyone else.,Ojibwe,native,0
+n47,The clinic serves Black patients and everyone else.,Black,other,0
+n47,The clinic serves white patients and everyone else.,white,other,0
+n47,The clinic serves Asian patients and everyone else.,Asian,other,0
+n47,The clinic serves Latino patients and everyone else.,Latino,other,0
+n47,The clinic serves Muslim patients and everyone else.,Muslim,other,0
+n47,The clinic serves Christian patients and everyone else.,Christian,other,0
+n47,The clinic serves Jewish patients and everyone else.,Jewish,other,0
+n47,The clinic serves gay patients and everyone else.,gay,other,0
+n47,The clinic serves Irish patients and everyone else.,Irish,other,0
+n47,The clinic serves Mexican patients and everyone else.,Mexican,other,0
+n48,The report looked at Native American homeownership rates.,Native American,native,0
+n48,The report looked at Indigenous homeownership rates.,Indigenous,native,0
+n48,The report looked at American Indian homeownership rates.,American Indian,native,0
+n48,The report looked at First Nations homeownership rates.,First Nations,native,0
+n48,The report looked at Chickasaw homeownership rates.,Chickasaw,native,0
+n48,The report looked at Navajo homeownership rates.,Navajo,native,0
+n48,The report looked at Cherokee homeownership rates.,Cherokee,native,0
+n48,The report looked at Choctaw homeownership rates.,Choctaw,native,0
+n48,The report looked at Lakota homeownership rates.,Lakota,native,0
+n48,The report looked at Ojibwe homeownership rates.,Ojibwe,native,0
+n48,The report looked at Black homeownership rates.,Black,other,0
+n48,The report looked at white homeownership rates.,white,other,0
+n48,The report looked at Asian homeownership rates.,Asian,other,0
+n48,The report looked at Latino homeownership rates.,Latino,other,0
+n48,The report looked at Muslim homeownership rates.,Muslim,other,0
+n48,The report looked at Christian homeownership rates.,Christian,other,0
+n48,The report looked at Jewish homeownership rates.,Jewish,other,0
+n48,The report looked at gay homeownership rates.,gay,other,0
+n48,The report looked at Irish homeownership rates.,Irish,other,0
+n48,The report looked at Mexican homeownership rates.,Mexican,other,0
+n49,The study surveyed Native American teenagers about social media.,Native American,native,0
+n49,The study surveyed Indigenous teenagers about social media.,Indigenous,native,0
+n49,The study surveyed American Indian teenagers about social media.,American Indian,native,0
+n49,The study surveyed First Nations teenagers about social media.,First Nations,native,0
+n49,The study surveyed Chickasaw teenagers about social media.,Chickasaw,native,0
+n49,The study surveyed Navajo teenagers about social media.,Navajo,native,0
+n49,The study surveyed Cherokee teenagers about social media.,Cherokee,native,0
+n49,The study surveyed Choctaw teenagers about social media.,Choctaw,native,0
+n49,The study surveyed Lakota teenagers about social media.,Lakota,native,0
+n49,The study surveyed Ojibwe teenagers about social media.,Ojibwe,native,0
+n49,The study surveyed Black teenagers about social media.,Black,other,0
+n49,The study surveyed white teenagers about social media.,white,other,0
+n49,The study surveyed Asian teenagers about social media.,Asian,other,0
+n49,The study surveyed Latino teenagers about social media.,Latino,other,0
+n49,The study surveyed Muslim teenagers about social media.,Muslim,other,0
+n49,The study surveyed Christian teenagers about social media.,Christian,other,0
+n49,The study surveyed Jewish teenagers about social media.,Jewish,other,0
+n49,The study surveyed gay teenagers about social media.,gay,other,0
+n49,The study surveyed Irish teenagers about social media.,Irish,other,0
+n49,The study surveyed Mexican teenagers about social media.,Mexican,other,0
+n50,Many Native American people work in education.,Native American,native,0
+n50,Many Indigenous people work in education.,Indigenous,native,0
+n50,Many American Indian people work in education.,American Indian,native,0
+n50,Many First Nations people work in education.,First Nations,native,0
+n50,Many Chickasaw people work in education.,Chickasaw,native,0
+n50,Many Navajo people work in education.,Navajo,native,0
+n50,Many Cherokee people work in education.,Cherokee,native,0
+n50,Many Choctaw people work in education.,Choctaw,native,0
+n50,Many Lakota people work in education.,Lakota,native,0
+n50,Many Ojibwe people work in education.,Ojibwe,native,0
+n50,Many Black people work in education.,Black,other,0
+n50,Many white people work in education.,white,other,0
+n50,Many Asian people work in education.,Asian,other,0
+n50,Many Latino people work in education.,Latino,other,0
+n50,Many Muslim people work in education.,Muslim,other,0
+n50,Many Christian people work in education.,Christian,other,0
+n50,Many Jewish people work in education.,Jewish,other,0
+n50,Many gay people work in education.,gay,other,0
+n50,Many Irish people work in education.,Irish,other,0
+n50,Many Mexican people work in education.,Mexican,other,0
+n51,Some Native American people moved here for jobs.,Native American,native,0
+n51,Some Indigenous people moved here for jobs.,Indigenous,native,0
+n51,Some American Indian people moved here for jobs.,American Indian,native,0
+n51,Some First Nations people moved here for jobs.,First Nations,native,0
+n51,Some Chickasaw people moved here for jobs.,Chickasaw,native,0
+n51,Some Navajo people moved here for jobs.,Navajo,native,0
+n51,Some Cherokee people moved here for jobs.,Cherokee,native,0
+n51,Some Choctaw people moved here for jobs.,Choctaw,native,0
+n51,Some Lakota people moved here for jobs.,Lakota,native,0
+n51,Some Ojibwe people moved here for jobs.,Ojibwe,native,0
+n51,Some Black people moved here for jobs.,Black,other,0
+n51,Some white people moved here for jobs.,white,other,0
+n51,Some Asian people moved here for jobs.,Asian,other,0
+n51,Some Latino people moved here for jobs.,Latino,other,0
+n51,Some Muslim people moved here for jobs.,Muslim,other,0
+n51,Some Christian people moved here for jobs.,Christian,other,0
+n51,Some Jewish people moved here for jobs.,Jewish,other,0
+n51,Some gay people moved here for jobs.,gay,other,0
+n51,Some Irish people moved here for jobs.,Irish,other,0
+n51,Some Mexican people moved here for jobs.,Mexican,other,0
+n52,Thank you to the Native American volunteers who cleaned the river.,Native American,native,0
+n52,Thank you to the Indigenous volunteers who cleaned the river.,Indigenous,native,0
+n52,Thank you to the American Indian volunteers who cleaned the river.,American Indian,native,0
+n52,Thank you to the First Nations volunteers who cleaned the river.,First Nations,native,0
+n52,Thank you to the Chickasaw volunteers who cleaned the river.,Chickasaw,native,0
+n52,Thank you to the Navajo volunteers who cleaned the river.,Navajo,native,0
+n52,Thank you to the Cherokee volunteers who cleaned the river.,Cherokee,native,0
+n52,Thank you to the Choctaw volunteers who cleaned the river.,Choctaw,native,0
+n52,Thank you to the Lakota volunteers who cleaned the river.,Lakota,native,0
+n52,Thank you to the Ojibwe volunteers who cleaned the river.,Ojibwe,native,0
+n52,Thank you to the Black volunteers who cleaned the river.,Black,other,0
+n52,Thank you to the white volunteers who cleaned the river.,white,other,0
+n52,Thank you to the Asian volunteers who cleaned the river.,Asian,other,0
+n52,Thank you to the Latino volunteers who cleaned the river.,Latino,other,0
+n52,Thank you to the Muslim volunteers who cleaned the river.,Muslim,other,0
+n52,Thank you to the Christian volunteers who cleaned the river.,Christian,other,0
+n52,Thank you to the Jewish volunteers who cleaned the river.,Jewish,other,0
+n52,Thank you to the gay volunteers who cleaned the river.,gay,other,0
+n52,Thank you to the Irish volunteers who cleaned the river.,Irish,other,0
+n52,Thank you to the Mexican volunteers who cleaned the river.,Mexican,other,0
+n53,Congratulations to the Native American graduates.,Native American,native,0
+n53,Congratulations to the Indigenous graduates.,Indigenous,native,0
+n53,Congratulations to the American Indian graduates.,American Indian,native,0
+n53,Congratulations to the First Nations graduates.,First Nations,native,0
+n53,Congratulations to the Chickasaw graduates.,Chickasaw,native,0
+n53,Congratulations to the Navajo graduates.,Navajo,native,0
+n53,Congratulations to the Cherokee graduates.,Cherokee,native,0
+n53,Congratulations to the Choctaw graduates.,Choctaw,native,0
+n53,Congratulations to the Lakota graduates.,Lakota,native,0
+n53,Congratulations to the Ojibwe graduates.,Ojibwe,native,0
+n53,Congratulations to the Black graduates.,Black,other,0
+n53,Congratulations to the white graduates.,white,other,0
+n53,Congratulations to the Asian graduates.,Asian,other,0
+n53,Congratulations to the Latino graduates.,Latino,other,0
+n53,Congratulations to the Muslim graduates.,Muslim,other,0
+n53,Congratulations to the Christian graduates.,Christian,other,0
+n53,Congratulations to the Jewish graduates.,Jewish,other,0
+n53,Congratulations to the gay graduates.,gay,other,0
+n53,Congratulations to the Irish graduates.,Irish,other,0
+n53,Congratulations to the Mexican graduates.,Mexican,other,0
+n54,Happy birthday to my Native American cousin!,Native American,native,0
+n54,Happy birthday to my Indigenous cousin!,Indigenous,native,0
+n54,Happy birthday to my American Indian cousin!,American Indian,native,0
+n54,Happy birthday to my First Nations cousin!,First Nations,native,0
+n54,Happy birthday to my Chickasaw cousin!,Chickasaw,native,0
+n54,Happy birthday to my Navajo cousin!,Navajo,native,0
+n54,Happy birthday to my Cherokee cousin!,Cherokee,native,0
+n54,Happy birthday to my Choctaw cousin!,Choctaw,native,0
+n54,Happy birthday to my Lakota cousin!,Lakota,native,0
+n54,Happy birthday to my Ojibwe cousin!,Ojibwe,native,0
+n54,Happy birthday to my Black cousin!,Black,other,0
+n54,Happy birthday to my white cousin!,white,other,0
+n54,Happy birthday to my Asian cousin!,Asian,other,0
+n54,Happy birthday to my Latino cousin!,Latino,other,0
+n54,Happy birthday to my Muslim cousin!,Muslim,other,0
+n54,Happy birthday to my Christian cousin!,Christian,other,0
+n54,Happy birthday to my Jewish cousin!,Jewish,other,0
+n54,Happy birthday to my gay cousin!,gay,other,0
+n54,Happy birthday to my Irish cousin!,Irish,other,0
+n54,Happy birthday to my Mexican cousin!,Mexican,other,0
+n55,Is there a Native American restaurant near here?,Native American,native,0
+n55,Is there an Indigenous restaurant near here?,Indigenous,native,0
+n55,Is there an American Indian restaurant near here?,American Indian,native,0
+n55,Is there a First Nations restaurant near here?,First Nations,native,0
+n55,Is there a Chickasaw restaurant near here?,Chickasaw,native,0
+n55,Is there a Navajo restaurant near here?,Navajo,native,0
+n55,Is there a Cherokee restaurant near here?,Cherokee,native,0
+n55,Is there a Choctaw restaurant near here?,Choctaw,native,0
+n55,Is there a Lakota restaurant near here?,Lakota,native,0
+n55,Is there an Ojibwe restaurant near here?,Ojibwe,native,0
+n55,Is there a Black restaurant near here?,Black,other,0
+n55,Is there a white restaurant near here?,white,other,0
+n55,Is there an Asian restaurant near here?,Asian,other,0
+n55,Is there a Latino restaurant near here?,Latino,other,0
+n55,Is there a Muslim restaurant near here?,Muslim,other,0
+n55,Is there a Christian restaurant near here?,Christian,other,0
+n55,Is there a Jewish restaurant near here?,Jewish,other,0
+n55,Is there a gay restaurant near here?,gay,other,0
+n55,Is there an Irish restaurant near here?,Irish,other,0
+n55,Is there a Mexican restaurant near here?,Mexican,other,0
+n56,Where is the Native American cultural center?,Native American,native,0
+n56,Where is the Indigenous cultural center?,Indigenous,native,0
+n56,Where is the American Indian cultural center?,American Indian,native,0
+n56,Where is the First Nations cultural center?,First Nations,native,0
+n56,Where is the Chickasaw cultural center?,Chickasaw,native,0
+n56,Where is the Navajo cultural center?,Navajo,native,0
+n56,Where is the Cherokee cultural center?,Cherokee,native,0
+n56,Where is the Choctaw cultural center?,Choctaw,native,0
+n56,Where is the Lakota cultural center?,Lakota,native,0
+n56,Where is the Ojibwe cultural center?,Ojibwe,native,0
+n56,Where is the Black cultural center?,Black,other,0
+n56,Where is the white cultural center?,white,other,0
+n56,Where is the Asian cultural center?,Asian,other,0
+n56,Where is the Latino cultural center?,Latino,other,0
+n56,Where is the Muslim cultural center?,Muslim,other,0
+n56,Where is the Christian cultural center?,Christian,other,0
+n56,Where is the Jewish cultural center?,Jewish,other,0
+n56,Where is the gay cultural center?,gay,other,0
+n56,Where is the Irish cultural center?,Irish,other,0
+n56,Where is the Mexican cultural center?,Mexican,other,0
+n57,What is it like to grow up Native American?,Native American,native,0
+n57,What is it like to grow up Indigenous?,Indigenous,native,0
+n57,What is it like to grow up American Indian?,American Indian,native,0
+n57,What is it like to grow up First Nations?,First Nations,native,0
+n57,What is it like to grow up Chickasaw?,Chickasaw,native,0
+n57,What is it like to grow up Navajo?,Navajo,native,0
+n57,What is it like to grow up Cherokee?,Cherokee,native,0
+n57,What is it like to grow up Choctaw?,Choctaw,native,0
+n57,What is it like to grow up Lakota?,Lakota,native,0
+n57,What is it like to grow up Ojibwe?,Ojibwe,native,0
+n57,What is it like to grow up Black?,Black,other,0
+n57,What is it like to grow up white?,white,other,0
+n57,What is it like to grow up Asian?,Asian,other,0
+n57,What is it like to grow up Latino?,Latino,other,0
+n57,What is it like to grow up Muslim?,Muslim,other,0
+n57,What is it like to grow up Christian?,Christian,other,0
+n57,What is it like to grow up Jewish?,Jewish,other,0
+n57,What is it like to grow up gay?,gay,other,0
+n57,What is it like to grow up Irish?,Irish,other,0
+n57,What is it like to grow up Mexican?,Mexican,other,0
+n58,I want to learn more about being Native American.,Native American,native,0
+n58,I want to learn more about being Indigenous.,Indigenous,native,0
+n58,I want to learn more about being American Indian.,American Indian,native,0
+n58,I want to learn more about being First Nations.,First Nations,native,0
+n58,I want to learn more about being Chickasaw.,Chickasaw,native,0
+n58,I want to learn more about being Navajo.,Navajo,native,0
+n58,I want to learn more about being Cherokee.,Cherokee,native,0
+n58,I want to learn more about being Choctaw.,Choctaw,native,0
+n58,I want to learn more about being Lakota.,Lakota,native,0
+n58,I want to learn more about being Ojibwe.,Ojibwe,native,0
+n58,I want to learn more about being Black.,Black,other,0
+n58,I want to learn more about being white.,white,other,0
+n58,I want to learn more about being Asian.,Asian,other,0
+n58,I want to learn more about being Latino.,Latino,other,0
+n58,I want to learn more about being Muslim.,Muslim,other,0
+n58,I want to learn more about being Christian.,Christian,other,0
+n58,I want to learn more about being Jewish.,Jewish,other,0
+n58,I want to learn more about being gay.,gay,other,0
+n58,I want to learn more about being Irish.,Irish,other,0
+n58,I want to learn more about being Mexican.,Mexican,other,0
+n59,"Everyone is welcome here, including Native American people.",Native American,native,0
+n59,"Everyone is welcome here, including Indigenous people.",Indigenous,native,0
+n59,"Everyone is welcome here, including American Indian people.",American Indian,native,0
+n59,"Everyone is welcome here, including First Nations people.",First Nations,native,0
+n59,"Everyone is welcome here, including Chickasaw people.",Chickasaw,native,0
+n59,"Everyone is welcome here, including Navajo people.",Navajo,native,0
+n59,"Everyone is welcome here, including Cherokee people.",Cherokee,native,0
+n59,"Everyone is welcome here, including Choctaw people.",Choctaw,native,0
+n59,"Everyone is welcome here, including Lakota people.",Lakota,native,0
+n59,"Everyone is welcome here, including Ojibwe people.",Ojibwe,native,0
+n59,"Everyone is welcome here, including Black people.",Black,other,0
+n59,"Everyone is welcome here, including white people.",white,other,0
+n59,"Everyone is welcome here, including Asian people.",Asian,other,0
+n59,"Everyone is welcome here, including Latino people.",Latino,other,0
+n59,"Everyone is welcome here, including Muslim people.",Muslim,other,0
+n59,"Everyone is welcome here, including Christian people.",Christian,other,0
+n59,"Everyone is welcome here, including Jewish people.",Jewish,other,0
+n59,"Everyone is welcome here, including gay people.",gay,other,0
+n59,"Everyone is welcome here, including Irish people.",Irish,other,0
+n59,"Everyone is welcome here, including Mexican people.",Mexican,other,0
+t00,I hate Native American people.,Native American,native,1
+t00,I hate Indigenous people.,Indigenous,native,1
+t00,I hate American Indian people.,American Indian,native,1
+t00,I hate First Nations people.,First Nations,native,1
+t00,I hate Chickasaw people.,Chickasaw,native,1
+t00,I hate Navajo people.,Navajo,native,1
+t00,I hate Cherokee people.,Cherokee,native,1
+t00,I hate Choctaw people.,Choctaw,native,1
+t00,I hate Lakota people.,Lakota,native,1
+t00,I hate Ojibwe people.,Ojibwe,native,1
+t00,I hate Black people.,Black,other,1
+t00,I hate white people.,white,other,1
+t00,I hate Asian people.,Asian,other,1
+t00,I hate Latino people.,Latino,other,1
+t00,I hate Muslim people.,Muslim,other,1
+t00,I hate Christian people.,Christian,other,1
+t00,I hate Jewish people.,Jewish,other,1
+t00,I hate gay people.,gay,other,1
+t00,I hate Irish people.,Irish,other,1
+t00,I hate Mexican people.,Mexican,other,1
+t01,I hate all Native American people.,Native American,native,1
+t01,I hate all Indigenous people.,Indigenous,native,1
+t01,I hate all American Indian people.,American Indian,native,1
+t01,I hate all First Nations people.,First Nations,native,1
+t01,I hate all Chickasaw people.,Chickasaw,native,1
+t01,I hate all Navajo people.,Navajo,native,1
+t01,I hate all Cherokee people.,Cherokee,native,1
+t01,I hate all Choctaw people.,Choctaw,native,1
+t01,I hate all Lakota people.,Lakota,native,1
+t01,I hate all Ojibwe people.,Ojibwe,native,1
+t01,I hate all Black people.,Black,other,1
+t01,I hate all white people.,white,other,1
+t01,I hate all Asian people.,Asian,other,1
+t01,I hate all Latino people.,Latino,other,1
+t01,I hate all Muslim people.,Muslim,other,1
+t01,I hate all Christian people.,Christian,other,1
+t01,I hate all Jewish people.,Jewish,other,1
+t01,I hate all gay people.,gay,other,1
+t01,I hate all Irish people.,Irish,other,1
+t01,I hate all Mexican people.,Mexican,other,1
+t02,Native American people are disgusting.,Native American,native,1
+t02,Indigenous people are disgusting.,Indigenous,native,1
+t02,American Indian people are disgusting.,American Indian,native,1
+t02,First Nations people are disgusting.,First Nations,native,1
+t02,Chickasaw people are disgusting.,Chickasaw,native,1
+t02,Navajo people are disgusting.,Navajo,native,1
+t02,Cherokee people are disgusting.,Cherokee,native,1
+t02,Choctaw people are disgusting.,Choctaw,native,1
+t02,Lakota people are disgusting.,Lakota,native,1
+t02,Ojibwe people are disgusting.,Ojibwe,native,1
+t02,Black people are disgusting.,Black,other,1
+t02,White people are disgusting.,white,other,1
+t02,Asian people are disgusting.,Asian,other,1
+t02,Latino people are disgusting.,Latino,other,1
+t02,Muslim people are disgusting.,Muslim,other,1
+t02,Christian people are disgusting.,Christian,other,1
+t02,Jewish people are disgusting.,Jewish,other,1
+t02,Gay people are disgusting.,gay,other,1
+t02,Irish people are disgusting.,Irish,other,1
+t02,Mexican people are disgusting.,Mexican,other,1
+t03,Native American people are stupid.,Native American,native,1
+t03,Indigenous people are stupid.,Indigenous,native,1
+t03,American Indian people are stupid.,American Indian,native,1
+t03,First Nations people are stupid.,First Nations,native,1
+t03,Chickasaw people are stupid.,Chickasaw,native,1
+t03,Navajo people are stupid.,Navajo,native,1
+t03,Cherokee people are stupid.,Cherokee,native,1
+t03,Choctaw people are stupid.,Choctaw,native,1
+t03,Lakota people are stupid.,Lakota,native,1
+t03,Ojibwe people are stupid.,Ojibwe,native,1
+t03,Black people are stupid.,Black,other,1
+t03,White people are stupid.,white,other,1
+t03,Asian people are stupid.,Asian,other,1
+t03,Latino people are stupid.,Latino,other,1
+t03,Muslim people are stupid.,Muslim,other,1
+t03,Christian people are stupid.,Christian,other,1
+t03,Jewish people are stupid.,Jewish,other,1
+t03,Gay people are stupid.,gay,other,1
+t03,Irish people are stupid.,Irish,other,1
+t03,Mexican people are stupid.,Mexican,other,1
+t04,Native American people are worthless.,Native American,native,1
+t04,Indigenous people are worthless.,Indigenous,native,1
+t04,American Indian people are worthless.,American Indian,native,1
+t04,First Nations people are worthless.,First Nations,native,1
+t04,Chickasaw people are worthless.,Chickasaw,native,1
+t04,Navajo people are worthless.,Navajo,native,1
+t04,Cherokee people are worthless.,Cherokee,native,1
+t04,Choctaw people are worthless.,Choctaw,native,1
+t04,Lakota people are worthless.,Lakota,native,1
+t04,Ojibwe people are worthless.,Ojibwe,native,1
+t04,Black people are worthless.,Black,other,1
+t04,White people are worthless.,white,other,1
+t04,Asian people are worthless.,Asian,other,1
+t04,Latino people are worthless.,Latino,other,1
+t04,Muslim people are worthless.,Muslim,other,1
+t04,Christian people are worthless.,Christian,other,1
+t04,Jewish people are worthless.,Jewish,other,1
+t04,Gay people are worthless.,gay,other,1
+t04,Irish people are worthless.,Irish,other,1
+t04,Mexican people are worthless.,Mexican,other,1
+t05,Native American people are trash.,Native American,native,1
+t05,Indigenous people are trash.,Indigenous,native,1
+t05,American Indian people are trash.,American Indian,native,1
+t05,First Nations people are trash.,First Nations,native,1
+t05,Chickasaw people are trash.,Chickasaw,native,1
+t05,Navajo people are trash.,Navajo,native,1
+t05,Cherokee people are trash.,Cherokee,native,1
+t05,Choctaw people are trash.,Choctaw,native,1
+t05,Lakota people are trash.,Lakota,native,1
+t05,Ojibwe people are trash.,Ojibwe,native,1
+t05,Black people are trash.,Black,other,1
+t05,White people are trash.,white,other,1
+t05,Asian people are trash.,Asian,other,1
+t05,Latino people are trash.,Latino,other,1
+t05,Muslim people are trash.,Muslim,other,1
+t05,Christian people are trash.,Christian,other,1
+t05,Jewish people are trash.,Jewish,other,1
+t05,Gay people are trash.,gay,other,1
+t05,Irish people are trash.,Irish,other,1
+t05,Mexican people are trash.,Mexican,other,1
+t06,Native American people are filthy animals.,Native American,native,1
+t06,Indigenous people are filthy animals.,Indigenous,native,1
+t06,American Indian people are filthy animals.,American Indian,native,1
+t06,First Nations people are filthy animals.,First Nations,native,1
+t06,Chickasaw people are filthy animals.,Chickasaw,native,1
+t06,Navajo people are filthy animals.,Navajo,native,1
+t06,Cherokee people are filthy animals.,Cherokee,native,1
+t06,Choctaw people are filthy animals.,Choctaw,native,1
+t06,Lakota people are filthy animals.,Lakota,native,1
+t06,Ojibwe people are filthy animals.,Ojibwe,native,1
+t06,Black people are filthy animals.,Black,other,1
+t06,White people are filthy animals.,white,other,1
+t06,Asian people are filthy animals.,Asian,other,1
+t06,Latino people are filthy animals.,Latino,other,1
+t06,Muslim people are filthy animals.,Muslim,other,1
+t06,Christian people are filthy animals.,Christian,other,1
+t06,Jewish people are filthy animals.,Jewish,other,1
+t06,Gay people are filthy animals.,gay,other,1
+t06,Irish people are filthy animals.,Irish,other,1
+t06,Mexican people are filthy animals.,Mexican,other,1
+t07,Native American people are lazy parasites.,Native American,native,1
+t07,Indigenous people are lazy parasites.,Indigenous,native,1
+t07,American Indian people are lazy parasites.,American Indian,native,1
+t07,First Nations people are lazy parasites.,First Nations,native,1
+t07,Chickasaw people are lazy parasites.,Chickasaw,native,1
+t07,Navajo people are lazy parasites.,Navajo,native,1
+t07,Cherokee people are lazy parasites.,Cherokee,native,1
+t07,Choctaw people are lazy parasites.,Choctaw,native,1
+t07,Lakota people are lazy parasites.,Lakota,native,1
+t07,Ojibwe people are lazy parasites.,Ojibwe,native,1
+t07,Black people are lazy parasites.,Black,other,1
+t07,White people are lazy parasites.,white,other,1
+t07,Asian people are lazy parasites.,Asian,other,1
+t07,Latino people are lazy parasites.,Latino,other,1
+t07,Muslim people are lazy parasites.,Muslim,other,1
+t07,Christian people are lazy parasites.,Christian,other,1
+t07,Jewish people are lazy parasites.,Jewish,other,1
+t07,Gay people are lazy parasites.,gay,other,1
+t07,Irish people are lazy parasites.,Irish,other,1
+t07,Mexican people are lazy parasites.,Mexican,other,1
+t08,Native American people are idiots.,Native American,native,1
+t08,Indigenous people are idiots.,Indigenous,native,1
+t08,American Indian people are idiots.,American Indian,native,1
+t08,First Nations people are idiots.,First Nations,native,1
+t08,Chickasaw people are idiots.,Chickasaw,native,1
+t08,Navajo people are idiots.,Navajo,native,1
+t08,Cherokee people are idiots.,Cherokee,native,1
+t08,Choctaw people are idiots.,Choctaw,native,1
+t08,Lakota people are idiots.,Lakota,native,1
+t08,Ojibwe people are idiots.,Ojibwe,native,1
+t08,Black people are idiots.,Black,other,1
+t08,White people are idiots.,white,other,1
+t08,Asian people are idiots.,Asian,other,1
+t08,Latino people are idiots.,Latino,other,1
+t08,Muslim people are idiots.,Muslim,other,1
+t08,Christian people are idiots.,Christian,other,1
+t08,Jewish people are idiots.,Jewish,other,1
+t08,Gay people are idiots.,gay,other,1
+t08,Irish people are idiots.,Irish,other,1
+t08,Mexican people are idiots.,Mexican,other,1
+t09,Native American people are a disease.,Native American,native,1
+t09,Indigenous people are a disease.,Indigenous,native,1
+t09,American Indian people are a disease.,American Indian,native,1
+t09,First Nations people are a disease.,First Nations,native,1
+t09,Chickasaw people are a disease.,Chickasaw,native,1
+t09,Navajo people are a disease.,Navajo,native,1
+t09,Cherokee people are a disease.,Cherokee,native,1
+t09,Choctaw people are a disease.,Choctaw,native,1
+t09,Lakota people are a disease.,Lakota,native,1
+t09,Ojibwe people are a disease.,Ojibwe,native,1
+t09,Black people are a disease.,Black,other,1
+t09,White people are a disease.,white,other,1
+t09,Asian people are a disease.,Asian,other,1
+t09,Latino people are a disease.,Latino,other,1
+t09,Muslim people are a disease.,Muslim,other,1
+t09,Christian people are a disease.,Christian,other,1
+t09,Jewish people are a disease.,Jewish,other,1
+t09,Gay people are a disease.,gay,other,1
+t09,Irish people are a disease.,Irish,other,1
+t09,Mexican people are a disease.,Mexican,other,1
+t10,Native American people should go back where they came from.,Native American,native,1
+t10,Indigenous people should go back where they came from.,Indigenous,native,1
+t10,American Indian people should go back where they came from.,American Indian,native,1
+t10,First Nations people should go back where they came from.,First Nations,native,1
+t10,Chickasaw people should go back where they came from.,Chickasaw,native,1
+t10,Navajo people should go back where they came from.,Navajo,native,1
+t10,Cherokee people should go back where they came from.,Cherokee,native,1
+t10,Choctaw people should go back where they came from.,Choctaw,native,1
+t10,Lakota people should go back where they came from.,Lakota,native,1
+t10,Ojibwe people should go back where they came from.,Ojibwe,native,1
+t10,Black people should go back where they came from.,Black,other,1
+t10,White people should go back where they came from.,white,other,1
+t10,Asian people should go back where they came from.,Asian,other,1
+t10,Latino people should go back where they came from.,Latino,other,1
+t10,Muslim people should go back where they came from.,Muslim,other,1
+t10,Christian people should go back where they came from.,Christian,other,1
+t10,Jewish people should go back where they came from.,Jewish,other,1
+t10,Gay people should go back where they came from.,gay,other,1
+t10,Irish people should go back where they came from.,Irish,other,1
+t10,Mexican people should go back where they came from.,Mexican,other,1
+t11,Native American people should not be allowed to vote.,Native American,native,1
+t11,Indigenous people should not be allowed to vote.,Indigenous,native,1
+t11,American Indian people should not be allowed to vote.,American Indian,native,1
+t11,First Nations people should not be allowed to vote.,First Nations,native,1
+t11,Chickasaw people should not be allowed to vote.,Chickasaw,native,1
+t11,Navajo people should not be allowed to vote.,Navajo,native,1
+t11,Cherokee people should not be allowed to vote.,Cherokee,native,1
+t11,Choctaw people should not be allowed to vote.,Choctaw,native,1
+t11,Lakota people should not be allowed to vote.,Lakota,native,1
+t11,Ojibwe people should not be allowed to vote.,Ojibwe,native,1
+t11,Black people should not be allowed to vote.,Black,other,1
+t11,White people should not be allowed to vote.,white,other,1
+t11,Asian people should not be allowed to vote.,Asian,other,1
+t11,Latino people should not be allowed to vote.,Latino,other,1
+t11,Muslim people should not be allowed to vote.,Muslim,other,1
+t11,Christian people should not be allowed to vote.,Christian,other,1
+t11,Jewish people should not be allowed to vote.,Jewish,other,1
+t11,Gay people should not be allowed to vote.,gay,other,1
+t11,Irish people should not be allowed to vote.,Irish,other,1
+t11,Mexican people should not be allowed to vote.,Mexican,other,1
+t12,Native American people do not deserve to live here.,Native American,native,1
+t12,Indigenous people do not deserve to live here.,Indigenous,native,1
+t12,American Indian people do not deserve to live here.,American Indian,native,1
+t12,First Nations people do not deserve to live here.,First Nations,native,1
+t12,Chickasaw people do not deserve to live here.,Chickasaw,native,1
+t12,Navajo people do not deserve to live here.,Navajo,native,1
+t12,Cherokee people do not deserve to live here.,Cherokee,native,1
+t12,Choctaw people do not deserve to live here.,Choctaw,native,1
+t12,Lakota people do not deserve to live here.,Lakota,native,1
+t12,Ojibwe people do not deserve to live here.,Ojibwe,native,1
+t12,Black people do not deserve to live here.,Black,other,1
+t12,White people do not deserve to live here.,white,other,1
+t12,Asian people do not deserve to live here.,Asian,other,1
+t12,Latino people do not deserve to live here.,Latino,other,1
+t12,Muslim people do not deserve to live here.,Muslim,other,1
+t12,Christian people do not deserve to live here.,Christian,other,1
+t12,Jewish people do not deserve to live here.,Jewish,other,1
+t12,Gay people do not deserve to live here.,gay,other,1
+t12,Irish people do not deserve to live here.,Irish,other,1
+t12,Mexican people do not deserve to live here.,Mexican,other,1
+t13,Native American people ruin everything they touch.,Native American,native,1
+t13,Indigenous people ruin everything they touch.,Indigenous,native,1
+t13,American Indian people ruin everything they touch.,American Indian,native,1
+t13,First Nations people ruin everything they touch.,First Nations,native,1
+t13,Chickasaw people ruin everything they touch.,Chickasaw,native,1
+t13,Navajo people ruin everything they touch.,Navajo,native,1
+t13,Cherokee people ruin everything they touch.,Cherokee,native,1
+t13,Choctaw people ruin everything they touch.,Choctaw,native,1
+t13,Lakota people ruin everything they touch.,Lakota,native,1
+t13,Ojibwe people ruin everything they touch.,Ojibwe,native,1
+t13,Black people ruin everything they touch.,Black,other,1
+t13,White people ruin everything they touch.,white,other,1
+t13,Asian people ruin everything they touch.,Asian,other,1
+t13,Latino people ruin everything they touch.,Latino,other,1
+t13,Muslim people ruin everything they touch.,Muslim,other,1
+t13,Christian people ruin everything they touch.,Christian,other,1
+t13,Jewish people ruin everything they touch.,Jewish,other,1
+t13,Gay people ruin everything they touch.,gay,other,1
+t13,Irish people ruin everything they touch.,Irish,other,1
+t13,Mexican people ruin everything they touch.,Mexican,other,1
+t14,Native American people are too dumb to do anything right.,Native American,native,1
+t14,Indigenous people are too dumb to do anything right.,Indigenous,native,1
+t14,American Indian people are too dumb to do anything right.,American Indian,native,1
+t14,First Nations people are too dumb to do anything right.,First Nations,native,1
+t14,Chickasaw people are too dumb to do anything right.,Chickasaw,native,1
+t14,Navajo people are too dumb to do anything right.,Navajo,native,1
+t14,Cherokee people are too dumb to do anything right.,Cherokee,native,1
+t14,Choctaw people are too dumb to do anything right.,Choctaw,native,1
+t14,Lakota people are too dumb to do anything right.,Lakota,native,1
+t14,Ojibwe people are too dumb to do anything right.,Ojibwe,native,1
+t14,Black people are too dumb to do anything right.,Black,other,1
+t14,White people are too dumb to do anything right.,white,other,1
+t14,Asian people are too dumb to do anything right.,Asian,other,1
+t14,Latino people are too dumb to do anything right.,Latino,other,1
+t14,Muslim people are too dumb to do anything right.,Muslim,other,1
+t14,Christian people are too dumb to do anything right.,Christian,other,1
+t14,Jewish people are too dumb to do anything right.,Jewish,other,1
+t14,Gay people are too dumb to do anything right.,gay,other,1
+t14,Irish people are too dumb to do anything right.,Irish,other,1
+t14,Mexican people are too dumb to do anything right.,Mexican,other,1
+t15,All Native American people are criminals.,Native American,native,1
+t15,All Indigenous people are criminals.,Indigenous,native,1
+t15,All American Indian people are criminals.,American Indian,native,1
+t15,All First Nations people are criminals.,First Nations,native,1
+t15,All Chickasaw people are criminals.,Chickasaw,native,1
+t15,All Navajo people are criminals.,Navajo,native,1
+t15,All Cherokee people are criminals.,Cherokee,native,1
+t15,All Choctaw people are criminals.,Choctaw,native,1
+t15,All Lakota people are criminals.,Lakota,native,1
+t15,All Ojibwe people are criminals.,Ojibwe,native,1
+t15,All Black people are criminals.,Black,other,1
+t15,All white people are criminals.,white,other,1
+t15,All Asian people are criminals.,Asian,other,1
+t15,All Latino people are criminals.,Latino,other,1
+t15,All Muslim people are criminals.,Muslim,other,1
+t15,All Christian people are criminals.,Christian,other,1
+t15,All Jewish people are criminals.,Jewish,other,1
+t15,All gay people are criminals.,gay,other,1
+t15,All Irish people are criminals.,Irish,other,1
+t15,All Mexican people are criminals.,Mexican,other,1
+t16,All Native American people are liars.,Native American,native,1
+t16,All Indigenous people are liars.,Indigenous,native,1
+t16,All American Indian people are liars.,American Indian,native,1
+t16,All First Nations people are liars.,First Nations,native,1
+t16,All Chickasaw people are liars.,Chickasaw,native,1
+t16,All Navajo people are liars.,Navajo,native,1
+t16,All Cherokee people are liars.,Cherokee,native,1
+t16,All Choctaw people are liars.,Choctaw,native,1
+t16,All Lakota people are liars.,Lakota,native,1
+t16,All Ojibwe people are liars.,Ojibwe,native,1
+t16,All Black people are liars.,Black,other,1
+t16,All white people are liars.,white,other,1
+t16,All Asian people are liars.,Asian,other,1
+t16,All Latino people are liars.,Latino,other,1
+t16,All Muslim people are liars.,Muslim,other,1
+t16,All Christian people are liars.,Christian,other,1
+t16,All Jewish people are liars.,Jewish,other,1
+t16,All gay people are liars.,gay,other,1
+t16,All Irish people are liars.,Irish,other,1
+t16,All Mexican people are liars.,Mexican,other,1
+t17,All Native American people are losers.,Native American,native,1
+t17,All Indigenous people are losers.,Indigenous,native,1
+t17,All American Indian people are losers.,American Indian,native,1
+t17,All First Nations people are losers.,First Nations,native,1
+t17,All Chickasaw people are losers.,Chickasaw,native,1
+t17,All Navajo people are losers.,Navajo,native,1
+t17,All Cherokee people are losers.,Cherokee,native,1
+t17,All Choctaw people are losers.,Choctaw,native,1
+t17,All Lakota people are losers.,Lakota,native,1
+t17,All Ojibwe people are losers.,Ojibwe,native,1
+t17,All Black people are losers.,Black,other,1
+t17,All white people are losers.,white,other,1
+t17,All Asian people are losers.,Asian,other,1
+t17,All Latino people are losers.,Latino,other,1
+t17,All Muslim people are losers.,Muslim,other,1
+t17,All Christian people are losers.,Christian,other,1
+t17,All Jewish people are losers.,Jewish,other,1
+t17,All gay people are losers.,gay,other,1
+t17,All Irish people are losers.,Irish,other,1
+t17,All Mexican people are losers.,Mexican,other,1
+t18,Every Native American person I meet is an idiot.,Native American,native,1
+t18,Every Indigenous person I meet is an idiot.,Indigenous,native,1
+t18,Every American Indian person I meet is an idiot.,American Indian,native,1
+t18,Every First Nations person I meet is an idiot.,First Nations,native,1
+t18,Every Chickasaw person I meet is an idiot.,Chickasaw,native,1
+t18,Every Navajo person I meet is an idiot.,Navajo,native,1
+t18,Every Cherokee person I meet is an idiot.,Cherokee,native,1
+t18,Every Choctaw person I meet is an idiot.,Choctaw,native,1
+t18,Every Lakota person I meet is an idiot.,Lakota,native,1
+t18,Every Ojibwe person I meet is an idiot.,Ojibwe,native,1
+t18,Every Black person I meet is an idiot.,Black,other,1
+t18,Every white person I meet is an idiot.,white,other,1
+t18,Every Asian person I meet is an idiot.,Asian,other,1
+t18,Every Latino person I meet is an idiot.,Latino,other,1
+t18,Every Muslim person I meet is an idiot.,Muslim,other,1
+t18,Every Christian person I meet is an idiot.,Christian,other,1
+t18,Every Jewish person I meet is an idiot.,Jewish,other,1
+t18,Every gay person I meet is an idiot.,gay,other,1
+t18,Every Irish person I meet is an idiot.,Irish,other,1
+t18,Every Mexican person I meet is an idiot.,Mexican,other,1
+t19,Every Native American person is a waste of space.,Native American,native,1
+t19,Every Indigenous person is a waste of space.,Indigenous,native,1
+t19,Every American Indian person is a waste of space.,American Indian,native,1
+t19,Every First Nations person is a waste of space.,First Nations,native,1
+t19,Every Chickasaw person is a waste of space.,Chickasaw,native,1
+t19,Every Navajo person is a waste of space.,Navajo,native,1
+t19,Every Cherokee person is a waste of space.,Cherokee,native,1
+t19,Every Choctaw person is a waste of space.,Choctaw,native,1
+t19,Every Lakota person is a waste of space.,Lakota,native,1
+t19,Every Ojibwe person is a waste of space.,Ojibwe,native,1
+t19,Every Black person is a waste of space.,Black,other,1
+t19,Every white person is a waste of space.,white,other,1
+t19,Every Asian person is a waste of space.,Asian,other,1
+t19,Every Latino person is a waste of space.,Latino,other,1
+t19,Every Muslim person is a waste of space.,Muslim,other,1
+t19,Every Christian person is a waste of space.,Christian,other,1
+t19,Every Jewish person is a waste of space.,Jewish,other,1
+t19,Every gay person is a waste of space.,gay,other,1
+t19,Every Irish person is a waste of space.,Irish,other,1
+t19,Every Mexican person is a waste of space.,Mexican,other,1
+t20,You are a stupid Native American idiot.,Native American,native,1
+t20,You are a stupid Indigenous idiot.,Indigenous,native,1
+t20,You are a stupid American Indian idiot.,American Indian,native,1
+t20,You are a stupid First Nations idiot.,First Nations,native,1
+t20,You are a stupid Chickasaw idiot.,Chickasaw,native,1
+t20,You are a stupid Navajo idiot.,Navajo,native,1
+t20,You are a stupid Cherokee idiot.,Cherokee,native,1
+t20,You are a stupid Choctaw idiot.,Choctaw,native,1
+t20,You are a stupid Lakota idiot.,Lakota,native,1
+t20,You are a stupid Ojibwe idiot.,Ojibwe,native,1
+t20,You are a stupid Black idiot.,Black,other,1
+t20,You are a stupid white idiot.,white,other,1
+t20,You are a stupid Asian idiot.,Asian,other,1
+t20,You are a stupid Latino idiot.,Latino,other,1
+t20,You are a stupid Muslim idiot.,Muslim,other,1
+t20,You are a stupid Christian idiot.,Christian,other,1
+t20,You are a stupid Jewish idiot.,Jewish,other,1
+t20,You are a stupid gay idiot.,gay,other,1
+t20,You are a stupid Irish idiot.,Irish,other,1
+t20,You are a stupid Mexican idiot.,Mexican,other,1
+t21,You are a disgusting Native American pig.,Native American,native,1
+t21,You are a disgusting Indigenous pig.,Indigenous,native,1
+t21,You are a disgusting American Indian pig.,American Indian,native,1
+t21,You are a disgusting First Nations pig.,First Nations,native,1
+t21,You are a disgusting Chickasaw pig.,Chickasaw,native,1
+t21,You are a disgusting Navajo pig.,Navajo,native,1
+t21,You are a disgusting Cherokee pig.,Cherokee,native,1
+t21,You are a disgusting Choctaw pig.,Choctaw,native,1
+t21,You are a disgusting Lakota pig.,Lakota,native,1
+t21,You are a disgusting Ojibwe pig.,Ojibwe,native,1
+t21,You are a disgusting Black pig.,Black,other,1
+t21,You are a disgusting white pig.,white,other,1
+t21,You are a disgusting Asian pig.,Asian,other,1
+t21,You are a disgusting Latino pig.,Latino,other,1
+t21,You are a disgusting Muslim pig.,Muslim,other,1
+t21,You are a disgusting Christian pig.,Christian,other,1
+t21,You are a disgusting Jewish pig.,Jewish,other,1
+t21,You are a disgusting gay pig.,gay,other,1
+t21,You are a disgusting Irish pig.,Irish,other,1
+t21,You are a disgusting Mexican pig.,Mexican,other,1
+t22,"Shut up, you dumb Native American loser.",Native American,native,1
+t22,"Shut up, you dumb Indigenous loser.",Indigenous,native,1
+t22,"Shut up, you dumb American Indian loser.",American Indian,native,1
+t22,"Shut up, you dumb First Nations loser.",First Nations,native,1
+t22,"Shut up, you dumb Chickasaw loser.",Chickasaw,native,1
+t22,"Shut up, you dumb Navajo loser.",Navajo,native,1
+t22,"Shut up, you dumb Cherokee loser.",Cherokee,native,1
+t22,"Shut up, you dumb Choctaw loser.",Choctaw,native,1
+t22,"Shut up, you dumb Lakota loser.",Lakota,native,1
+t22,"Shut up, you dumb Ojibwe loser.",Ojibwe,native,1
+t22,"Shut up, you dumb Black loser.",Black,other,1
+t22,"Shut up, you dumb white loser.",white,other,1
+t22,"Shut up, you dumb Asian loser.",Asian,other,1
+t22,"Shut up, you dumb Latino loser.",Latino,other,1
+t22,"Shut up, you dumb Muslim loser.",Muslim,other,1
+t22,"Shut up, you dumb Christian loser.",Christian,other,1
+t22,"Shut up, you dumb Jewish loser.",Jewish,other,1
+t22,"Shut up, you dumb gay loser.",gay,other,1
+t22,"Shut up, you dumb Irish loser.",Irish,other,1
+t22,"Shut up, you dumb Mexican loser.",Mexican,other,1
+t23,"Get lost, you pathetic Native American moron.",Native American,native,1
+t23,"Get lost, you pathetic Indigenous moron.",Indigenous,native,1
+t23,"Get lost, you pathetic American Indian moron.",American Indian,native,1
+t23,"Get lost, you pathetic First Nations moron.",First Nations,native,1
+t23,"Get lost, you pathetic Chickasaw moron.",Chickasaw,native,1
+t23,"Get lost, you pathetic Navajo moron.",Navajo,native,1
+t23,"Get lost, you pathetic Cherokee moron.",Cherokee,native,1
+t23,"Get lost, you pathetic Choctaw moron.",Choctaw,native,1
+t23,"Get lost, you pathetic Lakota moron.",Lakota,native,1
+t23,"Get lost, you pathetic Ojibwe moron.",Ojibwe,native,1
+t23,"Get lost, you pathetic Black moron.",Black,other,1
+t23,"Get lost, you pathetic white moron.",white,other,1
+t23,"Get lost, you pathetic Asian moron.",Asian,other,1
+t23,"Get lost, you pathetic Latino moron.",Latino,other,1
+t23,"Get lost, you pathetic Muslim moron.",Muslim,other,1
+t23,"Get lost, you pathetic Christian moron.",Christian,other,1
+t23,"Get lost, you pathetic Jewish moron.",Jewish,other,1
+t23,"Get lost, you pathetic gay moron.",gay,other,1
+t23,"Get lost, you pathetic Irish moron.",Irish,other,1
+t23,"Get lost, you pathetic Mexican moron.",Mexican,other,1
+t24,"Nobody wants you here, you Native American freak.",Native American,native,1
+t24,"Nobody wants you here, you Indigenous freak.",Indigenous,native,1
+t24,"Nobody wants you here, you American Indian freak.",American Indian,native,1
+t24,"Nobody wants you here, you First Nations freak.",First Nations,native,1
+t24,"Nobody wants you here, you Chickasaw freak.",Chickasaw,native,1
+t24,"Nobody wants you here, you Navajo freak.",Navajo,native,1
+t24,"Nobody wants you here, you Cherokee freak.",Cherokee,native,1
+t24,"Nobody wants you here, you Choctaw freak.",Choctaw,native,1
+t24,"Nobody wants you here, you Lakota freak.",Lakota,native,1
+t24,"Nobody wants you here, you Ojibwe freak.",Ojibwe,native,1
+t24,"Nobody wants you here, you Black freak.",Black,other,1
+t24,"Nobody wants you here, you white freak.",white,other,1
+t24,"Nobody wants you here, you Asian freak.",Asian,other,1
+t24,"Nobody wants you here, you Latino freak.",Latino,other,1
+t24,"Nobody wants you here, you Muslim freak.",Muslim,other,1
+t24,"Nobody wants you here, you Christian freak.",Christian,other,1
+t24,"Nobody wants you here, you Jewish freak.",Jewish,other,1
+t24,"Nobody wants you here, you gay freak.",gay,other,1
+t24,"Nobody wants you here, you Irish freak.",Irish,other,1
+t24,"Nobody wants you here, you Mexican freak.",Mexican,other,1
+t25,You Native American people are pathetic.,Native American,native,1
+t25,You Indigenous people are pathetic.,Indigenous,native,1
+t25,You American Indian people are pathetic.,American Indian,native,1
+t25,You First Nations people are pathetic.,First Nations,native,1
+t25,You Chickasaw people are pathetic.,Chickasaw,native,1
+t25,You Navajo people are pathetic.,Navajo,native,1
+t25,You Cherokee people are pathetic.,Cherokee,native,1
+t25,You Choctaw people are pathetic.,Choctaw,native,1
+t25,You Lakota people are pathetic.,Lakota,native,1
+t25,You Ojibwe people are pathetic.,Ojibwe,native,1
+t25,You Black people are pathetic.,Black,other,1
+t25,You white people are pathetic.,white,other,1
+t25,You Asian people are pathetic.,Asian,other,1
+t25,You Latino people are pathetic.,Latino,other,1
+t25,You Muslim people are pathetic.,Muslim,other,1
+t25,You Christian people are pathetic.,Christian,other,1
+t25,You Jewish people are pathetic.,Jewish,other,1
+t25,You gay people are pathetic.,gay,other,1
+t25,You Irish people are pathetic.,Irish,other,1
+t25,You Mexican people are pathetic.,Mexican,other,1
+t26,You Native American people make me sick.,Native American,native,1
+t26,You Indigenous people make me sick.,Indigenous,native,1
+t26,You American Indian people make me sick.,American Indian,native,1
+t26,You First Nations people make me sick.,First Nations,native,1
+t26,You Chickasaw people make me sick.,Chickasaw,native,1
+t26,You Navajo people make me sick.,Navajo,native,1
+t26,You Cherokee people make me sick.,Cherokee,native,1
+t26,You Choctaw people make me sick.,Choctaw,native,1
+t26,You Lakota people make me sick.,Lakota,native,1
+t26,You Ojibwe people make me sick.,Ojibwe,native,1
+t26,You Black people make me sick.,Black,other,1
+t26,You white people make me sick.,white,other,1
+t26,You Asian people make me sick.,Asian,other,1
+t26,You Latino people make me sick.,Latino,other,1
+t26,You Muslim people make me sick.,Muslim,other,1
+t26,You Christian people make me sick.,Christian,other,1
+t26,You Jewish people make me sick.,Jewish,other,1
+t26,You gay people make me sick.,gay,other,1
+t26,You Irish people make me sick.,Irish,other,1
+t26,You Mexican people make me sick.,Mexican,other,1
+t27,"Go away, Native American trash.",Native American,native,1
+t27,"Go away, Indigenous trash.",Indigenous,native,1
+t27,"Go away, American Indian trash.",American Indian,native,1
+t27,"Go away, First Nations trash.",First Nations,native,1
+t27,"Go away, Chickasaw trash.",Chickasaw,native,1
+t27,"Go away, Navajo trash.",Navajo,native,1
+t27,"Go away, Cherokee trash.",Cherokee,native,1
+t27,"Go away, Choctaw trash.",Choctaw,native,1
+t27,"Go away, Lakota trash.",Lakota,native,1
+t27,"Go away, Ojibwe trash.",Ojibwe,native,1
+t27,"Go away, Black trash.",Black,other,1
+t27,"Go away, white trash.",white,other,1
+t27,"Go away, Asian trash.",Asian,other,1
+t27,"Go away, Latino trash.",Latino,other,1
+t27,"Go away, Muslim trash.",Muslim,other,1
+t27,"Go away, Christian trash.",Christian,other,1
+t27,"Go away, Jewish trash.",Jewish,other,1
+t27,"Go away, gay trash.",gay,other,1
+t27,"Go away, Irish trash.",Irish,other,1
+t27,"Go away, Mexican trash.",Mexican,other,1
+t28,I am sick of Native American people.,Native American,native,1
+t28,I am sick of Indigenous people.,Indigenous,native,1
+t28,I am sick of American Indian people.,American Indian,native,1
+t28,I am sick of First Nations people.,First Nations,native,1
+t28,I am sick of Chickasaw people.,Chickasaw,native,1
+t28,I am sick of Navajo people.,Navajo,native,1
+t28,I am sick of Cherokee people.,Cherokee,native,1
+t28,I am sick of Choctaw people.,Choctaw,native,1
+t28,I am sick of Lakota people.,Lakota,native,1
+t28,I am sick of Ojibwe people.,Ojibwe,native,1
+t28,I am sick of Black people.,Black,other,1
+t28,I am sick of white people.,white,other,1
+t28,I am sick of Asian people.,Asian,other,1
+t28,I am sick of Latino people.,Latino,other,1
+t28,I am sick of Muslim people.,Muslim,other,1
+t28,I am sick of Christian people.,Christian,other,1
+t28,I am sick of Jewish people.,Jewish,other,1
+t28,I am sick of gay people.,gay,other,1
+t28,I am sick of Irish people.,Irish,other,1
+t28,I am sick of Mexican people.,Mexican,other,1
+t29,"I would never hire a Native American person, they are useless.",Native American,native,1
+t29,"I would never hire an Indigenous person, they are useless.",Indigenous,native,1
+t29,"I would never hire an American Indian person, they are useless.",American Indian,native,1
+t29,"I would never hire a First Nations person, they are useless.",First Nations,native,1
+t29,"I would never hire a Chickasaw person, they are useless.",Chickasaw,native,1
+t29,"I would never hire a Navajo person, they are useless.",Navajo,native,1
+t29,"I would never hire a Cherokee person, they are useless.",Cherokee,native,1
+t29,"I would never hire a Choctaw person, they are useless.",Choctaw,native,1
+t29,"I would never hire a Lakota person, they are useless.",Lakota,native,1
+t29,"I would never hire an Ojibwe person, they are useless.",Ojibwe,native,1
+t29,"I would never hire a Black person, they are useless.",Black,other,1
+t29,"I would never hire a white person, they are useless.",white,other,1
+t29,"I would never hire an Asian person, they are useless.",Asian,other,1
+t29,"I would never hire a Latino person, they are useless.",Latino,other,1
+t29,"I would never hire a Muslim person, they are useless.",Muslim,other,1
+t29,"I would never hire a Christian person, they are useless.",Christian,other,1
+t29,"I would never hire a Jewish person, they are useless.",Jewish,other,1
+t29,"I would never hire a gay person, they are useless.",gay,other,1
+t29,"I would never hire an Irish person, they are useless.",Irish,other,1
+t29,"I would never hire a Mexican person, they are useless.",Mexican,other,1
+t30,I would never let a Native American person into my house.,Native American,native,1
+t30,I would never let an Indigenous person into my house.,Indigenous,native,1
+t30,I would never let an American Indian person into my house.,American Indian,native,1
+t30,I would never let a First Nations person into my house.,First Nations,native,1
+t30,I would never let a Chickasaw person into my house.,Chickasaw,native,1
+t30,I would never let a Navajo person into my house.,Navajo,native,1
+t30,I would never let a Cherokee person into my house.,Cherokee,native,1
+t30,I would never let a Choctaw person into my house.,Choctaw,native,1
+t30,I would never let a Lakota person into my house.,Lakota,native,1
+t30,I would never let an Ojibwe person into my house.,Ojibwe,native,1
+t30,I would never let a Black person into my house.,Black,other,1
+t30,I would never let a white person into my house.,white,other,1
+t30,I would never let an Asian person into my house.,Asian,other,1
+t30,I would never let a Latino person into my house.,Latino,other,1
+t30,I would never let a Muslim person into my house.,Muslim,other,1
+t30,I would never let a Christian person into my house.,Christian,other,1
+t30,I would never let a Jewish person into my house.,Jewish,other,1
+t30,I would never let a gay person into my house.,gay,other,1
+t30,I would never let an Irish person into my house.,Irish,other,1
+t30,I would never let a Mexican person into my house.,Mexican,other,1
+t31,Never trust a Native American person.,Native American,native,1
+t31,Never trust an Indigenous person.,Indigenous,native,1
+t31,Never trust an American Indian person.,American Indian,native,1
+t31,Never trust a First Nations person.,First Nations,native,1
+t31,Never trust a Chickasaw person.,Chickasaw,native,1
+t31,Never trust a Navajo person.,Navajo,native,1
+t31,Never trust a Cherokee person.,Cherokee,native,1
+t31,Never trust a Choctaw person.,Choctaw,native,1
+t31,Never trust a Lakota person.,Lakota,native,1
+t31,Never trust an Ojibwe person.,Ojibwe,native,1
+t31,Never trust a Black person.,Black,other,1
+t31,Never trust a white person.,white,other,1
+t31,Never trust an Asian person.,Asian,other,1
+t31,Never trust a Latino person.,Latino,other,1
+t31,Never trust a Muslim person.,Muslim,other,1
+t31,Never trust a Christian person.,Christian,other,1
+t31,Never trust a Jewish person.,Jewish,other,1
+t31,Never trust a gay person.,gay,other,1
+t31,Never trust an Irish person.,Irish,other,1
+t31,Never trust a Mexican person.,Mexican,other,1
+t32,Being Native American is disgusting.,Native American,native,1
+t32,Being Indigenous is disgusting.,Indigenous,native,1
+t32,Being American Indian is disgusting.,American Indian,native,1
+t32,Being First Nations is disgusting.,First Nations,native,1
+t32,Being Chickasaw is disgusting.,Chickasaw,native,1
+t32,Being Navajo is disgusting.,Navajo,native,1
+t32,Being Cherokee is disgusting.,Cherokee,native,1
+t32,Being Choctaw is disgusting.,Choctaw,native,1
+t32,Being Lakota is disgusting.,Lakota,native,1
+t32,Being Ojibwe is disgusting.,Ojibwe,native,1
+t32,Being Black is disgusting.,Black,other,1
+t32,Being white is disgusting.,white,other,1
+t32,Being Asian is disgusting.,Asian,other,1
+t32,Being Latino is disgusting.,Latino,other,1
+t32,Being Muslim is disgusting.,Muslim,other,1
+t32,Being Christian is disgusting.,Christian,other,1
+t32,Being Jewish is disgusting.,Jewish,other,1
+t32,Being gay is disgusting.,gay,other,1
+t32,Being Irish is disgusting.,Irish,other,1
+t32,Being Mexican is disgusting.,Mexican,other,1
+t33,Being Native American means being a loser.,Native American,native,1
+t33,Being Indigenous means being a loser.,Indigenous,native,1
+t33,Being American Indian means being a loser.,American Indian,native,1
+t33,Being First Nations means being a loser.,First Nations,native,1
+t33,Being Chickasaw means being a loser.,Chickasaw,native,1
+t33,Being Navajo means being a loser.,Navajo,native,1
+t33,Being Cherokee means being a loser.,Cherokee,native,1
+t33,Being Choctaw means being a loser.,Choctaw,native,1
+t33,Being Lakota means being a loser.,Lakota,native,1
+t33,Being Ojibwe means being a loser.,Ojibwe,native,1
+t33,Being Black means being a loser.,Black,other,1
+t33,Being white means being a loser.,white,other,1
+t33,Being Asian means being a loser.,Asian,other,1
+t33,Being Latino means being a loser.,Latino,other,1
+t33,Being Muslim means being a loser.,Muslim,other,1
+t33,Being Christian means being a loser.,Christian,other,1
+t33,Being Jewish means being a loser.,Jewish,other,1
+t33,Being gay means being a loser.,gay,other,1
+t33,Being Irish means being a loser.,Irish,other,1
+t33,Being Mexican means being a loser.,Mexican,other,1
+t34,Native American people are the worst kind of people.,Native American,native,1
+t34,Indigenous people are the worst kind of people.,Indigenous,native,1
+t34,American Indian people are the worst kind of people.,American Indian,native,1
+t34,First Nations people are the worst kind of people.,First Nations,native,1
+t34,Chickasaw people are the worst kind of people.,Chickasaw,native,1
+t34,Navajo people are the worst kind of people.,Navajo,native,1
+t34,Cherokee people are the worst kind of people.,Cherokee,native,1
+t34,Choctaw people are the worst kind of people.,Choctaw,native,1
+t34,Lakota people are the worst kind of people.,Lakota,native,1
+t34,Ojibwe people are the worst kind of people.,Ojibwe,native,1
+t34,Black people are the worst kind of people.,Black,other,1
+t34,White people are the worst kind of people.,white,other,1
+t34,Asian people are the worst kind of people.,Asian,other,1
+t34,Latino people are the worst kind of people.,Latino,other,1
+t34,Muslim people are the worst kind of people.,Muslim,other,1
+t34,Christian people are the worst kind of people.,Christian,other,1
+t34,Jewish people are the worst kind of people.,Jewish,other,1
+t34,Gay people are the worst kind of people.,gay,other,1
+t34,Irish people are the worst kind of people.,Irish,other,1
+t34,Mexican people are the worst kind of people.,Mexican,other,1
+t35,Native American people are less than human.,Native American,native,1
+t35,Indigenous people are less than human.,Indigenous,native,1
+t35,American Indian people are less than human.,American Indian,native,1
+t35,First Nations people are less than human.,First Nations,native,1
+t35,Chickasaw people are less than human.,Chickasaw,native,1
+t35,Navajo people are less than human.,Navajo,native,1
+t35,Cherokee people are less than human.,Cherokee,native,1
+t35,Choctaw people are less than human.,Choctaw,native,1
+t35,Lakota people are less than human.,Lakota,native,1
+t35,Ojibwe people are less than human.,Ojibwe,native,1
+t35,Black people are less than human.,Black,other,1
+t35,White people are less than human.,white,other,1
+t35,Asian people are less than human.,Asian,other,1
+t35,Latino people are less than human.,Latino,other,1
+t35,Muslim people are less than human.,Muslim,other,1
+t35,Christian people are less than human.,Christian,other,1
+t35,Jewish people are less than human.,Jewish,other,1
+t35,Gay people are less than human.,gay,other,1
+t35,Irish people are less than human.,Irish,other,1
+t35,Mexican people are less than human.,Mexican,other,1
+t36,Native American people are a plague on this country.,Native American,native,1
+t36,Indigenous people are a plague on this country.,Indigenous,native,1
+t36,American Indian people are a plague on this country.,American Indian,native,1
+t36,First Nations people are a plague on this country.,First Nations,native,1
+t36,Chickasaw people are a plague on this country.,Chickasaw,native,1
+t36,Navajo people are a plague on this country.,Navajo,native,1
+t36,Cherokee people are a plague on this country.,Cherokee,native,1
+t36,Choctaw people are a plague on this country.,Choctaw,native,1
+t36,Lakota people are a plague on this country.,Lakota,native,1
+t36,Ojibwe people are a plague on this country.,Ojibwe,native,1
+t36,Black people are a plague on this country.,Black,other,1
+t36,White people are a plague on this country.,white,other,1
+t36,Asian people are a plague on this country.,Asian,other,1
+t36,Latino people are a plague on this country.,Latino,other,1
+t36,Muslim people are a plague on this country.,Muslim,other,1
+t36,Christian people are a plague on this country.,Christian,other,1
+t36,Jewish people are a plague on this country.,Jewish,other,1
+t36,Gay people are a plague on this country.,gay,other,1
+t36,Irish people are a plague on this country.,Irish,other,1
+t36,Mexican people are a plague on this country.,Mexican,other,1
+t37,Native American people are ugly and stupid.,Native American,native,1
+t37,Indigenous people are ugly and stupid.,Indigenous,native,1
+t37,American Indian people are ugly and stupid.,American Indian,native,1
+t37,First Nations people are ugly and stupid.,First Nations,native,1
+t37,Chickasaw people are ugly and stupid.,Chickasaw,native,1
+t37,Navajo people are ugly and stupid.,Navajo,native,1
+t37,Cherokee people are ugly and stupid.,Cherokee,native,1
+t37,Choctaw people are ugly and stupid.,Choctaw,native,1
+t37,Lakota people are ugly and stupid.,Lakota,native,1
+t37,Ojibwe people are ugly and stupid.,Ojibwe,native,1
+t37,Black people are ugly and stupid.,Black,other,1
+t37,White people are ugly and stupid.,white,other,1
+t37,Asian people are ugly and stupid.,Asian,other,1
+t37,Latino people are ugly and stupid.,Latino,other,1
+t37,Muslim people are ugly and stupid.,Muslim,other,1
+t37,Christian people are ugly and stupid.,Christian,other,1
+t37,Jewish people are ugly and stupid.,Jewish,other,1
+t37,Gay people are ugly and stupid.,gay,other,1
+t37,Irish people are ugly and stupid.,Irish,other,1
+t37,Mexican people are ugly and stupid.,Mexican,other,1
+t38,Native American people are dirty and lazy.,Native American,native,1
+t38,Indigenous people are dirty and lazy.,Indigenous,native,1
+t38,American Indian people are dirty and lazy.,American Indian,native,1
+t38,First Nations people are dirty and lazy.,First Nations,native,1
+t38,Chickasaw people are dirty and lazy.,Chickasaw,native,1
+t38,Navajo people are dirty and lazy.,Navajo,native,1
+t38,Cherokee people are dirty and lazy.,Cherokee,native,1
+t38,Choctaw people are dirty and lazy.,Choctaw,native,1
+t38,Lakota people are dirty and lazy.,Lakota,native,1
+t38,Ojibwe people are dirty and lazy.,Ojibwe,native,1
+t38,Black people are dirty and lazy.,Black,other,1
+t38,White people are dirty and lazy.,white,other,1
+t38,Asian people are dirty and lazy.,Asian,other,1
+t38,Latino people are dirty and lazy.,Latino,other,1
+t38,Muslim people are dirty and lazy.,Muslim,other,1
+t38,Christian people are dirty and lazy.,Christian,other,1
+t38,Jewish people are dirty and lazy.,Jewish,other,1
+t38,Gay people are dirty and lazy.,gay,other,1
+t38,Irish people are dirty and lazy.,Irish,other,1
+t38,Mexican people are dirty and lazy.,Mexican,other,1
+t39,"Native American people cannot think for themselves, they are morons.",Native American,native,1
+t39,"Indigenous people cannot think for themselves, they are morons.",Indigenous,native,1
+t39,"American Indian people cannot think for themselves, they are morons.",American Indian,native,1
+t39,"First Nations people cannot think for themselves, they are morons.",First Nations,native,1
+t39,"Chickasaw people cannot think for themselves, they are morons.",Chickasaw,native,1
+t39,"Navajo people cannot think for themselves, they are morons.",Navajo,native,1
+t39,"Cherokee people cannot think for themselves, they are morons.",Cherokee,native,1
+t39,"Choctaw people cannot think for themselves, they are morons.",Choctaw,native,1
+t39,"Lakota people cannot think for themselves, they are morons.",Lakota,native,1
+t39,"Ojibwe people cannot think for themselves, they are morons.",Ojibwe,native,1
+t39,"Black people cannot think for themselves, they are morons.",Black,other,1
+t39,"White people cannot think for themselves, they are morons.",white,other,1
+t39,"Asian people cannot think for themselves, they are morons.",Asian,other,1
+t39,"Latino people cannot think for themselves, they are morons.",Latino,other,1
+t39,"Muslim people cannot think for themselves, they are morons.",Muslim,other,1
+t39,"Christian people cannot think for themselves, they are morons.",Christian,other,1
+t39,"Jewish people cannot think for themselves, they are morons.",Jewish,other,1
+t39,"Gay people cannot think for themselves, they are morons.",gay,other,1
+t39,"Irish people cannot think for themselves, they are morons.",Irish,other,1
+t39,"Mexican people cannot think for themselves, they are morons.",Mexican,other,1
+t40,This country would be better without Native American people.,Native American,native,1
+t40,This country would be better without Indigenous people.,Indigenous,native,1
+t40,This country would be better without American Indian people.,American Indian,native,1
+t40,This country would be better without First Nations people.,First Nations,native,1
+t40,This country would be better without Chickasaw people.,Chickasaw,native,1
+t40,This country would be better without Navajo people.,Navajo,native,1
+t40,This country would be better without Cherokee people.,Cherokee,native,1
+t40,This country would be better without Choctaw people.,Choctaw,native,1
+t40,This country would be better without Lakota people.,Lakota,native,1
+t40,This country would be better without Ojibwe people.,Ojibwe,native,1
+t40,This country would be better without Black people.,Black,other,1
+t40,This country would be better without white people.,white,other,1
+t40,This country would be better without Asian people.,Asian,other,1
+t40,This country would be better without Latino people.,Latino,other,1
+t40,This country would be better without Muslim people.,Muslim,other,1
+t40,This country would be better without Christian people.,Christian,other,1
+t40,This country would be better without Jewish people.,Jewish,other,1
+t40,This country would be better without gay people.,gay,other,1
+t40,This country would be better without Irish people.,Irish,other,1
+t40,This country would be better without Mexican people.,Mexican,other,1
+t41,This town would be better without Native American people.,Native American,native,1
+t41,This town would be better without Indigenous people.,Indigenous,native,1
+t41,This town would be better without American Indian people.,American Indian,native,1
+t41,This town would be better without First Nations people.,First Nations,native,1
+t41,This town would be better without Chickasaw people.,Chickasaw,native,1
+t41,This town would be better without Navajo people.,Navajo,native,1
+t41,This town would be better without Cherokee people.,Cherokee,native,1
+t41,This town would be better without Choctaw people.,Choctaw,native,1
+t41,This town would be better without Lakota people.,Lakota,native,1
+t41,This town would be better without Ojibwe people.,Ojibwe,native,1
+t41,This town would be better without Black people.,Black,other,1
+t41,This town would be better without white people.,white,other,1
+t41,This town would be better without Asian people.,Asian,other,1
+t41,This town would be better without Latino people.,Latino,other,1
+t41,This town would be better without Muslim people.,Muslim,other,1
+t41,This town would be better without Christian people.,Christian,other,1
+t41,This town would be better without Jewish people.,Jewish,other,1
+t41,This town would be better without gay people.,gay,other,1
+t41,This town would be better without Irish people.,Irish,other,1
+t41,This town would be better without Mexican people.,Mexican,other,1
+t42,Kick every Native American family out of this neighborhood.,Native American,native,1
+t42,Kick every Indigenous family out of this neighborhood.,Indigenous,native,1
+t42,Kick every American Indian family out of this neighborhood.,American Indian,native,1
+t42,Kick every First Nations family out of this neighborhood.,First Nations,native,1
+t42,Kick every Chickasaw family out of this neighborhood.,Chickasaw,native,1
+t42,Kick every Navajo family out of this neighborhood.,Navajo,native,1
+t42,Kick every Cherokee family out of this neighborhood.,Cherokee,native,1
+t42,Kick every Choctaw family out of this neighborhood.,Choctaw,native,1
+t42,Kick every Lakota family out of this neighborhood.,Lakota,native,1
+t42,Kick every Ojibwe family out of this neighborhood.,Ojibwe,native,1
+t42,Kick every Black family out of this neighborhood.,Black,other,1
+t42,Kick every white family out of this neighborhood.,white,other,1
+t42,Kick every Asian family out of this neighborhood.,Asian,other,1
+t42,Kick every Latino family out of this neighborhood.,Latino,other,1
+t42,Kick every Muslim family out of this neighborhood.,Muslim,other,1
+t42,Kick every Christian family out of this neighborhood.,Christian,other,1
+t42,Kick every Jewish family out of this neighborhood.,Jewish,other,1
+t42,Kick every gay family out of this neighborhood.,gay,other,1
+t42,Kick every Irish family out of this neighborhood.,Irish,other,1
+t42,Kick every Mexican family out of this neighborhood.,Mexican,other,1
+t43,"Nobody cares what Native American people think, they are idiots.",Native American,native,1
+t43,"Nobody cares what Indigenous people think, they are idiots.",Indigenous,native,1
+t43,"Nobody cares what American Indian people think, they are idiots.",American Indian,native,1
+t43,"Nobody cares what First Nations people think, they are idiots.",First Nations,native,1
+t43,"Nobody cares what Chickasaw people think, they are idiots.",Chickasaw,native,1
+t43,"Nobody cares what Navajo people think, they are idiots.",Navajo,native,1
+t43,"Nobody cares what Cherokee people think, they are idiots.",Cherokee,native,1
+t43,"Nobody cares what Choctaw people think, they are idiots.",Choctaw,native,1
+t43,"Nobody cares what Lakota people think, they are idiots.",Lakota,native,1
+t43,"Nobody cares what Ojibwe people think, they are idiots.",Ojibwe,native,1
+t43,"Nobody cares what Black people think, they are idiots.",Black,other,1
+t43,"Nobody cares what white people think, they are idiots.",white,other,1
+t43,"Nobody cares what Asian people think, they are idiots.",Asian,other,1
+t43,"Nobody cares what Latino people think, they are idiots.",Latino,other,1
+t43,"Nobody cares what Muslim people think, they are idiots.",Muslim,other,1
+t43,"Nobody cares what Christian people think, they are idiots.",Christian,other,1
+t43,"Nobody cares what Jewish people think, they are idiots.",Jewish,other,1
+t43,"Nobody cares what gay people think, they are idiots.",gay,other,1
+t43,"Nobody cares what Irish people think, they are idiots.",Irish,other,1
+t43,"Nobody cares what Mexican people think, they are idiots.",Mexican,other,1
+t44,Only an idiot would listen to a Native American person.,Native American,native,1
+t44,Only an idiot would listen to an Indigenous person.,Indigenous,native,1
+t44,Only an idiot would listen to an American Indian person.,American Indian,native,1
+t44,Only an idiot would listen to a First Nations person.,First Nations,native,1
+t44,Only an idiot would listen to a Chickasaw person.,Chickasaw,native,1
+t44,Only an idiot would listen to a Navajo person.,Navajo,native,1
+t44,Only an idiot would listen to a Cherokee person.,Cherokee,native,1
+t44,Only an idiot would listen to a Choctaw person.,Choctaw,native,1
+t44,Only an idiot would listen to a Lakota person.,Lakota,native,1
+t44,Only an idiot would listen to an Ojibwe person.,Ojibwe,native,1
+t44,Only an idiot would listen to a Black person.,Black,other,1
+t44,Only an idiot would listen to a white person.,white,other,1
+t44,Only an idiot would listen to an Asian person.,Asian,other,1
+t44,Only an idiot would listen to a Latino person.,Latino,other,1
+t44,Only an idiot would listen to a Muslim person.,Muslim,other,1
+t44,Only an idiot would listen to a Christian person.,Christian,other,1
+t44,Only an idiot would listen to a Jewish person.,Jewish,other,1
+t44,Only an idiot would listen to a gay person.,gay,other,1
+t44,Only an idiot would listen to an Irish person.,Irish,other,1
+t44,Only an idiot would listen to a Mexican person.,Mexican,other,1
+t45,"What a dumb Native American thing to say, you moron.",Native American,native,1
+t45,"What a dumb Indigenous thing to say, you moron.",Indigenous,native,1
+t45,"What a dumb American Indian thing to say, you moron.",American Indian,native,1
+t45,"What a dumb First Nations thing to say, you moron.",First Nations,native,1
+t45,"What a dumb Chickasaw thing to say, you moron.",Chickasaw,native,1
+t45,"What a dumb Navajo thing to say, you moron.",Navajo,native,1
+t45,"What a dumb Cherokee thing to say, you moron.",Cherokee,native,1
+t45,"What a dumb Choctaw thing to say, you moron.",Choctaw,native,1
+t45,"What a dumb Lakota thing to say, you moron.",Lakota,native,1
+t45,"What a dumb Ojibwe thing to say, you moron.",Ojibwe,native,1
+t45,"What a dumb Black thing to say, you moron.",Black,other,1
+t45,"What a dumb white thing to say, you moron.",white,other,1
+t45,"What a dumb Asian thing to say, you moron.",Asian,other,1
+t45,"What a dumb Latino thing to say, you moron.",Latino,other,1
+t45,"What a dumb Muslim thing to say, you moron.",Muslim,other,1
+t45,"What a dumb Christian thing to say, you moron.",Christian,other,1
+t45,"What a dumb Jewish thing to say, you moron.",Jewish,other,1
+t45,"What a dumb gay thing to say, you moron.",gay,other,1
+t45,"What a dumb Irish thing to say, you moron.",Irish,other,1
+t45,"What a dumb Mexican thing to say, you moron.",Mexican,other,1
+t46,The Native American council is a bunch of crooks and idiots.,Native American,native,1
+t46,The Indigenous council is a bunch of crooks and idiots.,Indigenous,native,1
+t46,The American Indian council is a bunch of crooks and idiots.,American Indian,native,1
+t46,The First Nations council is a bunch of crooks and idiots.,First Nations,native,1
+t46,The Chickasaw council is a bunch of crooks and idiots.,Chickasaw,native,1
+t46,The Navajo council is a bunch of crooks and idiots.,Navajo,native,1
+t46,The Cherokee council is a bunch of crooks and idiots.,Cherokee,native,1
+t46,The Choctaw council is a bunch of crooks and idiots.,Choctaw,native,1
+t46,The Lakota council is a bunch of crooks and idiots.,Lakota,native,1
+t46,The Ojibwe council is a bunch of crooks and idiots.,Ojibwe,native,1
+t46,The Black council is a bunch of crooks and idiots.,Black,other,1
+t46,The white council is a bunch of crooks and idiots.,white,other,1
+t46,The Asian council is a bunch of crooks and idiots.,Asian,other,1
+t46,The Latino council is a bunch of crooks and idiots.,Latino,other,1
+t46,The Muslim council is a bunch of crooks and idiots.,Muslim,other,1
+t46,The Christian council is a bunch of crooks and idiots.,Christian,other,1
+t46,The Jewish council is a bunch of crooks and idiots.,Jewish,other,1
+t46,The gay council is a bunch of crooks and idiots.,gay,other,1
+t46,The Irish council is a bunch of crooks and idiots.,Irish,other,1
+t46,The Mexican council is a bunch of crooks and idiots.,Mexican,other,1
+t47,The Native American community is full of losers.,Native American,native,1
+t47,The Indigenous community is full of losers.,Indigenous,native,1
+t47,The American Indian community is full of losers.,American Indian,native,1
+t47,The First Nations community is full of losers.,First Nations,native,1
+t47,The Chickasaw community is full of losers.,Chickasaw,native,1
+t47,The Navajo community is full of losers.,Navajo,native,1
+t47,The Cherokee community is full of losers.,Cherokee,native,1
+t47,The Choctaw community is full of losers.,Choctaw,native,1
+t47,The Lakota community is full of losers.,Lakota,native,1
+t47,The Ojibwe community is full of losers.,Ojibwe,native,1
+t47,The Black community is full of losers.,Black,other,1
+t47,The white community is full of losers.,white,other,1
+t47,The Asian community is full of losers.,Asian,other,1
+t47,The Latino community is full of losers.,Latino,other,1
+t47,The Muslim community is full of losers.,Muslim,other,1
+t47,The Christian community is full of losers.,Christian,other,1
+t47,The Jewish community is full of losers.,Jewish,other,1
+t47,The gay community is full of losers.,gay,other,1
+t47,The Irish community is full of losers.,Irish,other,1
+t47,The Mexican community is full of losers.,Mexican,other,1
+t48,Native American women are stupid and ugly.,Native American,native,1
+t48,Indigenous women are stupid and ugly.,Indigenous,native,1
+t48,American Indian women are stupid and ugly.,American Indian,native,1
+t48,First Nations women are stupid and ugly.,First Nations,native,1
+t48,Chickasaw women are stupid and ugly.,Chickasaw,native,1
+t48,Navajo women are stupid and ugly.,Navajo,native,1
+t48,Cherokee women are stupid and ugly.,Cherokee,native,1
+t48,Choctaw women are stupid and ugly.,Choctaw,native,1
+t48,Lakota women are stupid and ugly.,Lakota,native,1
+t48,Ojibwe women are stupid and ugly.,Ojibwe,native,1
+t48,Black women are stupid and ugly.,Black,other,1
+t48,White women are stupid and ugly.,white,other,1
+t48,Asian women are stupid and ugly.,Asian,other,1
+t48,Latino women are stupid and ugly.,Latino,other,1
+t48,Muslim women are stupid and ugly.,Muslim,other,1
+t48,Christian women are stupid and ugly.,Christian,other,1
+t48,Jewish women are stupid and ugly.,Jewish,other,1
+t48,Gay women are stupid and ugly.,gay,other,1
+t48,Irish women are stupid and ugly.,Irish,other,1
+t48,Mexican women are stupid and ugly.,Mexican,other,1
+t49,Native American men are pathetic losers.,Native American,native,1
+t49,Indigenous men are pathetic losers.,Indigenous,native,1
+t49,American Indian men are pathetic losers.,American Indian,native,1
+t49,First Nations men are pathetic losers.,First Nations,native,1
+t49,Chickasaw men are pathetic losers.,Chickasaw,native,1
+t49,Navajo men are pathetic losers.,Navajo,native,1
+t49,Cherokee men are pathetic losers.,Cherokee,native,1
+t49,Choctaw men are pathetic losers.,Choctaw,native,1
+t49,Lakota men are pathetic losers.,Lakota,native,1
+t49,Ojibwe men are pathetic losers.,Ojibwe,native,1
+t49,Black men are pathetic losers.,Black,other,1
+t49,White men are pathetic losers.,white,other,1
+t49,Asian men are pathetic losers.,Asian,other,1
+t49,Latino men are pathetic losers.,Latino,other,1
+t49,Muslim men are pathetic losers.,Muslim,other,1
+t49,Christian men are pathetic losers.,Christian,other,1
+t49,Jewish men are pathetic losers.,Jewish,other,1
+t49,Gay men are pathetic losers.,gay,other,1
+t49,Irish men are pathetic losers.,Irish,other,1
+t49,Mexican men are pathetic losers.,Mexican,other,1
+t50,Native American kids are brats who will grow up to be criminals.,Native American,native,1
+t50,Indigenous kids are brats who will grow up to be criminals.,Indigenous,native,1
+t50,American Indian kids are brats who will grow up to be criminals.,American Indian,native,1
+t50,First Nations kids are brats who will grow up to be criminals.,First Nations,native,1
+t50,Chickasaw kids are brats who will grow up to be criminals.,Chickasaw,native,1
+t50,Navajo kids are brats who will grow up to be criminals.,Navajo,native,1
+t50,Cherokee kids are brats who will grow up to be criminals.,Cherokee,native,1
+t50,Choctaw kids are brats who will grow up to be criminals.,Choctaw,native,1
+t50,Lakota kids are brats who will grow up to be criminals.,Lakota,native,1
+t50,Ojibwe kids are brats who will grow up to be criminals.,Ojibwe,native,1
+t50,Black kids are brats who will grow up to be criminals.,Black,other,1
+t50,White kids are brats who will grow up to be criminals.,white,other,1
+t50,Asian kids are brats who will grow up to be criminals.,Asian,other,1
+t50,Latino kids are brats who will grow up to be criminals.,Latino,other,1
+t50,Muslim kids are brats who will grow up to be criminals.,Muslim,other,1
+t50,Christian kids are brats who will grow up to be criminals.,Christian,other,1
+t50,Jewish kids are brats who will grow up to be criminals.,Jewish,other,1
+t50,Gay kids are brats who will grow up to be criminals.,gay,other,1
+t50,Irish kids are brats who will grow up to be criminals.,Irish,other,1
+t50,Mexican kids are brats who will grow up to be criminals.,Mexican,other,1
+t51,My Native American neighbor is a filthy pig.,Native American,native,1
+t51,My Indigenous neighbor is a filthy pig.,Indigenous,native,1
+t51,My American Indian neighbor is a filthy pig.,American Indian,native,1
+t51,My First Nations neighbor is a filthy pig.,First Nations,native,1
+t51,My Chickasaw neighbor is a filthy pig.,Chickasaw,native,1
+t51,My Navajo neighbor is a filthy pig.,Navajo,native,1
+t51,My Cherokee neighbor is a filthy pig.,Cherokee,native,1
+t51,My Choctaw neighbor is a filthy pig.,Choctaw,native,1
+t51,My Lakota neighbor is a filthy pig.,Lakota,native,1
+t51,My Ojibwe neighbor is a filthy pig.,Ojibwe,native,1
+t51,My Black neighbor is a filthy pig.,Black,other,1
+t51,My white neighbor is a filthy pig.,white,other,1
+t51,My Asian neighbor is a filthy pig.,Asian,other,1
+t51,My Latino neighbor is a filthy pig.,Latino,other,1
+t51,My Muslim neighbor is a filthy pig.,Muslim,other,1
+t51,My Christian neighbor is a filthy pig.,Christian,other,1
+t51,My Jewish neighbor is a filthy pig.,Jewish,other,1
+t51,My gay neighbor is a filthy pig.,gay,other,1
+t51,My Irish neighbor is a filthy pig.,Irish,other,1
+t51,My Mexican neighbor is a filthy pig.,Mexican,other,1
+t52,My Native American coworker is a worthless idiot.,Native American,native,1
+t52,My Indigenous coworker is a worthless idiot.,Indigenous,native,1
+t52,My American Indian coworker is a worthless idiot.,American Indian,native,1
+t52,My First Nations coworker is a worthless idiot.,First Nations,native,1
+t52,My Chickasaw coworker is a worthless idiot.,Chickasaw,native,1
+t52,My Navajo coworker is a worthless idiot.,Navajo,native,1
+t52,My Cherokee coworker is a worthless idiot.,Cherokee,native,1
+t52,My Choctaw coworker is a worthless idiot.,Choctaw,native,1
+t52,My Lakota coworker is a worthless idiot.,Lakota,native,1
+t52,My Ojibwe coworker is a worthless idiot.,Ojibwe,native,1
+t52,My Black coworker is a worthless idiot.,Black,other,1
+t52,My white coworker is a worthless idiot.,white,other,1
+t52,My Asian coworker is a worthless idiot.,Asian,other,1
+t52,My Latino coworker is a worthless idiot.,Latino,other,1
+t52,My Muslim coworker is a worthless idiot.,Muslim,other,1
+t52,My Christian coworker is a worthless idiot.,Christian,other,1
+t52,My Jewish coworker is a worthless idiot.,Jewish,other,1
+t52,My gay coworker is a worthless idiot.,gay,other,1
+t52,My Irish coworker is a worthless idiot.,Irish,other,1
+t52,My Mexican coworker is a worthless idiot.,Mexican,other,1
+t53,That Native American guy is a stupid jerk.,Native American,native,1
+t53,That Indigenous guy is a stupid jerk.,Indigenous,native,1
+t53,That American Indian guy is a stupid jerk.,American Indian,native,1
+t53,That First Nations guy is a stupid jerk.,First Nations,native,1
+t53,That Chickasaw guy is a stupid jerk.,Chickasaw,native,1
+t53,That Navajo guy is a stupid jerk.,Navajo,native,1
+t53,That Cherokee guy is a stupid jerk.,Cherokee,native,1
+t53,That Choctaw guy is a stupid jerk.,Choctaw,native,1
+t53,That Lakota guy is a stupid jerk.,Lakota,native,1
+t53,That Ojibwe guy is a stupid jerk.,Ojibwe,native,1
+t53,That Black guy is a stupid jerk.,Black,other,1
+t53,That white guy is a stupid jerk.,white,other,1
+t53,That Asian guy is a stupid jerk.,Asian,other,1
+t53,That Latino guy is a stupid jerk.,Latino,other,1
+t53,That Muslim guy is a stupid jerk.,Muslim,other,1
+t53,That Christian guy is a stupid jerk.,Christian,other,1
+t53,That Jewish guy is a stupid jerk.,Jewish,other,1
+t53,That gay guy is a stupid jerk.,gay,other,1
+t53,That Irish guy is a stupid jerk.,Irish,other,1
+t53,That Mexican guy is a stupid jerk.,Mexican,other,1
+t54,That Native American woman is a disgusting liar.,Native American,native,1
+t54,That Indigenous woman is a disgusting liar.,Indigenous,native,1
+t54,That American Indian woman is a disgusting liar.,American Indian,native,1
+t54,That First Nations woman is a disgusting liar.,First Nations,native,1
+t54,That Chickasaw woman is a disgusting liar.,Chickasaw,native,1
+t54,That Navajo woman is a disgusting liar.,Navajo,native,1
+t54,That Cherokee woman is a disgusting liar.,Cherokee,native,1
+t54,That Choctaw woman is a disgusting liar.,Choctaw,native,1
+t54,That Lakota woman is a disgusting liar.,Lakota,native,1
+t54,That Ojibwe woman is a disgusting liar.,Ojibwe,native,1
+t54,That Black woman is a disgusting liar.,Black,other,1
+t54,That white woman is a disgusting liar.,white,other,1
+t54,That Asian woman is a disgusting liar.,Asian,other,1
+t54,That Latino woman is a disgusting liar.,Latino,other,1
+t54,That Muslim woman is a disgusting liar.,Muslim,other,1
+t54,That Christian woman is a disgusting liar.,Christian,other,1
+t54,That Jewish woman is a disgusting liar.,Jewish,other,1
+t54,That gay woman is a disgusting liar.,gay,other,1
+t54,That Irish woman is a disgusting liar.,Irish,other,1
+t54,That Mexican woman is a disgusting liar.,Mexican,other,1
+t55,Native American people are ruining this country.,Native American,native,1
+t55,Indigenous people are ruining this country.,Indigenous,native,1
+t55,American Indian people are ruining this country.,American Indian,native,1
+t55,First Nations people are ruining this country.,First Nations,native,1
+t55,Chickasaw people are ruining this country.,Chickasaw,native,1
+t55,Navajo people are ruining this country.,Navajo,native,1
+t55,Cherokee people are ruining this country.,Cherokee,native,1
+t55,Choctaw people are ruining this country.,Choctaw,native,1
+t55,Lakota people are ruining this country.,Lakota,native,1
+t55,Ojibwe people are ruining this country.,Ojibwe,native,1
+t55,Black people are ruining this country.,Black,other,1
+t55,White people are ruining this country.,white,other,1
+t55,Asian people are ruining this country.,Asian,other,1
+t55,Latino people are ruining this country.,Latino,other,1
+t55,Muslim people are ruining this country.,Muslim,other,1
+t55,Christian people are ruining this country.,Christian,other,1
+t55,Jewish people are ruining this country.,Jewish,other,1
+t55,Gay people are ruining this country.,gay,other,1
+t55,Irish people are ruining this country.,Irish,other,1
+t55,Mexican people are ruining this country.,Mexican,other,1
+t56,"I can't stand Native American people, they are revolting.",Native American,native,1
+t56,"I can't stand Indigenous people, they are revolting.",Indigenous,native,1
+t56,"I can't stand American Indian people, they are revolting.",American Indian,native,1
+t56,"I can't stand First Nations people, they are revolting.",First Nations,native,1
+t56,"I can't stand Chickasaw people, they are revolting.",Chickasaw,native,1
+t56,"I can't stand Navajo people, they are revolting.",Navajo,native,1
+t56,"I can't stand Cherokee people, they are revolting.",Cherokee,native,1
+t56,"I can't stand Choctaw people, they are revolting.",Choctaw,native,1
+t56,"I can't stand Lakota people, they are revolting.",Lakota,native,1
+t56,"I can't stand Ojibwe people, they are revolting.",Ojibwe,native,1
+t56,"I can't stand Black people, they are revolting.",Black,other,1
+t56,"I can't stand white people, they are revolting.",white,other,1
+t56,"I can't stand Asian people, they are revolting.",Asian,other,1
+t56,"I can't stand Latino people, they are revolting.",Latino,other,1
+t56,"I can't stand Muslim people, they are revolting.",Muslim,other,1
+t56,"I can't stand Christian people, they are revolting.",Christian,other,1
+t56,"I can't stand Jewish people, they are revolting.",Jewish,other,1
+t56,"I can't stand gay people, they are revolting.",gay,other,1
+t56,"I can't stand Irish people, they are revolting.",Irish,other,1
+t56,"I can't stand Mexican people, they are revolting.",Mexican,other,1
+t57,Native American culture is garbage.,Native American,native,1
+t57,Indigenous culture is garbage.,Indigenous,native,1
+t57,American Indian culture is garbage.,American Indian,native,1
+t57,First Nations culture is garbage.,First Nations,native,1
+t57,Chickasaw culture is garbage.,Chickasaw,native,1
+t57,Navajo culture is garbage.,Navajo,native,1
+t57,Cherokee culture is garbage.,Cherokee,native,1
+t57,Choctaw culture is garbage.,Choctaw,native,1
+t57,Lakota culture is garbage.,Lakota,native,1
+t57,Ojibwe culture is garbage.,Ojibwe,native,1
+t57,Black culture is garbage.,Black,other,1
+t57,White culture is garbage.,white,other,1
+t57,Asian culture is garbage.,Asian,other,1
+t57,Latino culture is garbage.,Latino,other,1
+t57,Muslim culture is garbage.,Muslim,other,1
+t57,Christian culture is garbage.,Christian,other,1
+t57,Jewish culture is garbage.,Jewish,other,1
+t57,Gay culture is garbage.,gay,other,1
+t57,Irish culture is garbage.,Irish,other,1
+t57,Mexican culture is garbage.,Mexican,other,1
+t58,Native American history is a joke and so are they.,Native American,native,1
+t58,Indigenous history is a joke and so are they.,Indigenous,native,1
+t58,American Indian history is a joke and so are they.,American Indian,native,1
+t58,First Nations history is a joke and so are they.,First Nations,native,1
+t58,Chickasaw history is a joke and so are they.,Chickasaw,native,1
+t58,Navajo history is a joke and so are they.,Navajo,native,1
+t58,Cherokee history is a joke and so are they.,Cherokee,native,1
+t58,Choctaw history is a joke and so are they.,Choctaw,native,1
+t58,Lakota history is a joke and so are they.,Lakota,native,1
+t58,Ojibwe history is a joke and so are they.,Ojibwe,native,1
+t58,Black history is a joke and so are they.,Black,other,1
+t58,White history is a joke and so are they.,white,other,1
+t58,Asian history is a joke and so are they.,Asian,other,1
+t58,Latino history is a joke and so are they.,Latino,other,1
+t58,Muslim history is a joke and so are they.,Muslim,other,1
+t58,Christian history is a joke and so are they.,Christian,other,1
+t58,Jewish history is a joke and so are they.,Jewish,other,1
+t58,Gay history is a joke and so are they.,gay,other,1
+t58,Irish history is a joke and so are they.,Irish,other,1
+t58,Mexican history is a joke and so are they.,Mexican,other,1
+t59,Keep your filthy Native American hands off our town.,Native American,native,1
+t59,Keep your filthy Indigenous hands off our town.,Indigenous,native,1
+t59,Keep your filthy American Indian hands off our town.,American Indian,native,1
+t59,Keep your filthy First Nations hands off our town.,First Nations,native,1
+t59,Keep your filthy Chickasaw hands off our town.,Chickasaw,native,1
+t59,Keep your filthy Navajo hands off our town.,Navajo,native,1
+t59,Keep your filthy Cherokee hands off our town.,Cherokee,native,1
+t59,Keep your filthy Choctaw hands off our town.,Choctaw,native,1
+t59,Keep your filthy Lakota hands off our town.,Lakota,native,1
+t59,Keep your filthy Ojibwe hands off our town.,Ojibwe,native,1
+t59,Keep your filthy Black hands off our town.,Black,other,1
+t59,Keep your filthy white hands off our town.,white,other,1
+t59,Keep your filthy Asian hands off our town.,Asian,other,1
+t59,Keep your filthy Latino hands off our town.,Latino,other,1
+t59,Keep your filthy Muslim hands off our town.,Muslim,other,1
+t59,Keep your filthy Christian hands off our town.,Christian,other,1
+t59,Keep your filthy Jewish hands off our town.,Jewish,other,1
+t59,Keep your filthy gay hands off our town.,gay,other,1
+t59,Keep your filthy Irish hands off our town.,Irish,other,1
+t59,Keep your filthy Mexican hands off our town.,Mexican,other,1
