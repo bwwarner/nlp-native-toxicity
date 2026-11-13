@@ -31,3 +31,4 @@ nlp-native-toxicity/                    toxicity-artifacts/
 - random seed will always be 42
 - label threshold will always be 0.5
 - the prediction file will have columns text, label, and score
+- Training sample size will be 200,000

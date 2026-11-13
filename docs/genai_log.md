@@ -1,2 +1,4 @@
 ## AI Use
-- 11/13 at 10:47AM: Have Claude make a copy-pasteable tree that reflects our outlined folder structure for this project to be added to the README. We did this because I didn't want to type out all the dashes and branches ourselves
+- 11/13 at 10:47AM: Brant had Claude (Sonnet 5.5 medium) make a copy-pasteable tree that reflects our outlined folder structure for this project to be added to the README. We did this because I didn't want to type out all the dashes and branches ourselves
+- 11/13 at 11:30AM: Brant had Claude (Sonnet 5.5 medium) draft the recommended function structure for the data.py processing pipeline. This allows us to make sure the pipeline  isn't missing any steps. This pipeline is tested by checking output for overlap in train, val, and test splits and checking the proportion of toxic labels
+- 11/13 at 12:17AM: Brant had Claude (Sonnet 5.5 medium) draft a script for testing config.py and data.py. The script is test/check_splits.py. Did this to assist in verifying and debugging code before moving to next steps
