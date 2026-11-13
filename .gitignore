@@ -228,6 +228,7 @@ checkpoints/
 .ipynb_checkpoints/
 artifacts/
 .venv/
+*.joblib
 
 # ide
 *.idea
