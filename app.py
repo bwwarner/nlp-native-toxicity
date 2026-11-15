@@ -6,9 +6,16 @@
 
 import gradio as gr
 import joblib
+import torch
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from huggingface_hub import hf_hub_download
 
 THRESHOLD = 0.5 # borrowed from config.py
+MAX_LEN = 512
+
+DISTIL_REPOS = {
+    ""
+}
 
 # load model once
 def load_model():
