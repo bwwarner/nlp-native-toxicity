@@ -154,7 +154,7 @@ def main():
     # save test preds
     preds = pd.DataFrame({
         "text": test["text"],
-        "label": test_labels,
+        "label": test["label"],
         "score": test_scores
     })
 
