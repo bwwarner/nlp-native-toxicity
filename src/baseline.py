@@ -155,7 +155,7 @@ def main():
     preds = pd.DataFrame({
         "text": test["text"],
         "label": test_labels,
-        "socre": test_scores
+        "score": test_scores
     })
 
     preds.to_csv(
