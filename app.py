@@ -2,14 +2,13 @@
 # Owner: Brant
 # Run: python app.py
 # Read: models from HF Hub (or A/models/
-#       data.identity_terms.json
 # Writes: nothing (this serves as the UI for the demo)
 
 import gradio as gr
 import joblib
 from huggingface_hub import hf_hub_download
 
-from src import config
+THRESHOLD = 0.5 # borrowed from config.py
 
 # load model once
 def load_model():
@@ -19,7 +18,23 @@ def load_model():
     )
     return joblib.load(path)
 
+# time for latency testing
+import time
+t0 = time.time()
 MODEL = load_model()
+print(f"Model loaded in {time.time()-t0:.3f} seconds")
+
+# examples for testing
+EXAMPLES = [
+    ["My grandmother taught me to speak Chicksaw."],
+    ["My grandmother taught me to speak Irish."],
+    ["The Navajo council voted on a new school."],
+    ["The Muslim council voted on a new school."],
+    ["Indigenous people deserve better than this."],
+    ["The tribe held a meeting about the new reservation."],
+    ["You are not stupid."],
+    ["Wow, that sounds great."],
+]
 
 # shared model interface
 def score_baseline(text) -> float:
@@ -34,9 +49,14 @@ def handler(text):
     score = score_baseline(text)
 
     label = (
-        "Toxic" if score >= config.THRESHOLD
+        "Toxic" if score >= THRESHOLD
         else "Not toxic"
     )
+
+    # track timing
+    t = time.time()
+    print(f"Request: {time.time()-t:.3f} seconds")
+
     return round(score, 3), label
 
 # gradio interface
@@ -51,7 +71,8 @@ demo = gr.Interface(
         gr.Textbox(label="Prediction")
     ],
     title="Toxicity Detection Baseline",
-    description="TF-IDF + Logistic regresion toxicity classifier"
+    description="TF-IDF + Logistic regresion toxicity classifier",
+    examples = EXAMPLES
 )
 
 if __name__ == "__main__":
