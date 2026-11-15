@@ -11,3 +11,4 @@ joblib
 pyarrow
 matplotlib
 gradio
+huggingface_hub

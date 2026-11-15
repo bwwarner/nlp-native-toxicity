@@ -7,12 +7,17 @@
 
 import gradio as gr
 import joblib
+from huggingface_hub import hf_hub_download
 
 from src import config
 
 # load model once
 def load_model():
-    return joblib.load(config.MODELS_DIR / "baseline.joblib")
+    path = hf_hub_download(
+        repository="bwwarner/nlp-native-toxicity-models",
+        filename = "baseline.joblib",
+    )
+    return joblib.load(path)
 
 MODEL = load_model()
 
