@@ -53,4 +53,3 @@ python -m src.push_to_hub --user <hf-username>           # weights -> HF Hub for
 
 Drop `--sample` to train on the full ~200k split. Use the same value for both runs.
 Scoring interface shared by all models: `score_fn(texts: list[str]) -> list[float]` (P(toxic), toxic if >= 0.5).
-See `docs/handoff_garrett.md` for model loading details and the swap-and-rescore explanation.
