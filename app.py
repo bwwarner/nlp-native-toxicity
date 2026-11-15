@@ -14,7 +14,7 @@ from src import config
 # load model once
 def load_model():
     path = hf_hub_download(
-        repository="bwwarner/nlp-native-toxicity-models",
+        repo_id="bwwarner/nlp-native-toxicity-models",
         filename = "baseline.joblib",
     )
     return joblib.load(path)
