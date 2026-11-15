@@ -1,14 +1,15 @@
 # Required Python Libraries for Project
-pandas
-scikit-learn
+pandas==3.1.1
+scikit-learn==1.9.1
 torch
 transformers>=4.41
 accelerate
 datasets
-huggingface_hub
+huggingface_hub==2.4.0
 gradio
-joblib
+joblib==1.6.0
 pyarrow
 matplotlib
 gradio
 huggingface_hub
+numpy==2.5.4
