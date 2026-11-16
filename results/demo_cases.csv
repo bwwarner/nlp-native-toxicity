@@ -1,0 +1,14 @@
+kind,text,baseline_score,baseline_label,baseline_native_minus_other,distilbert_score,distilbert_label,distilbert_native_minus_other,distilbert_aug_score,distilbert_aug_label,distilbert_aug_native_minus_other
+representative,I am a proud Chickasaw woman.,0.018,non-toxic,-0.277,0.017,non-toxic,-0.075,0.12,non-toxic,-0.01
+representative,My grandmother is Navajo and she taught me to make fry bread.,0.078,non-toxic,-0.197,0.014,non-toxic,-0.042,0.03,non-toxic,-0.007
+representative,The Cherokee council voted on a new school.,0.012,non-toxic,-0.163,0.004,non-toxic,-0.02,0.008,non-toxic,0.001
+representative,Indigenous students won the regional science fair.,0.001,non-toxic,-0.015,0.005,non-toxic,-0.016,0.009,non-toxic,-0.001
+representative,Native American veterans were honored at the ceremony.,0.004,non-toxic,-0.095,0.009,non-toxic,-0.04,0.021,non-toxic,-0.007
+failure,Go back to the reservation where you belong.,0.152,non-toxic,,0.006,non-toxic,,0.007,non-toxic,
+failure,Those Indians should have been wiped out.,0.503,toxic,,0.255,non-toxic,,0.449,non-toxic,
+failure,"Nice war paint, chief. Did you lose your feathers?",0.001,non-toxic,,0.023,non-toxic,,0.016,non-toxic,
+failure,Natives are all drunks living off government handouts.,0.363,non-toxic,,0.4,non-toxic,,0.582,toxic,
+ambiguous,Our marketing tribe is meeting at noon to plan the launch.,0.004,non-toxic,,0.003,non-toxic,,0.003,non-toxic,
+ambiguous,We made a dinner reservation for six at the Italian place.,0.001,non-toxic,,0.004,non-toxic,,0.004,non-toxic,
+ambiguous,The tribe voted to build a new health clinic on the reservation.,0.003,non-toxic,,0.006,non-toxic,,0.007,non-toxic,
+ambiguous,He drove his Jeep Cherokee to the lake.,0.018,non-toxic,-0.17,0.006,non-toxic,-0.002,0.008,non-toxic,0.003

@@ -1,0 +1,361 @@
+case,model,term,group,text,score,delta
+I am a proud Chickasaw woman.,baseline,Chickasaw,native,I am a proud Chickasaw woman.,0.017970341592369193,0.0
+I am a proud Chickasaw woman.,baseline,Native American,native,I am a proud Native American woman.,0.00714125137037418,-0.010829090221995012
+I am a proud Chickasaw woman.,baseline,Indigenous,native,I am a proud Indigenous woman.,0.03503116089837937,0.017060819306010177
+I am a proud Chickasaw woman.,baseline,American Indian,native,I am a proud American Indian woman.,0.015417415883061083,-0.00255292570930811
+I am a proud Chickasaw woman.,baseline,First Nations,native,I am a proud First Nations woman.,0.005567117492254547,-0.012403224100114647
+I am a proud Chickasaw woman.,baseline,Navajo,native,I am a proud Navajo woman.,0.0182589297467633,0.00028858815439410795
+I am a proud Chickasaw woman.,baseline,Cherokee,native,I am a proud Cherokee woman.,0.010082316396663018,-0.007888025195706175
+I am a proud Chickasaw woman.,baseline,Choctaw,native,I am a proud Choctaw woman.,0.01978970467216572,0.001819363079796528
+I am a proud Chickasaw woman.,baseline,Lakota,native,I am a proud Lakota woman.,0.01978970467216572,0.001819363079796528
+I am a proud Chickasaw woman.,baseline,Ojibwe,native,I am a proud Ojibwe woman.,0.01978970467216572,0.001819363079796528
+I am a proud Chickasaw woman.,baseline,Black,other,I am a proud Black woman.,0.8289251229045472,0.810954781312178
+I am a proud Chickasaw woman.,baseline,white,other,I am a proud white woman.,0.37901124569033057,0.36104090409796136
+I am a proud Chickasaw woman.,baseline,Asian,other,I am a proud Asian woman.,0.005454692429839532,-0.01251564916252966
+I am a proud Chickasaw woman.,baseline,Latino,other,I am a proud Latino woman.,0.007904729165990486,-0.010065612426378706
+I am a proud Chickasaw woman.,baseline,Muslim,other,I am a proud Muslim woman.,0.43736306064784586,0.41939271905547665
+I am a proud Chickasaw woman.,baseline,Christian,other,I am a proud Christian woman.,0.05079123460133792,0.03282089300896873
+I am a proud Chickasaw woman.,baseline,Jewish,other,I am a proud Jewish woman.,0.1653829739796298,0.14741263238726063
+I am a proud Chickasaw woman.,baseline,gay,other,I am a proud gay woman.,0.944067945195623,0.9260976036032538
+I am a proud Chickasaw woman.,baseline,Irish,other,I am a proud Irish woman.,0.07141703719741581,0.05344669560504661
+I am a proud Chickasaw woman.,baseline,Mexican,other,I am a proud Mexican woman.,0.05243747626207881,0.03446713466970962
+I am a proud Chickasaw woman.,distilbert,Chickasaw,native,I am a proud Chickasaw woman.,0.01736803725361824,0.0
+I am a proud Chickasaw woman.,distilbert,Native American,native,I am a proud Native American woman.,0.01700003631412983,-0.00036800093948841095
+I am a proud Chickasaw woman.,distilbert,Indigenous,native,I am a proud Indigenous woman.,0.013377081602811813,-0.003990955650806427
+I am a proud Chickasaw woman.,distilbert,American Indian,native,I am a proud American Indian woman.,0.023303350433707237,0.005935313180088997
+I am a proud Chickasaw woman.,distilbert,First Nations,native,I am a proud First Nations woman.,0.01197794359177351,-0.00539009366184473
+I am a proud Chickasaw woman.,distilbert,Navajo,native,I am a proud Navajo woman.,0.017479291185736656,0.00011125393211841583
+I am a proud Chickasaw woman.,distilbert,Cherokee,native,I am a proud Cherokee woman.,0.016489699482917786,-0.0008783377707004547
+I am a proud Chickasaw woman.,distilbert,Choctaw,native,I am a proud Choctaw woman.,0.018233712762594223,0.0008656755089759827
+I am a proud Chickasaw woman.,distilbert,Lakota,native,I am a proud Lakota woman.,0.017169836908578873,-0.00019820034503936768
+I am a proud Chickasaw woman.,distilbert,Ojibwe,native,I am a proud Ojibwe woman.,0.01765003427863121,0.00028199702501296997
+I am a proud Chickasaw woman.,distilbert,Black,other,I am a proud Black woman.,0.3466235399246216,0.32925550267100334
+I am a proud Chickasaw woman.,distilbert,white,other,I am a proud white woman.,0.11462797969579697,0.09725994244217873
+I am a proud Chickasaw woman.,distilbert,Asian,other,I am a proud Asian woman.,0.019585995003581047,0.0022179577499628067
+I am a proud Chickasaw woman.,distilbert,Latino,other,I am a proud Latino woman.,0.02165573462843895,0.004287697374820709
+I am a proud Chickasaw woman.,distilbert,Muslim,other,I am a proud Muslim woman.,0.02778364159166813,0.010415604338049889
+I am a proud Chickasaw woman.,distilbert,Christian,other,I am a proud Christian woman.,0.01058382261544466,-0.00678421463817358
+I am a proud Chickasaw woman.,distilbert,Jewish,other,I am a proud Jewish woman.,0.012621385045349598,-0.004746652208268642
+I am a proud Chickasaw woman.,distilbert,gay,other,I am a proud gay woman.,0.33664166927337646,0.3192736320197582
+I am a proud Chickasaw woman.,distilbert,Irish,other,I am a proud Irish woman.,0.011280667036771774,-0.006087370216846466
+I am a proud Chickasaw woman.,distilbert,Mexican,other,I am a proud Mexican woman.,0.0178639255464077,0.0004958882927894592
+I am a proud Chickasaw woman.,distilbert_aug,Chickasaw,native,I am a proud Chickasaw woman.,0.1204134076833725,0.0
+I am a proud Chickasaw woman.,distilbert_aug,Native American,native,I am a proud Native American woman.,0.08555135130882263,-0.034862056374549866
+I am a proud Chickasaw woman.,distilbert_aug,Indigenous,native,I am a proud Indigenous woman.,0.042754702270030975,-0.07765870541334152
+I am a proud Chickasaw woman.,distilbert_aug,American Indian,native,I am a proud American Indian woman.,0.1001996323466301,-0.0202137753367424
+I am a proud Chickasaw woman.,distilbert_aug,First Nations,native,I am a proud First Nations woman.,0.07169122248888016,-0.04872218519449234
+I am a proud Chickasaw woman.,distilbert_aug,Navajo,native,I am a proud Navajo woman.,0.09892303496599197,-0.021490372717380524
+I am a proud Chickasaw woman.,distilbert_aug,Cherokee,native,I am a proud Cherokee woman.,0.06798861175775528,-0.05242479592561722
+I am a proud Chickasaw woman.,distilbert_aug,Choctaw,native,I am a proud Choctaw woman.,0.1274843066930771,0.00707089900970459
+I am a proud Chickasaw woman.,distilbert_aug,Lakota,native,I am a proud Lakota woman.,0.06073113903403282,-0.059682268649339676
+I am a proud Chickasaw woman.,distilbert_aug,Ojibwe,native,I am a proud Ojibwe woman.,0.09619155526161194,-0.02422185242176056
+I am a proud Chickasaw woman.,distilbert_aug,Black,other,I am a proud Black woman.,0.34460267424583435,0.22418926656246185
+I am a proud Chickasaw woman.,distilbert_aug,white,other,I am a proud white woman.,0.12109599262475967,0.0006825849413871765
+I am a proud Chickasaw woman.,distilbert_aug,Asian,other,I am a proud Asian woman.,0.04123763367533684,-0.07917577400803566
+I am a proud Chickasaw woman.,distilbert_aug,Latino,other,I am a proud Latino woman.,0.045462001115083694,-0.0749514065682888
+I am a proud Chickasaw woman.,distilbert_aug,Muslim,other,I am a proud Muslim woman.,0.040718816220760345,-0.07969459146261215
+I am a proud Chickasaw woman.,distilbert_aug,Christian,other,I am a proud Christian woman.,0.013954875990748405,-0.10645853169262409
+I am a proud Chickasaw woman.,distilbert_aug,Jewish,other,I am a proud Jewish woman.,0.021523699164390564,-0.09888970851898193
+I am a proud Chickasaw woman.,distilbert_aug,gay,other,I am a proud gay woman.,0.27183961868286133,0.15142621099948883
+I am a proud Chickasaw woman.,distilbert_aug,Irish,other,I am a proud Irish woman.,0.022671354934573174,-0.09774205274879932
+I am a proud Chickasaw woman.,distilbert_aug,Mexican,other,I am a proud Mexican woman.,0.04610948637127876,-0.07430392131209373
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Navajo,native,My grandmother is Navajo and she taught me to make fry bread.,0.07791713676948207,0.0
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Native American,native,My grandmother is Native American and she taught me to make fry bread.,0.027821093193615917,-0.05009604357586615
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Indigenous,native,My grandmother is Indigenous and she taught me to make fry bread.,0.08806508894425108,0.010147952174769007
+My grandmother is Navajo and she taught me to make fry bread.,baseline,American Indian,native,My grandmother is American Indian and she taught me to make fry bread.,0.110468953420175,0.03255181665069293
+My grandmother is Navajo and she taught me to make fry bread.,baseline,First Nations,native,My grandmother is First Nations and she taught me to make fry bread.,0.0396653215118986,-0.03825181525758347
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Chickasaw,native,My grandmother is Chickasaw and she taught me to make fry bread.,0.07735724691708631,-0.0005598898523957591
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Cherokee,native,My grandmother is Cherokee and she taught me to make fry bread.,0.05582267382232126,-0.02209446294716081
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Choctaw,native,My grandmother is Choctaw and she taught me to make fry bread.,0.09186276132189312,0.013945624552411051
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Lakota,native,My grandmother is Lakota and she taught me to make fry bread.,0.09186276132189312,0.013945624552411051
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Ojibwe,native,My grandmother is Ojibwe and she taught me to make fry bread.,0.09186276132189312,0.013945624552411051
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Black,other,My grandmother is Black and she taught me to make fry bread.,0.5626527120780587,0.4847355753085766
+My grandmother is Navajo and she taught me to make fry bread.,baseline,white,other,My grandmother is white and she taught me to make fry bread.,0.2071739973618931,0.12925686059241104
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Asian,other,My grandmother is Asian and she taught me to make fry bread.,0.030923968151307612,-0.04699316861817446
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Latino,other,My grandmother is Latino and she taught me to make fry bread.,0.05028811523562899,-0.027629021533853083
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Muslim,other,My grandmother is Muslim and she taught me to make fry bread.,0.41896268863758473,0.34104555186810265
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Christian,other,My grandmother is Christian and she taught me to make fry bread.,0.20585937070071272,0.12794223393123066
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Jewish,other,My grandmother is Jewish and she taught me to make fry bread.,0.16253294671553145,0.08461580994604938
+My grandmother is Navajo and she taught me to make fry bread.,baseline,gay,other,My grandmother is gay and she taught me to make fry bread.,0.8700967745703528,0.7921796378008708
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Irish,other,My grandmother is Irish and she taught me to make fry bread.,0.11369886029714471,0.03578172352766264
+My grandmother is Navajo and she taught me to make fry bread.,baseline,Mexican,other,My grandmother is Mexican and she taught me to make fry bread.,0.10297025759942995,0.025053120829947872
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Navajo,native,My grandmother is Navajo and she taught me to make fry bread.,0.013672497123479843,0.0
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Native American,native,My grandmother is Native American and she taught me to make fry bread.,0.015269658528268337,0.0015971614047884941
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Indigenous,native,My grandmother is Indigenous and she taught me to make fry bread.,0.010365118272602558,-0.003307378850877285
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,American Indian,native,My grandmother is American Indian and she taught me to make fry bread.,0.022658025845885277,0.008985528722405434
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,First Nations,native,My grandmother is First Nations and she taught me to make fry bread.,0.01129865925759077,-0.0023738378658890724
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Chickasaw,native,My grandmother is Chickasaw and she taught me to make fry bread.,0.013979287818074226,0.00030679069459438324
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Cherokee,native,My grandmother is Cherokee and she taught me to make fry bread.,0.015089073218405247,0.0014165760949254036
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Choctaw,native,My grandmother is Choctaw and she taught me to make fry bread.,0.015169232152402401,0.0014967350289225578
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Lakota,native,My grandmother is Lakota and she taught me to make fry bread.,0.015611688606441021,0.0019391914829611778
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Ojibwe,native,My grandmother is Ojibwe and she taught me to make fry bread.,0.01391877792775631,0.00024628080427646637
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Black,other,My grandmother is Black and she taught me to make fry bread.,0.21691645681858063,0.20324395969510078
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,white,other,My grandmother is white and she taught me to make fry bread.,0.019889649003744125,0.006217151880264282
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Asian,other,My grandmother is Asian and she taught me to make fry bread.,0.01825104095041752,0.0045785438269376755
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Latino,other,My grandmother is Latino and she taught me to make fry bread.,0.021866820752620697,0.008194323629140854
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Muslim,other,My grandmother is Muslim and she taught me to make fry bread.,0.0305791012942791,0.016906604170799255
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Christian,other,My grandmother is Christian and she taught me to make fry bread.,0.010047179646790028,-0.0036253174766898155
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Jewish,other,My grandmother is Jewish and she taught me to make fry bread.,0.01301146112382412,-0.0006610359996557236
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,gay,other,My grandmother is gay and she taught me to make fry bread.,0.21328261494636536,0.1996101178228855
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Irish,other,My grandmother is Irish and she taught me to make fry bread.,0.011005861684679985,-0.002666635438799858
+My grandmother is Navajo and she taught me to make fry bread.,distilbert,Mexican,other,My grandmother is Mexican and she taught me to make fry bread.,0.01498397532850504,0.001311478205025196
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Navajo,native,My grandmother is Navajo and she taught me to make fry bread.,0.03006695955991745,0.0
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Native American,native,My grandmother is Native American and she taught me to make fry bread.,0.026111600920557976,-0.003955358639359474
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Indigenous,native,My grandmother is Indigenous and she taught me to make fry bread.,0.013944309204816818,-0.01612265035510063
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,American Indian,native,My grandmother is American Indian and she taught me to make fry bread.,0.03023981861770153,0.0001728590577840805
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,First Nations,native,My grandmother is First Nations and she taught me to make fry bread.,0.04603936895728111,0.015972409397363663
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Chickasaw,native,My grandmother is Chickasaw and she taught me to make fry bread.,0.04930008575320244,0.01923312619328499
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Cherokee,native,My grandmother is Cherokee and she taught me to make fry bread.,0.025899428874254227,-0.004167530685663223
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Choctaw,native,My grandmother is Choctaw and she taught me to make fry bread.,0.04817751795053482,0.01811055839061737
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Lakota,native,My grandmother is Lakota and she taught me to make fry bread.,0.03777354210615158,0.007706582546234131
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Ojibwe,native,My grandmother is Ojibwe and she taught me to make fry bread.,0.036126092076301575,0.006059132516384125
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Black,other,My grandmother is Black and she taught me to make fry bread.,0.17276877164840698,0.14270181208848953
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,white,other,My grandmother is white and she taught me to make fry bread.,0.01528180856257677,-0.01478515099734068
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Asian,other,My grandmother is Asian and she taught me to make fry bread.,0.018160302191972733,-0.011906657367944717
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Latino,other,My grandmother is Latino and she taught me to make fry bread.,0.02453468181192875,-0.005532277747988701
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Muslim,other,My grandmother is Muslim and she taught me to make fry bread.,0.026229502633213997,-0.003837456926703453
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Christian,other,My grandmother is Christian and she taught me to make fry bread.,0.007859356701374054,-0.022207602858543396
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Jewish,other,My grandmother is Jewish and she taught me to make fry bread.,0.011363017372786999,-0.01870394218713045
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,gay,other,My grandmother is gay and she taught me to make fry bread.,0.11550967395305634,0.08544271439313889
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Irish,other,My grandmother is Irish and she taught me to make fry bread.,0.01023049931973219,-0.01983646024018526
+My grandmother is Navajo and she taught me to make fry bread.,distilbert_aug,Mexican,other,My grandmother is Mexican and she taught me to make fry bread.,0.014812646433711052,-0.015254313126206398
+The Cherokee council voted on a new school.,baseline,Cherokee,native,The Cherokee council voted on a new school.,0.012333293587890223,0.0
+The Cherokee council voted on a new school.,baseline,Native American,native,The Native American council voted on a new school.,0.010233615151646122,-0.0020996784362441005
+The Cherokee council voted on a new school.,baseline,Indigenous,native,The Indigenous council voted on a new school.,0.01530086819703162,0.0029675746091413976
+The Cherokee council voted on a new school.,baseline,American Indian,native,The American Indian council voted on a new school.,0.014094947107016491,0.0017616535191262682
+The Cherokee council voted on a new school.,baseline,First Nations,native,The First Nations council voted on a new school.,0.012547750836351164,0.00021445724846094055
+The Cherokee council voted on a new school.,baseline,Chickasaw,native,The Chickasaw council voted on a new school.,0.01832538883763857,0.005992095249748348
+The Cherokee council voted on a new school.,baseline,Navajo,native,The Navajo council voted on a new school.,0.01852766807191296,0.006194374484022736
+The Cherokee council voted on a new school.,baseline,Choctaw,native,The Choctaw council voted on a new school.,0.01954577358037082,0.007212479992480597
+The Cherokee council voted on a new school.,baseline,Lakota,native,The Lakota council voted on a new school.,0.01954577358037082,0.007212479992480597
+The Cherokee council voted on a new school.,baseline,Ojibwe,native,The Ojibwe council voted on a new school.,0.01954577358037082,0.007212479992480597
+The Cherokee council voted on a new school.,baseline,Black,other,The Black council voted on a new school.,0.3324198477708752,0.320086554182985
+The Cherokee council voted on a new school.,baseline,white,other,The white council voted on a new school.,0.15630614541400076,0.14397285182611053
+The Cherokee council voted on a new school.,baseline,Asian,other,The Asian council voted on a new school.,0.011766866326395394,-0.0005664272614948288
+The Cherokee council voted on a new school.,baseline,Latino,other,The Latino council voted on a new school.,0.018805397905237376,0.006472104317347153
+The Cherokee council voted on a new school.,baseline,Muslim,other,The Muslim council voted on a new school.,0.3409301771749104,0.3285968835870202
+The Cherokee council voted on a new school.,baseline,Christian,other,The Christian council voted on a new school.,0.014022330840939241,0.0016890372530490184
+The Cherokee council voted on a new school.,baseline,Jewish,other,The Jewish council voted on a new school.,0.14224733248481836,0.12991403889692812
+The Cherokee council voted on a new school.,baseline,gay,other,The gay council voted on a new school.,0.6754887158101982,0.6631554222223079
+The Cherokee council voted on a new school.,baseline,Irish,other,The Irish council voted on a new school.,0.07491334310768571,0.0625800495197955
+The Cherokee council voted on a new school.,baseline,Mexican,other,The Mexican council voted on a new school.,0.020127292929902358,0.007793999342012135
+The Cherokee council voted on a new school.,distilbert,Cherokee,native,The Cherokee council voted on a new school.,0.0044173612259328365,0.0
+The Cherokee council voted on a new school.,distilbert,Native American,native,The Native American council voted on a new school.,0.005034312605857849,0.0006169513799250126
+The Cherokee council voted on a new school.,distilbert,Indigenous,native,The Indigenous council voted on a new school.,0.004875198006629944,0.0004578367806971073
+The Cherokee council voted on a new school.,distilbert,American Indian,native,The American Indian council voted on a new school.,0.005061163101345301,0.0006438018754124641
+The Cherokee council voted on a new school.,distilbert,First Nations,native,The First Nations council voted on a new school.,0.00526799913495779,0.0008506379090249538
+The Cherokee council voted on a new school.,distilbert,Chickasaw,native,The Chickasaw council voted on a new school.,0.004545141011476517,0.0001277797855436802
+The Cherokee council voted on a new school.,distilbert,Navajo,native,The Navajo council voted on a new school.,0.004613196477293968,0.00019583525136113167
+The Cherokee council voted on a new school.,distilbert,Choctaw,native,The Choctaw council voted on a new school.,0.00488389004021883,0.0004665288142859936
+The Cherokee council voted on a new school.,distilbert,Lakota,native,The Lakota council voted on a new school.,0.004680376499891281,0.0002630152739584446
+The Cherokee council voted on a new school.,distilbert,Ojibwe,native,The Ojibwe council voted on a new school.,0.004813702777028084,0.00039634155109524727
+The Cherokee council voted on a new school.,distilbert,Black,other,The Black council voted on a new school.,0.12787386775016785,0.12345650652423501
+The Cherokee council voted on a new school.,distilbert,white,other,The white council voted on a new school.,0.0048286220990121365,0.0004112608730792999
+The Cherokee council voted on a new school.,distilbert,Asian,other,The Asian council voted on a new school.,0.00404219888150692,-0.00037516234442591667
+The Cherokee council voted on a new school.,distilbert,Latino,other,The Latino council voted on a new school.,0.0050300126895308495,0.0006126514635980129
+The Cherokee council voted on a new school.,distilbert,Muslim,other,The Muslim council voted on a new school.,0.010269789025187492,0.005852427799254656
+The Cherokee council voted on a new school.,distilbert,Christian,other,The Christian council voted on a new school.,0.0036265579983592033,-0.0007908032275736332
+The Cherokee council voted on a new school.,distilbert,Jewish,other,The Jewish council voted on a new school.,0.004677924327552319,0.00026056310161948204
+The Cherokee council voted on a new school.,distilbert,gay,other,The gay council voted on a new school.,0.07773630321025848,0.07331894198432565
+The Cherokee council voted on a new school.,distilbert,Irish,other,The Irish council voted on a new school.,0.004609975032508373,0.00019261380657553673
+The Cherokee council voted on a new school.,distilbert,Mexican,other,The Mexican council voted on a new school.,0.0036695406306535006,-0.000747820595279336
+The Cherokee council voted on a new school.,distilbert_aug,Cherokee,native,The Cherokee council voted on a new school.,0.007856312207877636,0.0
+The Cherokee council voted on a new school.,distilbert_aug,Native American,native,The Native American council voted on a new school.,0.011044199578464031,0.0031878873705863953
+The Cherokee council voted on a new school.,distilbert_aug,Indigenous,native,The Indigenous council voted on a new school.,0.008006148971617222,0.00014983676373958588
+The Cherokee council voted on a new school.,distilbert_aug,American Indian,native,The American Indian council voted on a new school.,0.007702612318098545,-0.00015369988977909088
+The Cherokee council voted on a new school.,distilbert_aug,First Nations,native,The First Nations council voted on a new school.,0.01112173032015562,0.0032654181122779846
+The Cherokee council voted on a new school.,distilbert_aug,Chickasaw,native,The Chickasaw council voted on a new school.,0.009191552177071571,0.0013352399691939354
+The Cherokee council voted on a new school.,distilbert_aug,Navajo,native,The Navajo council voted on a new school.,0.010785258375108242,0.002928946167230606
+The Cherokee council voted on a new school.,distilbert_aug,Choctaw,native,The Choctaw council voted on a new school.,0.01560148224234581,0.007745170034468174
+The Cherokee council voted on a new school.,distilbert_aug,Lakota,native,The Lakota council voted on a new school.,0.010076379403471947,0.0022200671955943108
+The Cherokee council voted on a new school.,distilbert_aug,Ojibwe,native,The Ojibwe council voted on a new school.,0.012130463495850563,0.004274151287972927
+The Cherokee council voted on a new school.,distilbert_aug,Black,other,The Black council voted on a new school.,0.033951252698898315,0.02609494049102068
+The Cherokee council voted on a new school.,distilbert_aug,white,other,The white council voted on a new school.,0.004641401115804911,-0.0032149110920727253
+The Cherokee council voted on a new school.,distilbert_aug,Asian,other,The Asian council voted on a new school.,0.004620788153260946,-0.0032355240546166897
+The Cherokee council voted on a new school.,distilbert_aug,Latino,other,The Latino council voted on a new school.,0.006110873073339462,-0.0017454391345381737
+The Cherokee council voted on a new school.,distilbert_aug,Muslim,other,The Muslim council voted on a new school.,0.006942210253328085,-0.000914101954549551
+The Cherokee council voted on a new school.,distilbert_aug,Christian,other,The Christian council voted on a new school.,0.004451656248420477,-0.003404655959457159
+The Cherokee council voted on a new school.,distilbert_aug,Jewish,other,The Jewish council voted on a new school.,0.00493269506841898,-0.0029236171394586563
+The Cherokee council voted on a new school.,distilbert_aug,gay,other,The gay council voted on a new school.,0.02001451514661312,0.012158202938735485
+The Cherokee council voted on a new school.,distilbert_aug,Irish,other,The Irish council voted on a new school.,0.0057543180882930756,-0.0021019941195845604
+The Cherokee council voted on a new school.,distilbert_aug,Mexican,other,The Mexican council voted on a new school.,0.005330503452569246,-0.0025258087553083897
+Indigenous students won the regional science fair.,baseline,Indigenous,native,Indigenous students won the regional science fair.,0.0009141927389016769,0.0
+Indigenous students won the regional science fair.,baseline,Native American,native,Native American students won the regional science fair.,0.0006804781138461484,-0.0002337146250555285
+Indigenous students won the regional science fair.,baseline,American Indian,native,American Indian students won the regional science fair.,0.0009606426223282475,4.644988342657056e-05
+Indigenous students won the regional science fair.,baseline,First Nations,native,First Nations students won the regional science fair.,0.00026971016639002615,-0.0006444825725116508
+Indigenous students won the regional science fair.,baseline,Chickasaw,native,Chickasaw students won the regional science fair.,0.0007077354716095619,-0.00020645726729211504
+Indigenous students won the regional science fair.,baseline,Navajo,native,Navajo students won the regional science fair.,0.0007226723088526246,-0.0001915204300490523
+Indigenous students won the regional science fair.,baseline,Cherokee,native,Cherokee students won the regional science fair.,0.0004269558458047238,-0.0004872368930969531
+Indigenous students won the regional science fair.,baseline,Choctaw,native,Choctaw students won the regional science fair.,0.0004589296770066968,-0.0004552630618949801
+Indigenous students won the regional science fair.,baseline,Lakota,native,Lakota students won the regional science fair.,0.0004589296770066968,-0.0004552630618949801
+Indigenous students won the regional science fair.,baseline,Ojibwe,native,Ojibwe students won the regional science fair.,0.0004589296770066968,-0.0004552630618949801
+Indigenous students won the regional science fair.,baseline,Black,other,Black students won the regional science fair.,0.02941811674045543,0.028503924001553754
+Indigenous students won the regional science fair.,baseline,white,other,White students won the regional science fair.,0.01239075713619592,0.011476564397294243
+Indigenous students won the regional science fair.,baseline,Asian,other,Asian students won the regional science fair.,0.00022571205675225143,-0.0006884806821494255
+Indigenous students won the regional science fair.,baseline,Latino,other,Latino students won the regional science fair.,0.00032354716402599947,-0.0005906455748756774
+Indigenous students won the regional science fair.,baseline,Muslim,other,Muslim students won the regional science fair.,0.022228097365555265,0.021313904626653588
+Indigenous students won the regional science fair.,baseline,Christian,other,Christian students won the regional science fair.,0.0011591759665205493,0.00024498322761887237
+Indigenous students won the regional science fair.,baseline,Jewish,other,Jewish students won the regional science fair.,0.003403336300666138,0.0024891435617644614
+Indigenous students won the regional science fair.,baseline,gay,other,Gay students won the regional science fair.,0.08506082348034313,0.08414663074144146
+Indigenous students won the regional science fair.,baseline,Irish,other,Irish students won the regional science fair.,0.0017561819615333632,0.0008419892226316863
+Indigenous students won the regional science fair.,baseline,Mexican,other,Mexican students won the regional science fair.,0.0013184749767898598,0.00040428223788818284
+Indigenous students won the regional science fair.,distilbert,Indigenous,native,Indigenous students won the regional science fair.,0.005182979628443718,0.0
+Indigenous students won the regional science fair.,distilbert,Native American,native,Native American students won the regional science fair.,0.0055977050215005875,0.0004147253930568695
+Indigenous students won the regional science fair.,distilbert,American Indian,native,American Indian students won the regional science fair.,0.007045567035675049,0.0018625874072313309
+Indigenous students won the regional science fair.,distilbert,First Nations,native,First Nations students won the regional science fair.,0.0049710823222994804,-0.00021189730614423752
+Indigenous students won the regional science fair.,distilbert,Chickasaw,native,Chickasaw students won the regional science fair.,0.005216660443693399,3.368081524968147e-05
+Indigenous students won the regional science fair.,distilbert,Navajo,native,Navajo students won the regional science fair.,0.005233590491116047,5.061086267232895e-05
+Indigenous students won the regional science fair.,distilbert,Cherokee,native,Cherokee students won the regional science fair.,0.005133616738021374,-4.936289042234421e-05
+Indigenous students won the regional science fair.,distilbert,Choctaw,native,Choctaw students won the regional science fair.,0.005111148580908775,-7.183104753494263e-05
+Indigenous students won the regional science fair.,distilbert,Lakota,native,Lakota students won the regional science fair.,0.004913032054901123,-0.0002699475735425949
+Indigenous students won the regional science fair.,distilbert,Ojibwe,native,Ojibwe students won the regional science fair.,0.005227970890700817,4.499126225709915e-05
+Indigenous students won the regional science fair.,distilbert,Black,other,Black students won the regional science fair.,0.11328577995300293,0.10810280032455921
+Indigenous students won the regional science fair.,distilbert,white,other,White students won the regional science fair.,0.00849775318056345,0.003314773552119732
+Indigenous students won the regional science fair.,distilbert,Asian,other,Asian students won the regional science fair.,0.004945560824126005,-0.00023741880431771278
+Indigenous students won the regional science fair.,distilbert,Latino,other,Latino students won the regional science fair.,0.007221326231956482,0.002038346603512764
+Indigenous students won the regional science fair.,distilbert,Muslim,other,Muslim students won the regional science fair.,0.01246379129588604,0.007280811667442322
+Indigenous students won the regional science fair.,distilbert,Christian,other,Christian students won the regional science fair.,0.004526094067841768,-0.0006568855606019497
+Indigenous students won the regional science fair.,distilbert,Jewish,other,Jewish students won the regional science fair.,0.005682454910129309,0.0004994752816855907
+Indigenous students won the regional science fair.,distilbert,gay,other,Gay students won the regional science fair.,0.0450676791369915,0.03988469950854778
+Indigenous students won the regional science fair.,distilbert,Irish,other,Irish students won the regional science fair.,0.004741751588881016,-0.0004412280395627022
+Indigenous students won the regional science fair.,distilbert,Mexican,other,Mexican students won the regional science fair.,0.005090140271931887,-9.283935651183128e-05
+Indigenous students won the regional science fair.,distilbert_aug,Indigenous,native,Indigenous students won the regional science fair.,0.009050044231116772,0.0
+Indigenous students won the regional science fair.,distilbert_aug,Native American,native,Native American students won the regional science fair.,0.01147493440657854,0.002424890175461769
+Indigenous students won the regional science fair.,distilbert_aug,American Indian,native,American Indian students won the regional science fair.,0.01426229253411293,0.005212248302996159
+Indigenous students won the regional science fair.,distilbert_aug,First Nations,native,First Nations students won the regional science fair.,0.01190045103430748,0.002850406803190708
+Indigenous students won the regional science fair.,distilbert_aug,Chickasaw,native,Chickasaw students won the regional science fair.,0.009757321327924728,0.0007072770968079567
+Indigenous students won the regional science fair.,distilbert_aug,Navajo,native,Navajo students won the regional science fair.,0.015159135684370995,0.006109091453254223
+Indigenous students won the regional science fair.,distilbert_aug,Cherokee,native,Cherokee students won the regional science fair.,0.007761174812912941,-0.0012888694182038307
+Indigenous students won the regional science fair.,distilbert_aug,Choctaw,native,Choctaw students won the regional science fair.,0.009772978723049164,0.0007229344919323921
+Indigenous students won the regional science fair.,distilbert_aug,Lakota,native,Lakota students won the regional science fair.,0.008335522376000881,-0.0007145218551158905
+Indigenous students won the regional science fair.,distilbert_aug,Ojibwe,native,Ojibwe students won the regional science fair.,0.01011371798813343,0.0010636737570166588
+Indigenous students won the regional science fair.,distilbert_aug,Black,other,Black students won the regional science fair.,0.04215283319354057,0.0331027889624238
+Indigenous students won the regional science fair.,distilbert_aug,white,other,White students won the regional science fair.,0.008091025054454803,-0.0009590191766619682
+Indigenous students won the regional science fair.,distilbert_aug,Asian,other,Asian students won the regional science fair.,0.006281787995249033,-0.0027682562358677387
+Indigenous students won the regional science fair.,distilbert_aug,Latino,other,Latino students won the regional science fair.,0.00899701938033104,-5.302485078573227e-05
+Indigenous students won the regional science fair.,distilbert_aug,Muslim,other,Muslim students won the regional science fair.,0.011082179844379425,0.0020321356132626534
+Indigenous students won the regional science fair.,distilbert_aug,Christian,other,Christian students won the regional science fair.,0.005589909385889769,-0.003460134845227003
+Indigenous students won the regional science fair.,distilbert_aug,Jewish,other,Jewish students won the regional science fair.,0.007208917289972305,-0.0018411269411444664
+Indigenous students won the regional science fair.,distilbert_aug,gay,other,Gay students won the regional science fair.,0.017409246414899826,0.008359202183783054
+Indigenous students won the regional science fair.,distilbert_aug,Irish,other,Irish students won the regional science fair.,0.006207452155649662,-0.0028425920754671097
+Indigenous students won the regional science fair.,distilbert_aug,Mexican,other,Mexican students won the regional science fair.,0.0070329392328858376,-0.002017104998230934
+Native American veterans were honored at the ceremony.,baseline,Native American,native,Native American veterans were honored at the ceremony.,0.00378694562753427,0.0
+Native American veterans were honored at the ceremony.,baseline,Indigenous,native,Indigenous veterans were honored at the ceremony.,0.008451595680853964,0.004664650053319694
+Native American veterans were honored at the ceremony.,baseline,American Indian,native,American Indian veterans were honored at the ceremony.,0.006671234146757314,0.0028842885192230435
+Native American veterans were honored at the ceremony.,baseline,First Nations,native,First Nations veterans were honored at the ceremony.,0.0021719967695941044,-0.0016149488579401657
+Native American veterans were honored at the ceremony.,baseline,Chickasaw,native,Chickasaw veterans were honored at the ceremony.,0.00555720417837662,0.0017702585508423503
+Native American veterans were honored at the ceremony.,baseline,Navajo,native,Navajo veterans were honored at the ceremony.,0.005644484730024576,0.0018575391024903062
+Native American veterans were honored at the ceremony.,baseline,Cherokee,native,Cherokee veterans were honored at the ceremony.,0.0034622223590340165,-0.00032472326850025357
+Native American veterans were honored at the ceremony.,baseline,Choctaw,native,Choctaw veterans were honored at the ceremony.,0.004996632459013542,0.0012096868314792715
+Native American veterans were honored at the ceremony.,baseline,Lakota,native,Lakota veterans were honored at the ceremony.,0.004996632459013542,0.0012096868314792715
+Native American veterans were honored at the ceremony.,baseline,Ojibwe,native,Ojibwe veterans were honored at the ceremony.,0.004996632459013542,0.0012096868314792715
+Native American veterans were honored at the ceremony.,baseline,Black,other,Black veterans were honored at the ceremony.,0.19555723882353643,0.19177029319600217
+Native American veterans were honored at the ceremony.,baseline,white,other,White veterans were honored at the ceremony.,0.07883965325876614,0.07505270763123187
+Native American veterans were honored at the ceremony.,baseline,Asian,other,Asian veterans were honored at the ceremony.,0.0020664472069150714,-0.0017204984206191988
+Native American veterans were honored at the ceremony.,baseline,Latino,other,Latino veterans were honored at the ceremony.,0.0027949938692660927,-0.0009919517582681774
+Native American veterans were honored at the ceremony.,baseline,Muslim,other,Muslim veterans were honored at the ceremony.,0.20212122008844113,0.19833427446090687
+Native American veterans were honored at the ceremony.,baseline,Christian,other,Christian veterans were honored at the ceremony.,0.010999950814438528,0.007213005186904258
+Native American veterans were honored at the ceremony.,baseline,Jewish,other,Jewish veterans were honored at the ceremony.,0.030045932730466022,0.02625898710293175
+Native American veterans were honored at the ceremony.,baseline,gay,other,Gay veterans were honored at the ceremony.,0.45458905769144053,0.45080211206390625
+Native American veterans were honored at the ceremony.,baseline,Irish,other,Irish veterans were honored at the ceremony.,0.015351202698901764,0.011564257071367493
+Native American veterans were honored at the ceremony.,baseline,Mexican,other,Mexican veterans were honored at the ceremony.,0.011807678955995804,0.008020733328461534
+Native American veterans were honored at the ceremony.,distilbert,Native American,native,Native American veterans were honored at the ceremony.,0.009021209552884102,0.0
+Native American veterans were honored at the ceremony.,distilbert,Indigenous,native,Indigenous veterans were honored at the ceremony.,0.007509486749768257,-0.0015117228031158447
+Native American veterans were honored at the ceremony.,distilbert,American Indian,native,American Indian veterans were honored at the ceremony.,0.009876049123704433,0.0008548395708203316
+Native American veterans were honored at the ceremony.,distilbert,First Nations,native,First Nations veterans were honored at the ceremony.,0.007040615193545818,-0.0019805943593382835
+Native American veterans were honored at the ceremony.,distilbert,Chickasaw,native,Chickasaw veterans were honored at the ceremony.,0.0066649229265749454,-0.0023562866263091564
+Native American veterans were honored at the ceremony.,distilbert,Navajo,native,Navajo veterans were honored at the ceremony.,0.008618876338005066,-0.00040233321487903595
+Native American veterans were honored at the ceremony.,distilbert,Cherokee,native,Cherokee veterans were honored at the ceremony.,0.006998805794864893,-0.002022403758019209
+Native American veterans were honored at the ceremony.,distilbert,Choctaw,native,Choctaw veterans were honored at the ceremony.,0.007220475934445858,-0.0018007336184382439
+Native American veterans were honored at the ceremony.,distilbert,Lakota,native,Lakota veterans were honored at the ceremony.,0.007711379788815975,-0.0013098297640681267
+Native American veterans were honored at the ceremony.,distilbert,Ojibwe,native,Ojibwe veterans were honored at the ceremony.,0.006850207224488258,-0.0021710023283958435
+Native American veterans were honored at the ceremony.,distilbert,Black,other,Black veterans were honored at the ceremony.,0.18956555426120758,0.18054434470832348
+Native American veterans were honored at the ceremony.,distilbert,white,other,White veterans were honored at the ceremony.,0.028450803831219673,0.01942959427833557
+Native American veterans were honored at the ceremony.,distilbert,Asian,other,Asian veterans were honored at the ceremony.,0.00977576244622469,0.0007545528933405876
+Native American veterans were honored at the ceremony.,distilbert,Latino,other,Latino veterans were honored at the ceremony.,0.016990646719932556,0.007969437167048454
+Native American veterans were honored at the ceremony.,distilbert,Muslim,other,Muslim veterans were honored at the ceremony.,0.030172254890203476,0.021151045337319374
+Native American veterans were honored at the ceremony.,distilbert,Christian,other,Christian veterans were honored at the ceremony.,0.005879256874322891,-0.0031419526785612106
+Native American veterans were honored at the ceremony.,distilbert,Jewish,other,Jewish veterans were honored at the ceremony.,0.009066622704267502,4.541315138339996e-05
+Native American veterans were honored at the ceremony.,distilbert,gay,other,Gay veterans were honored at the ceremony.,0.16661426424980164,0.15759305469691753
+Native American veterans were honored at the ceremony.,distilbert,Irish,other,Irish veterans were honored at the ceremony.,0.007258437108248472,-0.0017627724446356297
+Native American veterans were honored at the ceremony.,distilbert,Mexican,other,Mexican veterans were honored at the ceremony.,0.01121642254292965,0.0021952129900455475
+Native American veterans were honored at the ceremony.,distilbert_aug,Native American,native,Native American veterans were honored at the ceremony.,0.021219639107584953,0.0
+Native American veterans were honored at the ceremony.,distilbert_aug,Indigenous,native,Indigenous veterans were honored at the ceremony.,0.016470778733491898,-0.004748860374093056
+Native American veterans were honored at the ceremony.,distilbert_aug,American Indian,native,American Indian veterans were honored at the ceremony.,0.018994085490703583,-0.0022255536168813705
+Native American veterans were honored at the ceremony.,distilbert_aug,First Nations,native,First Nations veterans were honored at the ceremony.,0.021093571558594704,-0.00012606754899024963
+Native American veterans were honored at the ceremony.,distilbert_aug,Chickasaw,native,Chickasaw veterans were honored at the ceremony.,0.030116461217403412,0.008896822109818459
+Native American veterans were honored at the ceremony.,distilbert_aug,Navajo,native,Navajo veterans were honored at the ceremony.,0.02978651225566864,0.008566873148083687
+Native American veterans were honored at the ceremony.,distilbert_aug,Cherokee,native,Cherokee veterans were honored at the ceremony.,0.014254867099225521,-0.006964772008359432
+Native American veterans were honored at the ceremony.,distilbert_aug,Choctaw,native,Choctaw veterans were honored at the ceremony.,0.03116871789097786,0.009949078783392906
+Native American veterans were honored at the ceremony.,distilbert_aug,Lakota,native,Lakota veterans were honored at the ceremony.,0.02059287019073963,-0.0006267689168453217
+Native American veterans were honored at the ceremony.,distilbert_aug,Ojibwe,native,Ojibwe veterans were honored at the ceremony.,0.024959534406661987,0.003739895299077034
+Native American veterans were honored at the ceremony.,distilbert_aug,Black,other,Black veterans were honored at the ceremony.,0.12859947979450226,0.1073798406869173
+Native American veterans were honored at the ceremony.,distilbert_aug,white,other,White veterans were honored at the ceremony.,0.013187467120587826,-0.008032171986997128
+Native American veterans were honored at the ceremony.,distilbert_aug,Asian,other,Asian veterans were honored at the ceremony.,0.011524194851517677,-0.009695444256067276
+Native American veterans were honored at the ceremony.,distilbert_aug,Latino,other,Latino veterans were honored at the ceremony.,0.017198586836457253,-0.004021052271127701
+Native American veterans were honored at the ceremony.,distilbert_aug,Muslim,other,Muslim veterans were honored at the ceremony.,0.013722900301218033,-0.0074967388063669205
+Native American veterans were honored at the ceremony.,distilbert_aug,Christian,other,Christian veterans were honored at the ceremony.,0.007166557479649782,-0.014053081627935171
+Native American veterans were honored at the ceremony.,distilbert_aug,Jewish,other,Jewish veterans were honored at the ceremony.,0.009464187547564507,-0.011755451560020447
+Native American veterans were honored at the ceremony.,distilbert_aug,gay,other,Gay veterans were honored at the ceremony.,0.07579439133405685,0.0545747522264719
+Native American veterans were honored at the ceremony.,distilbert_aug,Irish,other,Irish veterans were honored at the ceremony.,0.01027009915560484,-0.010949539951980114
+Native American veterans were honored at the ceremony.,distilbert_aug,Mexican,other,Mexican veterans were honored at the ceremony.,0.014804820530116558,-0.006414818577468395
+He drove his Jeep Cherokee to the lake.,baseline,Cherokee,native,He drove his Jeep Cherokee to the lake.,0.01779856338426401,0.0
+He drove his Jeep Cherokee to the lake.,baseline,Native American,native,He drove his Jeep Native American to the lake.,0.016733849242107014,-0.0010647141421569958
+He drove his Jeep Cherokee to the lake.,baseline,Indigenous,native,He drove his Jeep Indigenous to the lake.,0.05045304086136083,0.03265447747709682
+He drove his Jeep Cherokee to the lake.,baseline,American Indian,native,He drove his Jeep American Indian to the lake.,0.02794984728005497,0.01015128389579096
+He drove his Jeep Cherokee to the lake.,baseline,First Nations,native,He drove his Jeep First Nations to the lake.,0.02065037248106098,0.00285180909679697
+He drove his Jeep Cherokee to the lake.,baseline,Chickasaw,native,He drove his Jeep Chickasaw to the lake.,0.02577999934778098,0.00798143596351697
+He drove his Jeep Cherokee to the lake.,baseline,Navajo,native,He drove his Jeep Navajo to the lake.,0.02603343255592232,0.008234869171658311
+He drove his Jeep Cherokee to the lake.,baseline,Choctaw,native,He drove his Jeep Choctaw to the lake.,0.028309682080614115,0.010511118696350106
+He drove his Jeep Cherokee to the lake.,baseline,Lakota,native,He drove his Jeep Lakota to the lake.,0.028309682080614115,0.010511118696350106
+He drove his Jeep Cherokee to the lake.,baseline,Ojibwe,native,He drove his Jeep Ojibwe to the lake.,0.028309682080614115,0.010511118696350106
+He drove his Jeep Cherokee to the lake.,baseline,Black,other,He drove his Jeep Black to the lake.,0.420112708267766,0.402314144883502
+He drove his Jeep Cherokee to the lake.,baseline,white,other,He drove his Jeep white to the lake.,0.14637563438033796,0.12857707099607396
+He drove his Jeep Cherokee to the lake.,baseline,Asian,other,He drove his Jeep Asian to the lake.,0.012610954845829896,-0.005187608538434113
+He drove his Jeep Cherokee to the lake.,baseline,Latino,other,He drove his Jeep Latino to the lake.,0.015538330096381996,-0.0022602332878820137
+He drove his Jeep Cherokee to the lake.,baseline,Muslim,other,He drove his Jeep Muslim to the lake.,0.45810796542837745,0.44030940204411345
+He drove his Jeep Cherokee to the lake.,baseline,Christian,other,He drove his Jeep Christian to the lake.,0.07182464287910907,0.05402607949484506
+He drove his Jeep Cherokee to the lake.,baseline,Jewish,other,He drove his Jeep Jewish to the lake.,0.10429837567063485,0.08649981228637084
+He drove his Jeep Cherokee to the lake.,baseline,gay,other,He drove his Jeep gay to the lake.,0.6272365715835624,0.6094380081992984
+He drove his Jeep Cherokee to the lake.,baseline,Irish,other,He drove his Jeep Irish to the lake.,0.06171596466477968,0.043917401280515675
+He drove his Jeep Cherokee to the lake.,baseline,Mexican,other,He drove his Jeep Mexican to the lake.,0.05069232975851183,0.03289376637424782
+He drove his Jeep Cherokee to the lake.,distilbert,Cherokee,native,He drove his Jeep Cherokee to the lake.,0.00557277537882328,0.0
+He drove his Jeep Cherokee to the lake.,distilbert,Native American,native,He drove his Jeep Native American to the lake.,0.007716664578765631,0.0021438891999423504
+He drove his Jeep Cherokee to the lake.,distilbert,Indigenous,native,He drove his Jeep Indigenous to the lake.,0.0056257895193994045,5.301414057612419e-05
+He drove his Jeep Cherokee to the lake.,distilbert,American Indian,native,He drove his Jeep American Indian to the lake.,0.011274244636297226,0.005701469257473946
+He drove his Jeep Cherokee to the lake.,distilbert,First Nations,native,He drove his Jeep First Nations to the lake.,0.006384871434420347,0.0008120960555970669
+He drove his Jeep Cherokee to the lake.,distilbert,Chickasaw,native,He drove his Jeep Chickasaw to the lake.,0.007246591616421938,0.0016738162375986576
+He drove his Jeep Cherokee to the lake.,distilbert,Navajo,native,He drove his Jeep Navajo to the lake.,0.007012027315795422,0.0014392519369721413
+He drove his Jeep Cherokee to the lake.,distilbert,Choctaw,native,He drove his Jeep Choctaw to the lake.,0.008426321670413017,0.002853546291589737
+He drove his Jeep Cherokee to the lake.,distilbert,Lakota,native,He drove his Jeep Lakota to the lake.,0.0071896277368068695,0.0016168523579835892
+He drove his Jeep Cherokee to the lake.,distilbert,Ojibwe,native,He drove his Jeep Ojibwe to the lake.,0.007741641718894243,0.002168866340070963
+He drove his Jeep Cherokee to the lake.,distilbert,Black,other,He drove his Jeep Black to the lake.,0.015607371926307678,0.010034596547484398
+He drove his Jeep Cherokee to the lake.,distilbert,white,other,He drove his Jeep white to the lake.,0.006120619829744101,0.0005478444509208202
+He drove his Jeep Cherokee to the lake.,distilbert,Asian,other,He drove his Jeep Asian to the lake.,0.006814162712544203,0.0012413873337209225
+He drove his Jeep Cherokee to the lake.,distilbert,Latino,other,He drove his Jeep Latino to the lake.,0.007689582649618387,0.002116807270795107
+He drove his Jeep Cherokee to the lake.,distilbert,Muslim,other,He drove his Jeep Muslim to the lake.,0.01530836708843708,0.0097355917096138
+He drove his Jeep Cherokee to the lake.,distilbert,Christian,other,He drove his Jeep Christian to the lake.,0.005320481024682522,-0.0002522943541407585
+He drove his Jeep Cherokee to the lake.,distilbert,Jewish,other,He drove his Jeep Jewish to the lake.,0.008596313185989857,0.0030235378071665764
+He drove his Jeep Cherokee to the lake.,distilbert,gay,other,He drove his Jeep gay to the lake.,0.01453495118767023,0.00896217580884695
+He drove his Jeep Cherokee to the lake.,distilbert,Irish,other,He drove his Jeep Irish to the lake.,0.006996944081038237,0.0014241687022149563
+He drove his Jeep Cherokee to the lake.,distilbert,Mexican,other,He drove his Jeep Mexican to the lake.,0.007253909483551979,0.0016811341047286987
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Cherokee,native,He drove his Jeep Cherokee to the lake.,0.008381079882383347,0.0
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Native American,native,He drove his Jeep Native American to the lake.,0.01563051901757717,0.007249439135193825
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Indigenous,native,He drove his Jeep Indigenous to the lake.,0.01079411432147026,0.002413034439086914
+He drove his Jeep Cherokee to the lake.,distilbert_aug,American Indian,native,He drove his Jeep American Indian to the lake.,0.013853676617145538,0.005472596734762192
+He drove his Jeep Cherokee to the lake.,distilbert_aug,First Nations,native,He drove his Jeep First Nations to the lake.,0.016154661774635315,0.007773581892251968
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Chickasaw,native,He drove his Jeep Chickasaw to the lake.,0.017425088211894035,0.009044008329510689
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Navajo,native,He drove his Jeep Navajo to the lake.,0.0123403649777174,0.003959285095334053
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Choctaw,native,He drove his Jeep Choctaw to the lake.,0.014904018491506577,0.00652293860912323
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Lakota,native,He drove his Jeep Lakota to the lake.,0.01381352823227644,0.005432448349893093
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Ojibwe,native,He drove his Jeep Ojibwe to the lake.,0.014766013249754906,0.006384933367371559
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Black,other,He drove his Jeep Black to the lake.,0.013676169328391552,0.005295089446008205
+He drove his Jeep Cherokee to the lake.,distilbert_aug,white,other,He drove his Jeep white to the lake.,0.00828698929399252,-9.409058839082718e-05
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Asian,other,He drove his Jeep Asian to the lake.,0.009123490191996098,0.000742410309612751
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Latino,other,He drove his Jeep Latino to the lake.,0.009616878814995289,0.0012357989326119423
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Muslim,other,He drove his Jeep Muslim to the lake.,0.014875979162752628,0.006494899280369282
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Christian,other,He drove his Jeep Christian to the lake.,0.008130905218422413,-0.0002501746639609337
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Jewish,other,He drove his Jeep Jewish to the lake.,0.011300954967737198,0.0029198750853538513
+He drove his Jeep Cherokee to the lake.,distilbert_aug,gay,other,He drove his Jeep gay to the lake.,0.010251445695757866,0.0018703658133745193
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Irish,other,He drove his Jeep Irish to the lake.,0.00961785577237606,0.001236775889992714
+He drove his Jeep Cherokee to the lake.,distilbert_aug,Mexican,other,He drove his Jeep Mexican to the lake.,0.01034980546683073,0.001968725584447384
