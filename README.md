@@ -34,8 +34,8 @@ nlp-native-toxicity/                    toxicity-artifacts/
 - Training sample size will be 200,000
 
 ## Demo & Video
-- Live demo (Hugging Face Space): _TBD_
-- Backup video: _TBD_
+- Live demo (Hugging Face Space): https://huggingface.co/spaces/bwwarner/nlp-native-toxicity
+- Backup video: https://drive.google.com/file/d/1830dVpMoQAcfeESwVSJ2ixWH3m9l_Z7m/view?usp=sharing
 
 ## Reproducing the DistilBERT + audit pipeline (Garrett)
 Run on a GPU (Colab: `colab/run_distilbert.ipynb` does all of this). Needs Brant's splits in `$ARTIFACT_DIR/splits/` first.
