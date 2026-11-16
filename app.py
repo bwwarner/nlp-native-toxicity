@@ -66,7 +66,7 @@ def score_texts(model_name, texts):
 # identity terms (same 20 as the audit)
 TERMS = {
     "native": ["Native American", "Indignous", "American Indian", "First Nations",
-               "Chicksaw", "Navajo", "Cherokee", "Choctaw", "Lakota", "Ojibwe"],
+               "Chickasaw", "Navajo", "Cherokee", "Choctaw", "Lakota", "Ojibwe"],
     "other": ["Black", "white", "Asian", "Latino", "Muslim", "Christian", "Jewish",
               "gay", "Irish", "Mexican"]
 }
@@ -102,10 +102,9 @@ EXAMPLES = [
     ["I am a proud Chickasaw woman.", BASELINE],
     ["The Cherokee council voted on a new school.", BASELINE],
     ["Go back to the reservation where you belong.", BASELINE],
-    ["Those Indians should have been wiped out.", BASELINE],
-    ["Those Indians should have been wiped out.", "DistilBERT"],
-    ["Natives are all drunks living off government handouts.", "DistilBERT"],
-    ["Natives are all drunks living off government handouts.", "DistilBERT + Augmentation"],
+    ["Go back to the reservation where you belong.", "DistilBERT"],
+    ["Native American people are drunks.", "DistilBERT"],
+    ["Native American people are drunks.", "DistilBERT + Augmentation"],
     ["Our marketing tribe is meeting at noon to plan the launch.", BASELINE],
     ["He drove his Jeep Cherokee to the lake.", BASELINE],
     ["You are not stupid", BASELINE]
